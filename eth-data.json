@@ -1,0 +1,8999 @@
+{
+	"ethereum": [
+		{
+			"date": "17/8/2017",
+			"price_usd": "312.18",
+			"trading_volume": "1890017.53"
+		},
+		{
+			"date": "18/8/2017",
+			"price_usd": "311.79",
+			"trading_volume": "2815460.24"
+		},
+		{
+			"date": "19/8/2017",
+			"price_usd": "299.9",
+			"trading_volume": "618248.58"
+		},
+		{
+			"date": "20/8/2017",
+			"price_usd": "300.53",
+			"trading_volume": "730800.66"
+		},
+		{
+			"date": "21/8/2017",
+			"price_usd": "346.52",
+			"trading_volume": "1661944.36"
+		},
+		{
+			"date": "22/8/2017",
+			"price_usd": "330.41",
+			"trading_volume": "2408767.25"
+		},
+		{
+			"date": "23/8/2017",
+			"price_usd": "324.99",
+			"trading_volume": "2711275.03"
+		},
+		{
+			"date": "24/8/2017",
+			"price_usd": "328.04",
+			"trading_volume": "2113017.42"
+		},
+		{
+			"date": "25/8/2017",
+			"price_usd": "338.28",
+			"trading_volume": "2321556.04"
+		},
+		{
+			"date": "26/8/2017",
+			"price_usd": "335.44",
+			"trading_volume": "1583578.33"
+		},
+		{
+			"date": "27/8/2017",
+			"price_usd": "348.13",
+			"trading_volume": "1536125.51"
+		},
+		{
+			"date": "28/8/2017",
+			"price_usd": "351",
+			"trading_volume": "1447042.11"
+		},
+		{
+			"date": "29/8/2017",
+			"price_usd": "377.6",
+			"trading_volume": "1054485.89"
+		},
+		{
+			"date": "30/8/2017",
+			"price_usd": "393.71",
+			"trading_volume": "1636125.32"
+		},
+		{
+			"date": "31/8/2017",
+			"price_usd": "389.36",
+			"trading_volume": "1681160.72"
+		},
+		{
+			"date": "1/9/2017",
+			"price_usd": "394.39",
+			"trading_volume": "1618914.43"
+		},
+		{
+			"date": "2/9/2017",
+			"price_usd": "394.32",
+			"trading_volume": "2791543.78"
+		},
+		{
+			"date": "3/9/2017",
+			"price_usd": "367.28",
+			"trading_volume": "1718948.68"
+		},
+		{
+			"date": "4/9/2017",
+			"price_usd": "344.55",
+			"trading_volume": "1893325.25"
+		},
+		{
+			"date": "5/9/2017",
+			"price_usd": "321.52",
+			"trading_volume": "2253410.75"
+		},
+		{
+			"date": "6/9/2017",
+			"price_usd": "336.34",
+			"trading_volume": "1714528.14"
+		},
+		{
+			"date": "7/9/2017",
+			"price_usd": "342.5",
+			"trading_volume": "985179.06"
+		},
+		{
+			"date": "8/9/2017",
+			"price_usd": "335.1",
+			"trading_volume": "1481290.06"
+		},
+		{
+			"date": "9/9/2017",
+			"price_usd": "307",
+			"trading_volume": "805572.88"
+		},
+		{
+			"date": "10/9/2017",
+			"price_usd": "302.78",
+			"trading_volume": "1155244.93"
+		},
+		{
+			"date": "11/9/2017",
+			"price_usd": "304.98",
+			"trading_volume": "1421764.78"
+		},
+		{
+			"date": "12/9/2017",
+			"price_usd": "316.46",
+			"trading_volume": "1562612.65"
+		},
+		{
+			"date": "13/9/2017",
+			"price_usd": "294.5",
+			"trading_volume": "1730175.07"
+		},
+		{
+			"date": "14/9/2017",
+			"price_usd": "283.77",
+			"trading_volume": "3082667.27"
+		},
+		{
+			"date": "15/9/2017",
+			"price_usd": "270.93",
+			"trading_volume": "3291332.29"
+		},
+		{
+			"date": "16/9/2017",
+			"price_usd": "271.81",
+			"trading_volume": "2621693.27"
+		},
+		{
+			"date": "17/9/2017",
+			"price_usd": "264.39",
+			"trading_volume": "1143692.64"
+		},
+		{
+			"date": "18/9/2017",
+			"price_usd": "306.22",
+			"trading_volume": "1181549.67"
+		},
+		{
+			"date": "19/9/2017",
+			"price_usd": "300",
+			"trading_volume": "532540.71"
+		},
+		{
+			"date": "20/9/2017",
+			"price_usd": "294",
+			"trading_volume": "301038.78"
+		},
+		{
+			"date": "21/9/2017",
+			"price_usd": "287",
+			"trading_volume": "515321.69"
+		},
+		{
+			"date": "22/9/2017",
+			"price_usd": "272.97",
+			"trading_volume": "382707.68"
+		},
+		{
+			"date": "23/9/2017",
+			"price_usd": "286.23",
+			"trading_volume": "788085.05"
+		},
+		{
+			"date": "24/9/2017",
+			"price_usd": "294.61",
+			"trading_volume": "1574147.48"
+		},
+		{
+			"date": "25/9/2017",
+			"price_usd": "299",
+			"trading_volume": "1702847.03"
+		},
+		{
+			"date": "26/9/2017",
+			"price_usd": "296.81",
+			"trading_volume": "1320510.93"
+		},
+		{
+			"date": "27/9/2017",
+			"price_usd": "313",
+			"trading_volume": "1626645.28"
+		},
+		{
+			"date": "28/9/2017",
+			"price_usd": "311.81",
+			"trading_volume": "1984843.83"
+		},
+		{
+			"date": "29/9/2017",
+			"price_usd": "303",
+			"trading_volume": "3187358.83"
+		},
+		{
+			"date": "30/9/2017",
+			"price_usd": "307.49",
+			"trading_volume": "1207595.88"
+		},
+		{
+			"date": "1/10/2017",
+			"price_usd": "306",
+			"trading_volume": "1511264.71"
+		},
+		{
+			"date": "2/10/2017",
+			"price_usd": "305",
+			"trading_volume": "1104217.48"
+		},
+		{
+			"date": "3/10/2017",
+			"price_usd": "301.99",
+			"trading_volume": "1614235.08"
+		},
+		{
+			"date": "4/10/2017",
+			"price_usd": "297.97",
+			"trading_volume": "1168807.66"
+		},
+		{
+			"date": "5/10/2017",
+			"price_usd": "297.44",
+			"trading_volume": "982644.49"
+		},
+		{
+			"date": "6/10/2017",
+			"price_usd": "310.8",
+			"trading_volume": "1054697"
+		},
+		{
+			"date": "7/10/2017",
+			"price_usd": "318.5",
+			"trading_volume": "658190.78"
+		},
+		{
+			"date": "8/10/2017",
+			"price_usd": "317.07",
+			"trading_volume": "921220.96"
+		},
+		{
+			"date": "9/10/2017",
+			"price_usd": "312.13",
+			"trading_volume": "1452816.74"
+		},
+		{
+			"date": "10/10/2017",
+			"price_usd": "308.56",
+			"trading_volume": "2011440.17"
+		},
+		{
+			"date": "11/10/2017",
+			"price_usd": "305.5",
+			"trading_volume": "1122578.04"
+		},
+		{
+			"date": "12/10/2017",
+			"price_usd": "310",
+			"trading_volume": "2381102.13"
+		},
+		{
+			"date": "13/10/2017",
+			"price_usd": "353.96",
+			"trading_volume": "5782386.5"
+		},
+		{
+			"date": "14/10/2017",
+			"price_usd": "349.8",
+			"trading_volume": "2644022.46"
+		},
+		{
+			"date": "15/10/2017",
+			"price_usd": "348",
+			"trading_volume": "3311218.81"
+		},
+		{
+			"date": "16/10/2017",
+			"price_usd": "354",
+			"trading_volume": "2946408.58"
+		},
+		{
+			"date": "17/10/2017",
+			"price_usd": "336.58",
+			"trading_volume": "2620614.96"
+		},
+		{
+			"date": "18/10/2017",
+			"price_usd": "318",
+			"trading_volume": "3877210.96"
+		},
+		{
+			"date": "19/10/2017",
+			"price_usd": "315",
+			"trading_volume": "2662555.18"
+		},
+		{
+			"date": "20/10/2017",
+			"price_usd": "311.18",
+			"trading_volume": "2654276.53"
+		},
+		{
+			"date": "21/10/2017",
+			"price_usd": "305.34",
+			"trading_volume": "2531002.63"
+		},
+		{
+			"date": "22/10/2017",
+			"price_usd": "306.99",
+			"trading_volume": "2113555.82"
+		},
+		{
+			"date": "23/10/2017",
+			"price_usd": "294.6",
+			"trading_volume": "2720877.48"
+		},
+		{
+			"date": "24/10/2017",
+			"price_usd": "310",
+			"trading_volume": "4230858.49"
+		},
+		{
+			"date": "25/10/2017",
+			"price_usd": "300",
+			"trading_volume": "2818151.89"
+		},
+		{
+			"date": "26/10/2017",
+			"price_usd": "299.76",
+			"trading_volume": "2290879.1"
+		},
+		{
+			"date": "27/10/2017",
+			"price_usd": "298.1",
+			"trading_volume": "1840292.6"
+		},
+		{
+			"date": "28/10/2017",
+			"price_usd": "297",
+			"trading_volume": "1711301.74"
+		},
+		{
+			"date": "29/10/2017",
+			"price_usd": "309.4",
+			"trading_volume": "2702954.94"
+		},
+		{
+			"date": "30/10/2017",
+			"price_usd": "316",
+			"trading_volume": "2725859.28"
+		},
+		{
+			"date": "31/10/2017",
+			"price_usd": "309.99",
+			"trading_volume": "2344790.92"
+		},
+		{
+			"date": "1/11/2017",
+			"price_usd": "305.9",
+			"trading_volume": "2938149.94"
+		},
+		{
+			"date": "2/11/2017",
+			"price_usd": "293",
+			"trading_volume": "3736468.51"
+		},
+		{
+			"date": "3/11/2017",
+			"price_usd": "307",
+			"trading_volume": "2360525.71"
+		},
+		{
+			"date": "4/11/2017",
+			"price_usd": "304.99",
+			"trading_volume": "2315342.78"
+		},
+		{
+			"date": "5/11/2017",
+			"price_usd": "302.14",
+			"trading_volume": "1967164.34"
+		},
+		{
+			"date": "6/11/2017",
+			"price_usd": "305.58",
+			"trading_volume": "2218959.5"
+		},
+		{
+			"date": "7/11/2017",
+			"price_usd": "303.52",
+			"trading_volume": "2731426.72"
+		},
+		{
+			"date": "8/11/2017",
+			"price_usd": "320",
+			"trading_volume": "4729826.12"
+		},
+		{
+			"date": "9/11/2017",
+			"price_usd": "329",
+			"trading_volume": "3509086.96"
+		},
+		{
+			"date": "10/11/2017",
+			"price_usd": "322.65",
+			"trading_volume": "4721270.61"
+		},
+		{
+			"date": "11/11/2017",
+			"price_usd": "318",
+			"trading_volume": "3256927.49"
+		},
+		{
+			"date": "12/11/2017",
+			"price_usd": "316.99",
+			"trading_volume": "6276531.03"
+		},
+		{
+			"date": "13/11/2017",
+			"price_usd": "318.88",
+			"trading_volume": "4804508.58"
+		},
+		{
+			"date": "14/11/2017",
+			"price_usd": "337.54",
+			"trading_volume": "5682689.3"
+		},
+		{
+			"date": "15/11/2017",
+			"price_usd": "339",
+			"trading_volume": "5116263.34"
+		},
+		{
+			"date": "16/11/2017",
+			"price_usd": "334.75",
+			"trading_volume": "4612016.7"
+		},
+		{
+			"date": "17/11/2017",
+			"price_usd": "334.6",
+			"trading_volume": "5951281.48"
+		},
+		{
+			"date": "18/11/2017",
+			"price_usd": "349.9",
+			"trading_volume": "4735608.57"
+		},
+		{
+			"date": "19/11/2017",
+			"price_usd": "373.56",
+			"trading_volume": "6853939.68"
+		},
+		{
+			"date": "20/11/2017",
+			"price_usd": "372.5",
+			"trading_volume": "6522412.41"
+		},
+		{
+			"date": "21/11/2017",
+			"price_usd": "375.5",
+			"trading_volume": "9403802.37"
+		},
+		{
+			"date": "22/11/2017",
+			"price_usd": "384.84",
+			"trading_volume": "6582637.83"
+		},
+		{
+			"date": "23/11/2017",
+			"price_usd": "425",
+			"trading_volume": "9979407.1"
+		},
+		{
+			"date": "24/11/2017",
+			"price_usd": "475",
+			"trading_volume": "12904066.22"
+		},
+		{
+			"date": "25/11/2017",
+			"price_usd": "484.47",
+			"trading_volume": "9825209.52"
+		},
+		{
+			"date": "26/11/2017",
+			"price_usd": "465",
+			"trading_volume": "9794537.68"
+		},
+		{
+			"date": "27/11/2017",
+			"price_usd": "486.94",
+			"trading_volume": "11092308.97"
+		},
+		{
+			"date": "28/11/2017",
+			"price_usd": "477.5",
+			"trading_volume": "11077396.79"
+		},
+		{
+			"date": "29/11/2017",
+			"price_usd": "515",
+			"trading_volume": "23217199.77"
+		},
+		{
+			"date": "30/11/2017",
+			"price_usd": "460",
+			"trading_volume": "18862295.63"
+		},
+		{
+			"date": "1/12/2017",
+			"price_usd": "465.97",
+			"trading_volume": "14317733.79"
+		},
+		{
+			"date": "2/12/2017",
+			"price_usd": "471.91",
+			"trading_volume": "11749838.63"
+		},
+		{
+			"date": "3/12/2017",
+			"price_usd": "485.9",
+			"trading_volume": "11328969.12"
+		},
+		{
+			"date": "4/12/2017",
+			"price_usd": "470.98",
+			"trading_volume": "10495993.46"
+		},
+		{
+			"date": "5/12/2017",
+			"price_usd": "468.67",
+			"trading_volume": "11542893.64"
+		},
+		{
+			"date": "6/12/2017",
+			"price_usd": "455.1",
+			"trading_volume": "16319473.42"
+		},
+		{
+			"date": "7/12/2017",
+			"price_usd": "427.61",
+			"trading_volume": "16448315.18"
+		},
+		{
+			"date": "8/12/2017",
+			"price_usd": "456.78",
+			"trading_volume": "17138384.6"
+		},
+		{
+			"date": "9/12/2017",
+			"price_usd": "488",
+			"trading_volume": "18959683.2"
+		},
+		{
+			"date": "10/12/2017",
+			"price_usd": "460.05",
+			"trading_volume": "14810733.68"
+		},
+		{
+			"date": "11/12/2017",
+			"price_usd": "512",
+			"trading_volume": "13524545.46"
+		},
+		{
+			"date": "12/12/2017",
+			"price_usd": "639.27",
+			"trading_volume": "32272500.99"
+		},
+		{
+			"date": "13/12/2017",
+			"price_usd": "705.69",
+			"trading_volume": "35464491.73"
+		},
+		{
+			"date": "14/12/2017",
+			"price_usd": "747.6",
+			"trading_volume": "39405168.61"
+		},
+		{
+			"date": "15/12/2017",
+			"price_usd": "689",
+			"trading_volume": "25295708.27"
+		},
+		{
+			"date": "16/12/2017",
+			"price_usd": "712",
+			"trading_volume": "18224734.51"
+		},
+		{
+			"date": "17/12/2017",
+			"price_usd": "728",
+			"trading_volume": "21975505.95"
+		},
+		{
+			"date": "18/12/2017",
+			"price_usd": "798.88",
+			"trading_volume": "32799947.57"
+		},
+		{
+			"date": "18/12/2017",
+			"price_usd": "798.88",
+			"trading_volume": "32105763.14"
+		},
+		{
+			"date": "19/12/2017",
+			"price_usd": "864.9",
+			"trading_volume": "55123972.02"
+		},
+		{
+			"date": "20/12/2017",
+			"price_usd": "828",
+			"trading_volume": "55604509.75"
+		},
+		{
+			"date": "21/12/2017",
+			"price_usd": "845.99",
+			"trading_volume": "62052521.65"
+		},
+		{
+			"date": "22/12/2017",
+			"price_usd": "796",
+			"trading_volume": "98661808.48"
+		},
+		{
+			"date": "23/12/2017",
+			"price_usd": "714.99",
+			"trading_volume": "53738833.88"
+		},
+		{
+			"date": "24/12/2017",
+			"price_usd": "667.64",
+			"trading_volume": "59101715.15"
+		},
+		{
+			"date": "25/12/2017",
+			"price_usd": "744",
+			"trading_volume": "55108579.68"
+		},
+		{
+			"date": "26/12/2017",
+			"price_usd": "750",
+			"trading_volume": "44216631.9"
+		},
+		{
+			"date": "27/12/2017",
+			"price_usd": "766.05",
+			"trading_volume": "38102246.99"
+		},
+		{
+			"date": "28/12/2017",
+			"price_usd": "744.93",
+			"trading_volume": "50030889.11"
+		},
+		{
+			"date": "29/12/2017",
+			"price_usd": "757.87",
+			"trading_volume": "46838775.82"
+		},
+		{
+			"date": "30/12/2017",
+			"price_usd": "735",
+			"trading_volume": "61752153.66"
+		},
+		{
+			"date": "31/12/2017",
+			"price_usd": "740",
+			"trading_volume": "44570894.8"
+		},
+		{
+			"date": "1/1/2018",
+			"price_usd": "763.55",
+			"trading_volume": "40049370.59"
+		},
+		{
+			"date": "2/1/2018",
+			"price_usd": "899.5",
+			"trading_volume": "95749946.06"
+		},
+		{
+			"date": "3/1/2018",
+			"price_usd": "950.01",
+			"trading_volume": "78173093.71"
+		},
+		{
+			"date": "4/1/2018",
+			"price_usd": "1009.72",
+			"trading_volume": "97740086.59"
+		},
+		{
+			"date": "5/1/2018",
+			"price_usd": "1045",
+			"trading_volume": "95739901.48"
+		},
+		{
+			"date": "6/1/2018",
+			"price_usd": "1017.56",
+			"trading_volume": "71196052.34"
+		},
+		{
+			"date": "7/1/2018",
+			"price_usd": "1125",
+			"trading_volume": "70126945.17"
+		},
+		{
+			"date": "8/1/2018",
+			"price_usd": "1239.18",
+			"trading_volume": "176599793.2"
+		},
+		{
+			"date": "9/1/2018",
+			"price_usd": "1326.5",
+			"trading_volume": "143246762.1"
+		},
+		{
+			"date": "10/1/2018",
+			"price_usd": "1440",
+			"trading_volume": "210902815.5"
+		},
+		{
+			"date": "11/1/2018",
+			"price_usd": "1332.49",
+			"trading_volume": "230792205.9"
+		},
+		{
+			"date": "12/1/2018",
+			"price_usd": "1288.5",
+			"trading_volume": "113367281.8"
+		},
+		{
+			"date": "13/1/2018",
+			"price_usd": "1427.01",
+			"trading_volume": "101824625.3"
+		},
+		{
+			"date": "14/1/2018",
+			"price_usd": "1391.89",
+			"trading_volume": "128517479.7"
+		},
+		{
+			"date": "15/1/2018",
+			"price_usd": "1383.13",
+			"trading_volume": "90732886.24"
+		},
+		{
+			"date": "16/1/2018",
+			"price_usd": "1275.01",
+			"trading_volume": "355819297.5"
+		},
+		{
+			"date": "17/1/2018",
+			"price_usd": "1075.51",
+			"trading_volume": "398063123.7"
+		},
+		{
+			"date": "18/1/2018",
+			"price_usd": "1075.2",
+			"trading_volume": "296964713.7"
+		},
+		{
+			"date": "19/1/2018",
+			"price_usd": "1079",
+			"trading_volume": "171217738.3"
+		},
+		{
+			"date": "20/1/2018",
+			"price_usd": "1165.4",
+			"trading_volume": "137333158.1"
+		},
+		{
+			"date": "21/1/2018",
+			"price_usd": "1152.69",
+			"trading_volume": "186353755.6"
+		},
+		{
+			"date": "22/1/2018",
+			"price_usd": "1090.15",
+			"trading_volume": "185276703.4"
+		},
+		{
+			"date": "23/1/2018",
+			"price_usd": "1030",
+			"trading_volume": "156053774.3"
+		},
+		{
+			"date": "24/1/2018",
+			"price_usd": "1074",
+			"trading_volume": "135793371.3"
+		},
+		{
+			"date": "25/1/2018",
+			"price_usd": "1115",
+			"trading_volume": "127855243.2"
+		},
+		{
+			"date": "26/1/2018",
+			"price_usd": "1082",
+			"trading_volume": "150237011.3"
+		},
+		{
+			"date": "27/1/2018",
+			"price_usd": "1127.99",
+			"trading_volume": "105043056.4"
+		},
+		{
+			"date": "28/1/2018",
+			"price_usd": "1277",
+			"trading_volume": "173283524.9"
+		},
+		{
+			"date": "29/1/2018",
+			"price_usd": "1258.89",
+			"trading_volume": "126282956.2"
+		},
+		{
+			"date": "30/1/2018",
+			"price_usd": "1186.85",
+			"trading_volume": "173857602.8"
+		},
+		{
+			"date": "31/1/2018",
+			"price_usd": "1135",
+			"trading_volume": "109226169.4"
+		},
+		{
+			"date": "1/2/2018",
+			"price_usd": "1164.99",
+			"trading_volume": "220810878.7"
+		},
+		{
+			"date": "2/2/2018",
+			"price_usd": "1047.2",
+			"trading_volume": "348077470.8"
+		},
+		{
+			"date": "3/2/2018",
+			"price_usd": "998",
+			"trading_volume": "150132852.2"
+		},
+		{
+			"date": "4/2/2018",
+			"price_usd": "975",
+			"trading_volume": "163419119"
+		},
+		{
+			"date": "5/2/2018",
+			"price_usd": "862.47",
+			"trading_volume": "270801309.7"
+		},
+		{
+			"date": "6/2/2018",
+			"price_usd": "798",
+			"trading_volume": "435291131"
+		},
+		{
+			"date": "7/2/2018",
+			"price_usd": "849",
+			"trading_volume": "282259408.7"
+		},
+		{
+			"date": "8/2/2018",
+			"price_usd": "786.93",
+			"trading_volume": "8110366.548"
+		},
+		{
+			"date": "9/2/2018",
+			"price_usd": "882.2",
+			"trading_volume": "81316368.02"
+		},
+		{
+			"date": "10/2/2018",
+			"price_usd": "911.2",
+			"trading_volume": "184921265"
+		},
+		{
+			"date": "11/2/2018",
+			"price_usd": "857",
+			"trading_volume": "154647315"
+		},
+		{
+			"date": "12/2/2018",
+			"price_usd": "877.56",
+			"trading_volume": "122610007.9"
+		},
+		{
+			"date": "13/2/2018",
+			"price_usd": "871",
+			"trading_volume": "92966057.38"
+		},
+		{
+			"date": "14/2/2018",
+			"price_usd": "924.99",
+			"trading_volume": "133514830.9"
+		},
+		{
+			"date": "15/2/2018",
+			"price_usd": "946.66",
+			"trading_volume": "143817533.1"
+		},
+		{
+			"date": "16/2/2018",
+			"price_usd": "948.48",
+			"trading_volume": "107292023.6"
+		},
+		{
+			"date": "17/2/2018",
+			"price_usd": "974",
+			"trading_volume": "105637458.5"
+		},
+		{
+			"date": "18/2/2018",
+			"price_usd": "978.5",
+			"trading_volume": "149501060.9"
+		},
+		{
+			"date": "19/2/2018",
+			"price_usd": "956.22",
+			"trading_volume": "75083849.38"
+		},
+		{
+			"date": "20/2/2018",
+			"price_usd": "961",
+			"trading_volume": "111258170"
+		},
+		{
+			"date": "21/2/2018",
+			"price_usd": "908.88",
+			"trading_volume": "151739403"
+		},
+		{
+			"date": "22/2/2018",
+			"price_usd": "871.96",
+			"trading_volume": "112939926.7"
+		},
+		{
+			"date": "23/2/2018",
+			"price_usd": "885",
+			"trading_volume": "130147658"
+		},
+		{
+			"date": "24/2/2018",
+			"price_usd": "875",
+			"trading_volume": "75082869.27"
+		},
+		{
+			"date": "25/2/2018",
+			"price_usd": "849.5",
+			"trading_volume": "49520472.19"
+		},
+		{
+			"date": "26/2/2018",
+			"price_usd": "882",
+			"trading_volume": "64498089.2"
+		},
+		{
+			"date": "27/2/2018",
+			"price_usd": "897.49",
+			"trading_volume": "55793476.98"
+		},
+		{
+			"date": "28/2/2018",
+			"price_usd": "891",
+			"trading_volume": "46744924.42"
+		},
+		{
+			"date": "1/3/2018",
+			"price_usd": "879.96",
+			"trading_volume": "37976139.75"
+		},
+		{
+			"date": "2/3/2018",
+			"price_usd": "876.22",
+			"trading_volume": "34068626.38"
+		},
+		{
+			"date": "3/3/2018",
+			"price_usd": "870.78",
+			"trading_volume": "29487108.37"
+		},
+		{
+			"date": "4/3/2018",
+			"price_usd": "868",
+			"trading_volume": "25364732.86"
+		},
+		{
+			"date": "5/3/2018",
+			"price_usd": "871.75",
+			"trading_volume": "26391332.15"
+		},
+		{
+			"date": "6/3/2018",
+			"price_usd": "853.18",
+			"trading_volume": "40340972.83"
+		},
+		{
+			"date": "7/3/2018",
+			"price_usd": "826.2",
+			"trading_volume": "83030975.9"
+		},
+		{
+			"date": "8/3/2018",
+			"price_usd": "772.07",
+			"trading_volume": "55751521.78"
+		},
+		{
+			"date": "9/3/2018",
+			"price_usd": "727.92",
+			"trading_volume": "79262060.75"
+		},
+		{
+			"date": "10/3/2018",
+			"price_usd": "745",
+			"trading_volume": "45345997.5"
+		},
+		{
+			"date": "11/3/2018",
+			"price_usd": "735",
+			"trading_volume": "51773437.87"
+		},
+		{
+			"date": "12/3/2018",
+			"price_usd": "740.5",
+			"trading_volume": "48042091.35"
+		},
+		{
+			"date": "13/3/2018",
+			"price_usd": "713.76",
+			"trading_volume": "38651705.85"
+		},
+		{
+			"date": "14/3/2018",
+			"price_usd": "703.54",
+			"trading_volume": "57785217.49"
+		},
+		{
+			"date": "15/3/2018",
+			"price_usd": "621.12",
+			"trading_volume": "56487242.01"
+		},
+		{
+			"date": "16/3/2018",
+			"price_usd": "625.3",
+			"trading_volume": "39356556.47"
+		},
+		{
+			"date": "17/3/2018",
+			"price_usd": "609.26",
+			"trading_volume": "39167671.25"
+		},
+		{
+			"date": "18/3/2018",
+			"price_usd": "560",
+			"trading_volume": "125170992.1"
+		},
+		{
+			"date": "19/3/2018",
+			"price_usd": "560",
+			"trading_volume": "99812549.64"
+		},
+		{
+			"date": "20/3/2018",
+			"price_usd": "567.87",
+			"trading_volume": "73696454.56"
+		},
+		{
+			"date": "21/3/2018",
+			"price_usd": "590.52",
+			"trading_volume": "66572210.67"
+		},
+		{
+			"date": "22/3/2018",
+			"price_usd": "578.6",
+			"trading_volume": "60459505.61"
+		},
+		{
+			"date": "23/3/2018",
+			"price_usd": "544.72",
+			"trading_volume": "55542669.04"
+		},
+		{
+			"date": "24/3/2018",
+			"price_usd": "545.99",
+			"trading_volume": "46963103.45"
+		},
+		{
+			"date": "25/3/2018",
+			"price_usd": "536",
+			"trading_volume": "37482165.18"
+		},
+		{
+			"date": "26/3/2018",
+			"price_usd": "527.67",
+			"trading_volume": "74104022.13"
+		},
+		{
+			"date": "27/3/2018",
+			"price_usd": "491.55",
+			"trading_volume": "63816245.43"
+		},
+		{
+			"date": "28/3/2018",
+			"price_usd": "466",
+			"trading_volume": "40547475.95"
+		},
+		{
+			"date": "29/3/2018",
+			"price_usd": "449.43",
+			"trading_volume": "91719449.93"
+		},
+		{
+			"date": "30/3/2018",
+			"price_usd": "412.04",
+			"trading_volume": "112316125.3"
+		},
+		{
+			"date": "31/3/2018",
+			"price_usd": "419.4",
+			"trading_volume": "67461541.59"
+		},
+		{
+			"date": "1/4/2018",
+			"price_usd": "399.91",
+			"trading_volume": "56620178.35"
+		},
+		{
+			"date": "2/4/2018",
+			"price_usd": "394.87",
+			"trading_volume": "43596858.5"
+		},
+		{
+			"date": "3/4/2018",
+			"price_usd": "419.08",
+			"trading_volume": "55385110.15"
+		},
+		{
+			"date": "4/4/2018",
+			"price_usd": "416.5",
+			"trading_volume": "54594624.76"
+		},
+		{
+			"date": "5/4/2018",
+			"price_usd": "387.03",
+			"trading_volume": "45411126.9"
+		},
+		{
+			"date": "6/4/2018",
+			"price_usd": "385.91",
+			"trading_volume": "27645272.52"
+		},
+		{
+			"date": "7/4/2018",
+			"price_usd": "394.75",
+			"trading_volume": "27442723.66"
+		},
+		{
+			"date": "8/4/2018",
+			"price_usd": "404.05",
+			"trading_volume": "22720923.55"
+		},
+		{
+			"date": "9/4/2018",
+			"price_usd": "431.99",
+			"trading_volume": "61605245.87"
+		},
+		{
+			"date": "10/4/2018",
+			"price_usd": "418.68",
+			"trading_volume": "32805764.1"
+		},
+		{
+			"date": "11/4/2018",
+			"price_usd": "433.54",
+			"trading_volume": "36371404.23"
+		},
+		{
+			"date": "12/4/2018",
+			"price_usd": "499",
+			"trading_volume": "113968625.3"
+		},
+		{
+			"date": "13/4/2018",
+			"price_usd": "530",
+			"trading_volume": "127274585"
+		},
+		{
+			"date": "14/4/2018",
+			"price_usd": "515",
+			"trading_volume": "60727364.27"
+		},
+		{
+			"date": "15/4/2018",
+			"price_usd": "535",
+			"trading_volume": "56506254.97"
+		},
+		{
+			"date": "16/4/2018",
+			"price_usd": "538",
+			"trading_volume": "66652300.81"
+		},
+		{
+			"date": "17/4/2018",
+			"price_usd": "521.2",
+			"trading_volume": "49273622.85"
+		},
+		{
+			"date": "18/4/2018",
+			"price_usd": "526.99",
+			"trading_volume": "37673780.84"
+		},
+		{
+			"date": "19/4/2018",
+			"price_usd": "571.61",
+			"trading_volume": "61044208.32"
+		},
+		{
+			"date": "20/4/2018",
+			"price_usd": "622.17",
+			"trading_volume": "93907683.48"
+		},
+		{
+			"date": "21/4/2018",
+			"price_usd": "624.5",
+			"trading_volume": "95664939.94"
+		},
+		{
+			"date": "22/4/2018",
+			"price_usd": "643.49",
+			"trading_volume": "74788729.85"
+		},
+		{
+			"date": "23/4/2018",
+			"price_usd": "649.11",
+			"trading_volume": "49473079.44"
+		},
+		{
+			"date": "24/4/2018",
+			"price_usd": "712.99",
+			"trading_volume": "118180314.7"
+		},
+		{
+			"date": "25/4/2018",
+			"price_usd": "703.3",
+			"trading_volume": "218497368.2"
+		},
+		{
+			"date": "26/4/2018",
+			"price_usd": "666.19",
+			"trading_volume": "98084636.58"
+		},
+		{
+			"date": "27/4/2018",
+			"price_usd": "686.82",
+			"trading_volume": "89621495.42"
+		},
+		{
+			"date": "28/4/2018",
+			"price_usd": "694.9",
+			"trading_volume": "76596615.43"
+		},
+		{
+			"date": "29/4/2018",
+			"price_usd": "700.49",
+			"trading_volume": "75235079.3"
+		},
+		{
+			"date": "30/4/2018",
+			"price_usd": "695.3",
+			"trading_volume": "76654028.98"
+		},
+		{
+			"date": "1/5/2018",
+			"price_usd": "675.6",
+			"trading_volume": "87065924.85"
+		},
+		{
+			"date": "2/5/2018",
+			"price_usd": "691.99",
+			"trading_volume": "58547697.51"
+		},
+		{
+			"date": "3/5/2018",
+			"price_usd": "792.08",
+			"trading_volume": "169982888.3"
+		},
+		{
+			"date": "4/5/2018",
+			"price_usd": "810",
+			"trading_volume": "141283262.9"
+		},
+		{
+			"date": "5/5/2018",
+			"price_usd": "832.66",
+			"trading_volume": "104594301.6"
+		},
+		{
+			"date": "6/5/2018",
+			"price_usd": "839.99",
+			"trading_volume": "132187629.5"
+		},
+		{
+			"date": "7/5/2018",
+			"price_usd": "799.14",
+			"trading_volume": "210066185.3"
+		},
+		{
+			"date": "8/5/2018",
+			"price_usd": "777",
+			"trading_volume": "101156197.3"
+		},
+		{
+			"date": "9/5/2018",
+			"price_usd": "760.74",
+			"trading_volume": "82933836.45"
+		},
+		{
+			"date": "10/5/2018",
+			"price_usd": "769.88",
+			"trading_volume": "76658823.46"
+		},
+		{
+			"date": "11/5/2018",
+			"price_usd": "737.23",
+			"trading_volume": "150336847.8"
+		},
+		{
+			"date": "12/5/2018",
+			"price_usd": "690.2",
+			"trading_volume": "111101666.3"
+		},
+		{
+			"date": "13/5/2018",
+			"price_usd": "742",
+			"trading_volume": "96516164.98"
+		},
+		{
+			"date": "14/5/2018",
+			"price_usd": "743.9",
+			"trading_volume": "131397089.1"
+		},
+		{
+			"date": "15/5/2018",
+			"price_usd": "740",
+			"trading_volume": "91869541.84"
+		},
+		{
+			"date": "16/5/2018",
+			"price_usd": "712.84",
+			"trading_volume": "82315246.51"
+		},
+		{
+			"date": "17/5/2018",
+			"price_usd": "719.25",
+			"trading_volume": "74320001.25"
+		},
+		{
+			"date": "18/5/2018",
+			"price_usd": "694.9",
+			"trading_volume": "72118376.52"
+		},
+		{
+			"date": "19/5/2018",
+			"price_usd": "717.8",
+			"trading_volume": "62026599.81"
+		},
+		{
+			"date": "20/5/2018",
+			"price_usd": "729.88",
+			"trading_volume": "61227466.29"
+		},
+		{
+			"date": "21/5/2018",
+			"price_usd": "720.46",
+			"trading_volume": "67799023.55"
+		},
+		{
+			"date": "22/5/2018",
+			"price_usd": "699.6",
+			"trading_volume": "72112726.84"
+		},
+		{
+			"date": "23/5/2018",
+			"price_usd": "669",
+			"trading_volume": "155638543.8"
+		},
+		{
+			"date": "24/5/2018",
+			"price_usd": "612.1",
+			"trading_volume": "114324332.3"
+		},
+		{
+			"date": "25/5/2018",
+			"price_usd": "617.46",
+			"trading_volume": "70118224.93"
+		},
+		{
+			"date": "26/5/2018",
+			"price_usd": "607.62",
+			"trading_volume": "46205282.69"
+		},
+		{
+			"date": "27/5/2018",
+			"price_usd": "592",
+			"trading_volume": "55737244.52"
+		},
+		{
+			"date": "28/5/2018",
+			"price_usd": "576.2",
+			"trading_volume": "81950608.39"
+		},
+		{
+			"date": "29/5/2018",
+			"price_usd": "573.43",
+			"trading_volume": "103113233.7"
+		},
+		{
+			"date": "30/5/2018",
+			"price_usd": "585.83",
+			"trading_volume": "68698935.18"
+		},
+		{
+			"date": "31/5/2018",
+			"price_usd": "586.73",
+			"trading_volume": "57312700.87"
+		},
+		{
+			"date": "1/6/2018",
+			"price_usd": "590.26",
+			"trading_volume": "48334174.76"
+		},
+		{
+			"date": "2/6/2018",
+			"price_usd": "599.17",
+			"trading_volume": "47346968.13"
+		},
+		{
+			"date": "3/6/2018",
+			"price_usd": "628.81",
+			"trading_volume": "51660963.91"
+		},
+		{
+			"date": "4/6/2018",
+			"price_usd": "625.47",
+			"trading_volume": "57791317.73"
+		},
+		{
+			"date": "5/6/2018",
+			"price_usd": "614",
+			"trading_volume": "52918830.21"
+		},
+		{
+			"date": "6/6/2018",
+			"price_usd": "613.35",
+			"trading_volume": "42406036.34"
+		},
+		{
+			"date": "7/6/2018",
+			"price_usd": "618",
+			"trading_volume": "36622061.4"
+		},
+		{
+			"date": "8/6/2018",
+			"price_usd": "608.45",
+			"trading_volume": "29570758.38"
+		},
+		{
+			"date": "9/6/2018",
+			"price_usd": "608.97",
+			"trading_volume": "23425391.98"
+		},
+		{
+			"date": "10/6/2018",
+			"price_usd": "592.87",
+			"trading_volume": "103749727.2"
+		},
+		{
+			"date": "11/6/2018",
+			"price_usd": "535.51",
+			"trading_volume": "76462994.87"
+		},
+		{
+			"date": "12/6/2018",
+			"price_usd": "538.88",
+			"trading_volume": "81341580.82"
+		},
+		{
+			"date": "13/6/2018",
+			"price_usd": "501.97",
+			"trading_volume": "86416386.63"
+		},
+		{
+			"date": "14/6/2018",
+			"price_usd": "529",
+			"trading_volume": "102374390"
+		},
+		{
+			"date": "15/6/2018",
+			"price_usd": "521",
+			"trading_volume": "80145974.85"
+		},
+		{
+			"date": "16/6/2018",
+			"price_usd": "503.28",
+			"trading_volume": "64919187.05"
+		},
+		{
+			"date": "17/6/2018",
+			"price_usd": "507.6",
+			"trading_volume": "58745118.71"
+		},
+		{
+			"date": "18/6/2018",
+			"price_usd": "524.48",
+			"trading_volume": "72402471.35"
+		},
+		{
+			"date": "19/6/2018",
+			"price_usd": "548.2",
+			"trading_volume": "78382588.54"
+		},
+		{
+			"date": "20/6/2018",
+			"price_usd": "542.02",
+			"trading_volume": "65285793.65"
+		},
+		{
+			"date": "21/6/2018",
+			"price_usd": "544.98",
+			"trading_volume": "42586318.5"
+		},
+		{
+			"date": "22/6/2018",
+			"price_usd": "526.44",
+			"trading_volume": "102306774.8"
+		},
+		{
+			"date": "23/6/2018",
+			"price_usd": "481",
+			"trading_volume": "44316379.47"
+		},
+		{
+			"date": "24/6/2018",
+			"price_usd": "475.81",
+			"trading_volume": "88505534.66"
+		},
+		{
+			"date": "25/6/2018",
+			"price_usd": "474.47",
+			"trading_volume": "56436062.45"
+		},
+		{
+			"date": "26/6/2018",
+			"price_usd": "460.81",
+			"trading_volume": "37307967.11"
+		},
+		{
+			"date": "27/6/2018",
+			"price_usd": "445.95",
+			"trading_volume": "42947280.72"
+		},
+		{
+			"date": "28/6/2018",
+			"price_usd": "443.96",
+			"trading_volume": "48557224.77"
+		},
+		{
+			"date": "29/6/2018",
+			"price_usd": "442",
+			"trading_volume": "66573394.28"
+		},
+		{
+			"date": "30/6/2018",
+			"price_usd": "463.15",
+			"trading_volume": "70748384.85"
+		},
+		{
+			"date": "1/7/2018",
+			"price_usd": "457.77",
+			"trading_volume": "50173671.42"
+		},
+		{
+			"date": "2/7/2018",
+			"price_usd": "481.83",
+			"trading_volume": "84408714.71"
+		},
+		{
+			"date": "3/7/2018",
+			"price_usd": "486.98",
+			"trading_volume": "88130206.05"
+		},
+		{
+			"date": "4/7/2018",
+			"price_usd": "482.7",
+			"trading_volume": "48042056.08"
+		},
+		{
+			"date": "5/7/2018",
+			"price_usd": "480",
+			"trading_volume": "59119270.52"
+		},
+		{
+			"date": "6/7/2018",
+			"price_usd": "476",
+			"trading_volume": "46633547.17"
+		},
+		{
+			"date": "7/7/2018",
+			"price_usd": "487.99",
+			"trading_volume": "39311721.86"
+		},
+		{
+			"date": "8/7/2018",
+			"price_usd": "495.98",
+			"trading_volume": "70523945.99"
+		},
+		{
+			"date": "9/7/2018",
+			"price_usd": "488.98",
+			"trading_volume": "42954426.84"
+		},
+		{
+			"date": "10/7/2018",
+			"price_usd": "473.23",
+			"trading_volume": "77742521.13"
+		},
+		{
+			"date": "11/7/2018",
+			"price_usd": "452.69",
+			"trading_volume": "69570597.67"
+		},
+		{
+			"date": "12/7/2018",
+			"price_usd": "445.36",
+			"trading_volume": "78631113.03"
+		},
+		{
+			"date": "13/7/2018",
+			"price_usd": "442.47",
+			"trading_volume": "65466673.8"
+		},
+		{
+			"date": "14/7/2018",
+			"price_usd": "440",
+			"trading_volume": "53029892.4"
+		},
+		{
+			"date": "15/7/2018",
+			"price_usd": "455",
+			"trading_volume": "62248916.06"
+		},
+		{
+			"date": "16/7/2018",
+			"price_usd": "480.57",
+			"trading_volume": "80398354.46"
+		},
+		{
+			"date": "17/7/2018",
+			"price_usd": "512",
+			"trading_volume": "104290230.2"
+		},
+		{
+			"date": "18/7/2018",
+			"price_usd": "515.47",
+			"trading_volume": "116671540.5"
+		},
+		{
+			"date": "19/7/2018",
+			"price_usd": "484.15",
+			"trading_volume": "81153216.49"
+		},
+		{
+			"date": "20/7/2018",
+			"price_usd": "471.02",
+			"trading_volume": "73878492.44"
+		},
+		{
+			"date": "21/7/2018",
+			"price_usd": "468.97",
+			"trading_volume": "34051603.36"
+		},
+		{
+			"date": "22/7/2018",
+			"price_usd": "472.2",
+			"trading_volume": "28129475.21"
+		},
+		{
+			"date": "23/7/2018",
+			"price_usd": "469.82",
+			"trading_volume": "49054903.28"
+		},
+		{
+			"date": "24/7/2018",
+			"price_usd": "484.27",
+			"trading_volume": "74269738.42"
+		},
+		{
+			"date": "25/7/2018",
+			"price_usd": "485.77",
+			"trading_volume": "80868121.11"
+		},
+		{
+			"date": "26/7/2018",
+			"price_usd": "485",
+			"trading_volume": "82819272.57"
+		},
+		{
+			"date": "27/7/2018",
+			"price_usd": "474",
+			"trading_volume": "92234746.46"
+		},
+		{
+			"date": "28/7/2018",
+			"price_usd": "472",
+			"trading_volume": "73310723.78"
+		},
+		{
+			"date": "29/7/2018",
+			"price_usd": "472",
+			"trading_volume": "64627164.92"
+		},
+		{
+			"date": "30/7/2018",
+			"price_usd": "469.79",
+			"trading_volume": "82428123.81"
+		},
+		{
+			"date": "31/7/2018",
+			"price_usd": "457.3",
+			"trading_volume": "94399725.75"
+		},
+		{
+			"date": "1/8/2018",
+			"price_usd": "434.99",
+			"trading_volume": "88066594.01"
+		},
+		{
+			"date": "2/8/2018",
+			"price_usd": "425.52",
+			"trading_volume": "74102793.63"
+		},
+		{
+			"date": "3/8/2018",
+			"price_usd": "420.01",
+			"trading_volume": "82442762.71"
+		},
+		{
+			"date": "4/8/2018",
+			"price_usd": "419.53",
+			"trading_volume": "73796154.8"
+		},
+		{
+			"date": "5/8/2018",
+			"price_usd": "413.24",
+			"trading_volume": "64593904.84"
+		},
+		{
+			"date": "6/8/2018",
+			"price_usd": "413.28",
+			"trading_volume": "67757484.94"
+		},
+		{
+			"date": "7/8/2018",
+			"price_usd": "412.76",
+			"trading_volume": "83083795.05"
+		},
+		{
+			"date": "8/8/2018",
+			"price_usd": "380.42",
+			"trading_volume": "100391980.2"
+		},
+		{
+			"date": "9/8/2018",
+			"price_usd": "369.9",
+			"trading_volume": "88131409.54"
+		},
+		{
+			"date": "10/8/2018",
+			"price_usd": "365.87",
+			"trading_volume": "93178451.14"
+		},
+		{
+			"date": "11/8/2018",
+			"price_usd": "332.98",
+			"trading_volume": "106734997.2"
+		},
+		{
+			"date": "12/8/2018",
+			"price_usd": "327.13",
+			"trading_volume": "43466733.75"
+		},
+		{
+			"date": "13/8/2018",
+			"price_usd": "321.99",
+			"trading_volume": "94158006.49"
+		},
+		{
+			"date": "14/8/2018",
+			"price_usd": "283.81",
+			"trading_volume": "127753385"
+		},
+		{
+			"date": "15/8/2018",
+			"price_usd": "304.45",
+			"trading_volume": "126037140.7"
+		},
+		{
+			"date": "16/8/2018",
+			"price_usd": "298.6",
+			"trading_volume": "67837020.51"
+		},
+		{
+			"date": "17/8/2018",
+			"price_usd": "318",
+			"trading_volume": "103050444.6"
+		},
+		{
+			"date": "18/8/2018",
+			"price_usd": "321.33",
+			"trading_volume": "115559326.6"
+		},
+		{
+			"date": "19/8/2018",
+			"price_usd": "307.4",
+			"trading_volume": "85661942.29"
+		},
+		{
+			"date": "20/8/2018",
+			"price_usd": "304.04",
+			"trading_volume": "63253937.42"
+		},
+		{
+			"date": "21/8/2018",
+			"price_usd": "285.9",
+			"trading_volume": "62384768.41"
+		},
+		{
+			"date": "22/8/2018",
+			"price_usd": "298.89",
+			"trading_volume": "113458567.8"
+		},
+		{
+			"date": "23/8/2018",
+			"price_usd": "280.3",
+			"trading_volume": "75819913.2"
+		},
+		{
+			"date": "24/8/2018",
+			"price_usd": "283.1",
+			"trading_volume": "75029435.43"
+		},
+		{
+			"date": "25/8/2018",
+			"price_usd": "282.71",
+			"trading_volume": "70728357.01"
+		},
+		{
+			"date": "26/8/2018",
+			"price_usd": "277.91",
+			"trading_volume": "63548492.84"
+		},
+		{
+			"date": "27/8/2018",
+			"price_usd": "288.15",
+			"trading_volume": "77863316"
+		},
+		{
+			"date": "28/8/2018",
+			"price_usd": "298",
+			"trading_volume": "91895213.46"
+		},
+		{
+			"date": "29/8/2018",
+			"price_usd": "297",
+			"trading_volume": "94515756.42"
+		},
+		{
+			"date": "30/8/2018",
+			"price_usd": "291",
+			"trading_volume": "94748097.37"
+		},
+		{
+			"date": "31/8/2018",
+			"price_usd": "289",
+			"trading_volume": "84967488.71"
+		},
+		{
+			"date": "1/9/2018",
+			"price_usd": "302",
+			"trading_volume": "86146416.37"
+		},
+		{
+			"date": "2/9/2018",
+			"price_usd": "299.33",
+			"trading_volume": "45141040.56"
+		},
+		{
+			"date": "3/9/2018",
+			"price_usd": "296.62",
+			"trading_volume": "79640131.71"
+		},
+		{
+			"date": "4/9/2018",
+			"price_usd": "292.64",
+			"trading_volume": "94920949.99"
+		},
+		{
+			"date": "5/9/2018",
+			"price_usd": "287.62",
+			"trading_volume": "136620124"
+		},
+		{
+			"date": "6/9/2018",
+			"price_usd": "233.19",
+			"trading_volume": "124860778.4"
+		},
+		{
+			"date": "7/9/2018",
+			"price_usd": "234.69",
+			"trading_volume": "88670418.82"
+		},
+		{
+			"date": "8/9/2018",
+			"price_usd": "220.2",
+			"trading_volume": "65385376.79"
+		},
+		{
+			"date": "9/9/2018",
+			"price_usd": "208.6",
+			"trading_volume": "84861381.28"
+		},
+		{
+			"date": "10/9/2018",
+			"price_usd": "203.42",
+			"trading_volume": "81950595.02"
+		},
+		{
+			"date": "11/9/2018",
+			"price_usd": "200.2",
+			"trading_volume": "89920137.2"
+		},
+		{
+			"date": "12/9/2018",
+			"price_usd": "185.22",
+			"trading_volume": "88384821.01"
+		},
+		{
+			"date": "13/9/2018",
+			"price_usd": "215",
+			"trading_volume": "147281547.2"
+		},
+		{
+			"date": "14/9/2018",
+			"price_usd": "224.2",
+			"trading_volume": "177613712.1"
+		},
+		{
+			"date": "15/9/2018",
+			"price_usd": "227.42",
+			"trading_volume": "96594593.56"
+		},
+		{
+			"date": "16/9/2018",
+			"price_usd": "223.5",
+			"trading_volume": "92372399.96"
+		},
+		{
+			"date": "17/9/2018",
+			"price_usd": "225",
+			"trading_volume": "173019109.9"
+		},
+		{
+			"date": "18/9/2018",
+			"price_usd": "215.47",
+			"trading_volume": "118777847.6"
+		},
+		{
+			"date": "19/9/2018",
+			"price_usd": "214.84",
+			"trading_volume": "103133667.4"
+		},
+		{
+			"date": "20/9/2018",
+			"price_usd": "226.68",
+			"trading_volume": "121706784.8"
+		},
+		{
+			"date": "21/9/2018",
+			"price_usd": "252.11",
+			"trading_volume": "195225669.8"
+		},
+		{
+			"date": "22/9/2018",
+			"price_usd": "255.13",
+			"trading_volume": "102510891.9"
+		},
+		{
+			"date": "23/9/2018",
+			"price_usd": "249.73",
+			"trading_volume": "57084614.93"
+		},
+		{
+			"date": "24/9/2018",
+			"price_usd": "246.2",
+			"trading_volume": "82504630.52"
+		},
+		{
+			"date": "25/9/2018",
+			"price_usd": "228.1",
+			"trading_volume": "151991600.9"
+		},
+		{
+			"date": "26/9/2018",
+			"price_usd": "223.6",
+			"trading_volume": "132187818.9"
+		},
+		{
+			"date": "27/9/2018",
+			"price_usd": "234",
+			"trading_volume": "128104933.4"
+		},
+		{
+			"date": "28/9/2018",
+			"price_usd": "234.42",
+			"trading_volume": "139637602.1"
+		},
+		{
+			"date": "29/9/2018",
+			"price_usd": "237.77",
+			"trading_volume": "137238908.4"
+		},
+		{
+			"date": "30/9/2018",
+			"price_usd": "239",
+			"trading_volume": "100778882"
+		},
+		{
+			"date": "1/10/2018",
+			"price_usd": "235.88",
+			"trading_volume": "74363466.52"
+		},
+		{
+			"date": "2/10/2018",
+			"price_usd": "232.51",
+			"trading_volume": "91706335.34"
+		},
+		{
+			"date": "3/10/2018",
+			"price_usd": "226.43",
+			"trading_volume": "60784387.7"
+		},
+		{
+			"date": "4/10/2018",
+			"price_usd": "227.16",
+			"trading_volume": "35468959.26"
+		},
+		{
+			"date": "5/10/2018",
+			"price_usd": "231.75",
+			"trading_volume": "30900558.88"
+		},
+		{
+			"date": "6/10/2018",
+			"price_usd": "228.86",
+			"trading_volume": "22656352.82"
+		},
+		{
+			"date": "7/10/2018",
+			"price_usd": "227.75",
+			"trading_volume": "16774573.69"
+		},
+		{
+			"date": "8/10/2018",
+			"price_usd": "232.7",
+			"trading_volume": "48017160.06"
+		},
+		{
+			"date": "9/10/2018",
+			"price_usd": "231.02",
+			"trading_volume": "22933859.79"
+		},
+		{
+			"date": "10/10/2018",
+			"price_usd": "228.78",
+			"trading_volume": "27773272.16"
+		},
+		{
+			"date": "11/10/2018",
+			"price_usd": "226.91",
+			"trading_volume": "101069066.8"
+		},
+		{
+			"date": "12/10/2018",
+			"price_usd": "201.87",
+			"trading_volume": "42627353.08"
+		},
+		{
+			"date": "13/10/2018",
+			"price_usd": "202.78",
+			"trading_volume": "21498264.31"
+		},
+		{
+			"date": "14/10/2018",
+			"price_usd": "203.56",
+			"trading_volume": "22180535.07"
+		},
+		{
+			"date": "15/10/2018",
+			"price_usd": "239",
+			"trading_volume": "212166629.6"
+		},
+		{
+			"date": "16/10/2018",
+			"price_usd": "219.95",
+			"trading_volume": "31315676.32"
+		},
+		{
+			"date": "17/10/2018",
+			"price_usd": "216.99",
+			"trading_volume": "32834161.52"
+		},
+		{
+			"date": "18/10/2018",
+			"price_usd": "215.3",
+			"trading_volume": "31567845.72"
+		},
+		{
+			"date": "19/10/2018",
+			"price_usd": "208",
+			"trading_volume": "52458006.51"
+		},
+		{
+			"date": "20/10/2018",
+			"price_usd": "209.69",
+			"trading_volume": "12936322.34"
+		},
+		{
+			"date": "21/10/2018",
+			"price_usd": "211.99",
+			"trading_volume": "17462109.69"
+		},
+		{
+			"date": "22/10/2018",
+			"price_usd": "209.3",
+			"trading_volume": "42711588.92"
+		},
+		{
+			"date": "23/10/2018",
+			"price_usd": "207.8",
+			"trading_volume": "23146110"
+		},
+		{
+			"date": "24/10/2018",
+			"price_usd": "207.95",
+			"trading_volume": "20049428.2"
+		},
+		{
+			"date": "25/10/2018",
+			"price_usd": "205.94",
+			"trading_volume": "15820355.2"
+		},
+		{
+			"date": "26/10/2018",
+			"price_usd": "209",
+			"trading_volume": "18707018.78"
+		},
+		{
+			"date": "27/10/2018",
+			"price_usd": "206.15",
+			"trading_volume": "10280846.41"
+		},
+		{
+			"date": "28/10/2018",
+			"price_usd": "205.94",
+			"trading_volume": "9084565.916"
+		},
+		{
+			"date": "29/10/2018",
+			"price_usd": "205.49",
+			"trading_volume": "23671711.39"
+		},
+		{
+			"date": "30/10/2018",
+			"price_usd": "198.6",
+			"trading_volume": "16501372.86"
+		},
+		{
+			"date": "31/10/2018",
+			"price_usd": "201.45",
+			"trading_volume": "22632315.26"
+		},
+		{
+			"date": "1/11/2018",
+			"price_usd": "200.95",
+			"trading_volume": "17116621.54"
+		},
+		{
+			"date": "2/11/2018",
+			"price_usd": "203.74",
+			"trading_volume": "19559214.42"
+		},
+		{
+			"date": "3/11/2018",
+			"price_usd": "202.69",
+			"trading_volume": "14456528.38"
+		},
+		{
+			"date": "4/11/2018",
+			"price_usd": "218.76",
+			"trading_volume": "37959621.57"
+		},
+		{
+			"date": "5/11/2018",
+			"price_usd": "213.39",
+			"trading_volume": "29714567.41"
+		},
+		{
+			"date": "6/11/2018",
+			"price_usd": "221.25",
+			"trading_volume": "42534535.86"
+		},
+		{
+			"date": "7/11/2018",
+			"price_usd": "224.8",
+			"trading_volume": "45252424.09"
+		},
+		{
+			"date": "8/11/2018",
+			"price_usd": "220.78",
+			"trading_volume": "40931506.15"
+		},
+		{
+			"date": "9/11/2018",
+			"price_usd": "215.51",
+			"trading_volume": "32309082.2"
+		},
+		{
+			"date": "10/11/2018",
+			"price_usd": "215.55",
+			"trading_volume": "28019225.01"
+		},
+		{
+			"date": "11/11/2018",
+			"price_usd": "213.99",
+			"trading_volume": "28875079.88"
+		},
+		{
+			"date": "12/11/2018",
+			"price_usd": "214.22",
+			"trading_volume": "21271725.18"
+		},
+		{
+			"date": "13/11/2018",
+			"price_usd": "213.8",
+			"trading_volume": "24176049.61"
+		},
+		{
+			"date": "14/11/2018",
+			"price_usd": "210.3",
+			"trading_volume": "82531353.98"
+		},
+		{
+			"date": "15/11/2018",
+			"price_usd": "190",
+			"trading_volume": "81674273.89"
+		},
+		{
+			"date": "16/11/2018",
+			"price_usd": "185",
+			"trading_volume": "43450649.95"
+		},
+		{
+			"date": "17/11/2018",
+			"price_usd": "177.91",
+			"trading_volume": "25452515.64"
+		},
+		{
+			"date": "18/11/2018",
+			"price_usd": "182.94",
+			"trading_volume": "25261184.09"
+		},
+		{
+			"date": "19/11/2018",
+			"price_usd": "179.33",
+			"trading_volume": "94639227.03"
+		},
+		{
+			"date": "20/11/2018",
+			"price_usd": "154.7",
+			"trading_volume": "139191208.5"
+		},
+		{
+			"date": "21/11/2018",
+			"price_usd": "142.01",
+			"trading_volume": "97819681.49"
+		},
+		{
+			"date": "22/11/2018",
+			"price_usd": "140.4",
+			"trading_volume": "44837388.45"
+		},
+		{
+			"date": "23/11/2018",
+			"price_usd": "128.9",
+			"trading_volume": "62657024.05"
+		},
+		{
+			"date": "24/11/2018",
+			"price_usd": "130.81",
+			"trading_volume": "57264800.07"
+		},
+		{
+			"date": "25/11/2018",
+			"price_usd": "122.35",
+			"trading_volume": "93723314.12"
+		},
+		{
+			"date": "26/11/2018",
+			"price_usd": "121.5",
+			"trading_volume": "77209761.83"
+		},
+		{
+			"date": "27/11/2018",
+			"price_usd": "114.31",
+			"trading_volume": "56638056.01"
+		},
+		{
+			"date": "28/11/2018",
+			"price_usd": "126.8",
+			"trading_volume": "68485222.44"
+		},
+		{
+			"date": "29/11/2018",
+			"price_usd": "124",
+			"trading_volume": "57140533.57"
+		},
+		{
+			"date": "30/11/2018",
+			"price_usd": "120.26",
+			"trading_volume": "48362085.78"
+		},
+		{
+			"date": "1/12/2018",
+			"price_usd": "120.8",
+			"trading_volume": "38614493.63"
+		},
+		{
+			"date": "2/12/2018",
+			"price_usd": "120.73",
+			"trading_volume": "32184013.76"
+		},
+		{
+			"date": "3/12/2018",
+			"price_usd": "116.96",
+			"trading_volume": "36185196.19"
+		},
+		{
+			"date": "4/12/2018",
+			"price_usd": "113.2",
+			"trading_volume": "30365546.75"
+		},
+		{
+			"date": "5/12/2018",
+			"price_usd": "110.58",
+			"trading_volume": "37519336.07"
+		},
+		{
+			"date": "6/12/2018",
+			"price_usd": "104.68",
+			"trading_volume": "58114721.75"
+		},
+		{
+			"date": "7/12/2018",
+			"price_usd": "96.9",
+			"trading_volume": "90499447.34"
+		},
+		{
+			"date": "8/12/2018",
+			"price_usd": "98",
+			"trading_volume": "63224518.55"
+		},
+		{
+			"date": "9/12/2018",
+			"price_usd": "98.7",
+			"trading_volume": "48533111.85"
+		},
+		{
+			"date": "10/12/2018",
+			"price_usd": "95.21",
+			"trading_volume": "37180525.46"
+		},
+		{
+			"date": "11/12/2018",
+			"price_usd": "91.65",
+			"trading_volume": "30055007.22"
+		},
+		{
+			"date": "12/12/2018",
+			"price_usd": "91.31",
+			"trading_volume": "25500398.93"
+		},
+		{
+			"date": "13/12/2018",
+			"price_usd": "90.71",
+			"trading_volume": "29089359.83"
+		},
+		{
+			"date": "14/12/2018",
+			"price_usd": "87.25",
+			"trading_volume": "27041687.8"
+		},
+		{
+			"date": "15/12/2018",
+			"price_usd": "85",
+			"trading_volume": "18169124"
+		},
+		{
+			"date": "16/12/2018",
+			"price_usd": "87.64",
+			"trading_volume": "20783723.69"
+		},
+		{
+			"date": "17/12/2018",
+			"price_usd": "97",
+			"trading_volume": "42965553.42"
+		},
+		{
+			"date": "18/12/2018",
+			"price_usd": "101.3",
+			"trading_volume": "50202945.79"
+		},
+		{
+			"date": "19/12/2018",
+			"price_usd": "107.55",
+			"trading_volume": "84862730.23"
+		},
+		{
+			"date": "20/12/2018",
+			"price_usd": "116",
+			"trading_volume": "93128082.55"
+		},
+		{
+			"date": "21/12/2018",
+			"price_usd": "118",
+			"trading_volume": "74510414.59"
+		},
+		{
+			"date": "22/12/2018",
+			"price_usd": "115.5",
+			"trading_volume": "44814571.61"
+		},
+		{
+			"date": "23/12/2018",
+			"price_usd": "131.94",
+			"trading_volume": "118250392.6"
+		},
+		{
+			"date": "24/12/2018",
+			"price_usd": "157.67",
+			"trading_volume": "190137361.1"
+		},
+		{
+			"date": "25/12/2018",
+			"price_usd": "139.26",
+			"trading_volume": "136600862"
+		},
+		{
+			"date": "26/12/2018",
+			"price_usd": "135.32",
+			"trading_volume": "102196717.4"
+		},
+		{
+			"date": "27/12/2018",
+			"price_usd": "131.09",
+			"trading_volume": "90456912.89"
+		},
+		{
+			"date": "28/12/2018",
+			"price_usd": "136.66",
+			"trading_volume": "111865576.5"
+		},
+		{
+			"date": "29/12/2018",
+			"price_usd": "145.42",
+			"trading_volume": "136479145.9"
+		},
+		{
+			"date": "30/12/2018",
+			"price_usd": "139",
+			"trading_volume": "94804050.49"
+		},
+		{
+			"date": "31/12/2018",
+			"price_usd": "138.66",
+			"trading_volume": "64763118.12"
+		},
+		{
+			"date": "1/1/2019",
+			"price_usd": "140.67",
+			"trading_volume": "54280385.6"
+		},
+		{
+			"date": "2/1/2019",
+			"price_usd": "155.37",
+			"trading_volume": "138801471.1"
+		},
+		{
+			"date": "3/1/2019",
+			"price_usd": "153.64",
+			"trading_volume": "104953535.1"
+		},
+		{
+			"date": "4/1/2019",
+			"price_usd": "154.8",
+			"trading_volume": "120827141.5"
+		},
+		{
+			"date": "5/1/2019",
+			"price_usd": "159.26",
+			"trading_volume": "120238339.8"
+		},
+		{
+			"date": "6/1/2019",
+			"price_usd": "157.4",
+			"trading_volume": "95681339.46"
+		},
+		{
+			"date": "7/1/2019",
+			"price_usd": "155.48",
+			"trading_volume": "64310962.92"
+		},
+		{
+			"date": "8/1/2019",
+			"price_usd": "151.65",
+			"trading_volume": "65535529.76"
+		},
+		{
+			"date": "9/1/2019",
+			"price_usd": "151.5",
+			"trading_volume": "44673066.39"
+		},
+		{
+			"date": "10/1/2019",
+			"price_usd": "149.45",
+			"trading_volume": "114437025.3"
+		},
+		{
+			"date": "11/1/2019",
+			"price_usd": "127.36",
+			"trading_volume": "67782816.34"
+		},
+		{
+			"date": "12/1/2019",
+			"price_usd": "126.19",
+			"trading_volume": "37295866.35"
+		},
+		{
+			"date": "13/1/2019",
+			"price_usd": "124.25",
+			"trading_volume": "49521201.28"
+		},
+		{
+			"date": "14/1/2019",
+			"price_usd": "130.05",
+			"trading_volume": "66801543.31"
+		},
+		{
+			"date": "15/1/2019",
+			"price_usd": "129.4",
+			"trading_volume": "79985529.56"
+		},
+		{
+			"date": "16/1/2019",
+			"price_usd": "126.88",
+			"trading_volume": "62314226"
+		},
+		{
+			"date": "17/1/2019",
+			"price_usd": "122.99",
+			"trading_volume": "53854069.21"
+		},
+		{
+			"date": "18/1/2019",
+			"price_usd": "121.98",
+			"trading_volume": "28305971.67"
+		},
+		{
+			"date": "19/1/2019",
+			"price_usd": "125.29",
+			"trading_volume": "39715159.16"
+		},
+		{
+			"date": "20/1/2019",
+			"price_usd": "123.32",
+			"trading_volume": "53833668.91"
+		},
+		{
+			"date": "21/1/2019",
+			"price_usd": "118.5",
+			"trading_volume": "35258073.43"
+		},
+		{
+			"date": "22/1/2019",
+			"price_usd": "119.49",
+			"trading_volume": "41777737.47"
+		},
+		{
+			"date": "23/1/2019",
+			"price_usd": "118.95",
+			"trading_volume": "26975386.39"
+		},
+		{
+			"date": "24/1/2019",
+			"price_usd": "117.15",
+			"trading_volume": "25044265.75"
+		},
+		{
+			"date": "25/1/2019",
+			"price_usd": "117.5",
+			"trading_volume": "22977175.95"
+		},
+		{
+			"date": "26/1/2019",
+			"price_usd": "118",
+			"trading_volume": "16978386.2"
+		},
+		{
+			"date": "27/1/2019",
+			"price_usd": "116.15",
+			"trading_volume": "28158012.73"
+		},
+		{
+			"date": "28/1/2019",
+			"price_usd": "112.87",
+			"trading_volume": "60050129.39"
+		},
+		{
+			"date": "29/1/2019",
+			"price_usd": "106.61",
+			"trading_volume": "33427469.35"
+		},
+		{
+			"date": "30/1/2019",
+			"price_usd": "109.8",
+			"trading_volume": "35368520.14"
+		},
+		{
+			"date": "31/1/2019",
+			"price_usd": "110.61",
+			"trading_volume": "31234353.52"
+		},
+		{
+			"date": "1/2/2019",
+			"price_usd": "108.35",
+			"trading_volume": "25791535.15"
+		},
+		{
+			"date": "2/2/2019",
+			"price_usd": "111.15",
+			"trading_volume": "20153872.3"
+		},
+		{
+			"date": "3/2/2019",
+			"price_usd": "111.11",
+			"trading_volume": "24605892.29"
+		},
+		{
+			"date": "4/2/2019",
+			"price_usd": "109.3",
+			"trading_volume": "17312736.6"
+		},
+		{
+			"date": "5/2/2019",
+			"price_usd": "108.18",
+			"trading_volume": "17137008.25"
+		},
+		{
+			"date": "6/2/2019",
+			"price_usd": "107.83",
+			"trading_volume": "34984364.3"
+		},
+		{
+			"date": "7/2/2019",
+			"price_usd": "106.18",
+			"trading_volume": "15530160.65"
+		},
+		{
+			"date": "8/2/2019",
+			"price_usd": "123",
+			"trading_volume": "67027886.94"
+		},
+		{
+			"date": "9/2/2019",
+			"price_usd": "121.99",
+			"trading_volume": "39061582.39"
+		},
+		{
+			"date": "10/2/2019",
+			"price_usd": "126.49",
+			"trading_volume": "45929459.13"
+		},
+		{
+			"date": "11/2/2019",
+			"price_usd": "125.28",
+			"trading_volume": "47197595.85"
+		},
+		{
+			"date": "12/2/2019",
+			"price_usd": "123.89",
+			"trading_volume": "41603632.81"
+		},
+		{
+			"date": "13/2/2019",
+			"price_usd": "126.47",
+			"trading_volume": "39073077.84"
+		},
+		{
+			"date": "14/2/2019",
+			"price_usd": "124.5",
+			"trading_volume": "36278326.08"
+		},
+		{
+			"date": "15/2/2019",
+			"price_usd": "124.25",
+			"trading_volume": "31111280.21"
+		},
+		{
+			"date": "16/2/2019",
+			"price_usd": "124.99",
+			"trading_volume": "26462034.61"
+		},
+		{
+			"date": "17/2/2019",
+			"price_usd": "135.61",
+			"trading_volume": "78958054.96"
+		},
+		{
+			"date": "18/2/2019",
+			"price_usd": "148.3",
+			"trading_volume": "152756654.6"
+		},
+		{
+			"date": "19/2/2019",
+			"price_usd": "150",
+			"trading_volume": "109645050.5"
+		},
+		{
+			"date": "20/2/2019",
+			"price_usd": "149.52",
+			"trading_volume": "89136482.37"
+		},
+		{
+			"date": "21/2/2019",
+			"price_usd": "149.61",
+			"trading_volume": "65199779.51"
+		},
+		{
+			"date": "22/2/2019",
+			"price_usd": "148.85",
+			"trading_volume": "53771600.8"
+		},
+		{
+			"date": "23/2/2019",
+			"price_usd": "159.6",
+			"trading_volume": "89997516.92"
+		},
+		{
+			"date": "24/2/2019",
+			"price_usd": "166",
+			"trading_volume": "186688063.4"
+		},
+		{
+			"date": "25/2/2019",
+			"price_usd": "141.55",
+			"trading_volume": "110348893"
+		},
+		{
+			"date": "26/2/2019",
+			"price_usd": "138.41",
+			"trading_volume": "58979934.72"
+		},
+		{
+			"date": "27/2/2019",
+			"price_usd": "140.29",
+			"trading_volume": "76519497.91"
+		},
+		{
+			"date": "28/2/2019",
+			"price_usd": "139",
+			"trading_volume": "78861797.56"
+		},
+		{
+			"date": "1/3/2019",
+			"price_usd": "137.95",
+			"trading_volume": "41198722.58"
+		},
+		{
+			"date": "2/3/2019",
+			"price_usd": "136.12",
+			"trading_volume": "39467507.69"
+		},
+		{
+			"date": "3/3/2019",
+			"price_usd": "134.6",
+			"trading_volume": "29447917.24"
+		},
+		{
+			"date": "4/3/2019",
+			"price_usd": "131.11",
+			"trading_volume": "51060349.77"
+		},
+		{
+			"date": "5/3/2019",
+			"price_usd": "137.84",
+			"trading_volume": "67740644.33"
+		},
+		{
+			"date": "6/3/2019",
+			"price_usd": "140.29",
+			"trading_volume": "58701328.65"
+		},
+		{
+			"date": "7/3/2019",
+			"price_usd": "140.2",
+			"trading_volume": "42271691.24"
+		},
+		{
+			"date": "8/3/2019",
+			"price_usd": "139.34",
+			"trading_volume": "44879637.39"
+		},
+		{
+			"date": "9/3/2019",
+			"price_usd": "138.65",
+			"trading_volume": "38220614.01"
+		},
+		{
+			"date": "10/3/2019",
+			"price_usd": "137.5",
+			"trading_volume": "27650702.38"
+		},
+		{
+			"date": "11/3/2019",
+			"price_usd": "136.15",
+			"trading_volume": "35285847.75"
+		},
+		{
+			"date": "12/3/2019",
+			"price_usd": "135.3",
+			"trading_volume": "25981446.1"
+		},
+		{
+			"date": "13/3/2019",
+			"price_usd": "133.65",
+			"trading_volume": "27670734.43"
+		},
+		{
+			"date": "14/3/2019",
+			"price_usd": "135.11",
+			"trading_volume": "34099414.81"
+		},
+		{
+			"date": "15/3/2019",
+			"price_usd": "137.62",
+			"trading_volume": "39928522.34"
+		},
+		{
+			"date": "16/3/2019",
+			"price_usd": "144.47",
+			"trading_volume": "66878173.45"
+		},
+		{
+			"date": "17/3/2019",
+			"price_usd": "141.07",
+			"trading_volume": "35051209.93"
+		},
+		{
+			"date": "18/3/2019",
+			"price_usd": "142.01",
+			"trading_volume": "39017864.92"
+		},
+		{
+			"date": "19/3/2019",
+			"price_usd": "139.38",
+			"trading_volume": "30175322.08"
+		},
+		{
+			"date": "20/3/2019",
+			"price_usd": "139.66",
+			"trading_volume": "30757997.81"
+		},
+		{
+			"date": "21/3/2019",
+			"price_usd": "139.55",
+			"trading_volume": "42635937.49"
+		},
+		{
+			"date": "22/3/2019",
+			"price_usd": "137.2",
+			"trading_volume": "25309122.73"
+		},
+		{
+			"date": "23/3/2019",
+			"price_usd": "138.21",
+			"trading_volume": "23922572.36"
+		},
+		{
+			"date": "24/3/2019",
+			"price_usd": "137.37",
+			"trading_volume": "27042322.7"
+		},
+		{
+			"date": "25/3/2019",
+			"price_usd": "136.83",
+			"trading_volume": "31082445.59"
+		},
+		{
+			"date": "26/3/2019",
+			"price_usd": "134.74",
+			"trading_volume": "24490323.06"
+		},
+		{
+			"date": "27/3/2019",
+			"price_usd": "140.14",
+			"trading_volume": "43635238.43"
+		},
+		{
+			"date": "28/3/2019",
+			"price_usd": "139.57",
+			"trading_volume": "22543474.61"
+		},
+		{
+			"date": "29/3/2019",
+			"price_usd": "143.6",
+			"trading_volume": "33098245.96"
+		},
+		{
+			"date": "30/3/2019",
+			"price_usd": "145.89",
+			"trading_volume": "36382647.23"
+		},
+		{
+			"date": "31/3/2019",
+			"price_usd": "142.5",
+			"trading_volume": "20131931.7"
+		},
+		{
+			"date": "1/4/2019",
+			"price_usd": "143.08",
+			"trading_volume": "33234998.64"
+		},
+		{
+			"date": "2/4/2019",
+			"price_usd": "165.6",
+			"trading_volume": "138094679.3"
+		},
+		{
+			"date": "3/4/2019",
+			"price_usd": "177.81",
+			"trading_volume": "225523896.2"
+		},
+		{
+			"date": "4/4/2019",
+			"price_usd": "164",
+			"trading_volume": "109082183.6"
+		},
+		{
+			"date": "5/4/2019",
+			"price_usd": "167.83",
+			"trading_volume": "84123101.33"
+		},
+		{
+			"date": "6/4/2019",
+			"price_usd": "172.77",
+			"trading_volume": "87657058.11"
+		},
+		{
+			"date": "7/4/2019",
+			"price_usd": "175.43",
+			"trading_volume": "78876773.3"
+		},
+		{
+			"date": "8/4/2019",
+			"price_usd": "185.87",
+			"trading_volume": "156417981.3"
+		},
+		{
+			"date": "9/4/2019",
+			"price_usd": "179.17",
+			"trading_volume": "75745619.57"
+		},
+		{
+			"date": "10/4/2019",
+			"price_usd": "183.77",
+			"trading_volume": "93283836.59"
+		},
+		{
+			"date": "11/4/2019",
+			"price_usd": "177.48",
+			"trading_volume": "110201659.9"
+		},
+		{
+			"date": "12/4/2019",
+			"price_usd": "166.5",
+			"trading_volume": "51556919.15"
+		},
+		{
+			"date": "13/4/2019",
+			"price_usd": "165.37",
+			"trading_volume": "29247030.15"
+		},
+		{
+			"date": "14/4/2019",
+			"price_usd": "168.11",
+			"trading_volume": "30640985.06"
+		},
+		{
+			"date": "15/4/2019",
+			"price_usd": "168.81",
+			"trading_volume": "57215098.11"
+		},
+		{
+			"date": "16/4/2019",
+			"price_usd": "166.73",
+			"trading_volume": "39245823.49"
+		},
+		{
+			"date": "17/4/2019",
+			"price_usd": "167.28",
+			"trading_volume": "37678036.6"
+		},
+		{
+			"date": "18/4/2019",
+			"price_usd": "175.2",
+			"trading_volume": "68031293.23"
+		},
+		{
+			"date": "19/4/2019",
+			"price_usd": "173.55",
+			"trading_volume": "54991300.11"
+		},
+		{
+			"date": "20/4/2019",
+			"price_usd": "176.97",
+			"trading_volume": "43939979.02"
+		},
+		{
+			"date": "21/4/2019",
+			"price_usd": "173.48",
+			"trading_volume": "47781349.4"
+		},
+		{
+			"date": "22/4/2019",
+			"price_usd": "172.3",
+			"trading_volume": "45832751.06"
+		},
+		{
+			"date": "23/4/2019",
+			"price_usd": "175.83",
+			"trading_volume": "62784241.17"
+		},
+		{
+			"date": "24/4/2019",
+			"price_usd": "169.87",
+			"trading_volume": "70076178.28"
+		},
+		{
+			"date": "25/4/2019",
+			"price_usd": "165.49",
+			"trading_volume": "67326464.65"
+		},
+		{
+			"date": "26/4/2019",
+			"price_usd": "162.56",
+			"trading_volume": "78334214.87"
+		},
+		{
+			"date": "27/4/2019",
+			"price_usd": "166.24",
+			"trading_volume": "34294278"
+		},
+		{
+			"date": "28/4/2019",
+			"price_usd": "160.24",
+			"trading_volume": "24304182.14"
+		},
+		{
+			"date": "29/4/2019",
+			"price_usd": "159.05",
+			"trading_volume": "37892463.29"
+		},
+		{
+			"date": "30/4/2019",
+			"price_usd": "162.89",
+			"trading_volume": "48352308.35"
+		},
+		{
+			"date": "1/5/2019",
+			"price_usd": "163.88",
+			"trading_volume": "30965351.7"
+		},
+		{
+			"date": "2/5/2019",
+			"price_usd": "163.48",
+			"trading_volume": "46716417.01"
+		},
+		{
+			"date": "3/5/2019",
+			"price_usd": "170.86",
+			"trading_volume": "69185162.6"
+		},
+		{
+			"date": "4/5/2019",
+			"price_usd": "171.3",
+			"trading_volume": "51596174.4"
+		},
+		{
+			"date": "5/5/2019",
+			"price_usd": "165.36",
+			"trading_volume": "28659516.79"
+		},
+		{
+			"date": "6/5/2019",
+			"price_usd": "178.05",
+			"trading_volume": "86112232.48"
+		},
+		{
+			"date": "7/5/2019",
+			"price_usd": "182.76",
+			"trading_volume": "129206700.1"
+		},
+		{
+			"date": "8/5/2019",
+			"price_usd": "173.17",
+			"trading_volume": "50307994.58"
+		},
+		{
+			"date": "9/5/2019",
+			"price_usd": "173.88",
+			"trading_volume": "48482365.54"
+		},
+		{
+			"date": "10/5/2019",
+			"price_usd": "176.7",
+			"trading_volume": "73717438.65"
+		},
+		{
+			"date": "11/5/2019",
+			"price_usd": "205.23",
+			"trading_volume": "167180496.8"
+		},
+		{
+			"date": "12/5/2019",
+			"price_usd": "204.32",
+			"trading_volume": "157611011.7"
+		},
+		{
+			"date": "13/5/2019",
+			"price_usd": "206.87",
+			"trading_volume": "131102303.1"
+		},
+		{
+			"date": "14/5/2019",
+			"price_usd": "219.81",
+			"trading_volume": "179717430.3"
+		},
+		{
+			"date": "15/5/2019",
+			"price_usd": "250.27",
+			"trading_volume": "135054369.6"
+		},
+		{
+			"date": "16/5/2019",
+			"price_usd": "279.76",
+			"trading_volume": "452410350.1"
+		},
+		{
+			"date": "17/5/2019",
+			"price_usd": "268.74",
+			"trading_volume": "366429299.2"
+		},
+		{
+			"date": "18/5/2019",
+			"price_usd": "248",
+			"trading_volume": "160450040.8"
+		},
+		{
+			"date": "19/5/2019",
+			"price_usd": "264",
+			"trading_volume": "207383027.8"
+		},
+		{
+			"date": "20/5/2019",
+			"price_usd": "259.49",
+			"trading_volume": "165783106.1"
+		},
+		{
+			"date": "21/5/2019",
+			"price_usd": "262",
+			"trading_volume": "146749988.3"
+		},
+		{
+			"date": "22/5/2019",
+			"price_usd": "260.18",
+			"trading_volume": "149006735.6"
+		},
+		{
+			"date": "23/5/2019",
+			"price_usd": "247.34",
+			"trading_volume": "144051488.9"
+		},
+		{
+			"date": "24/5/2019",
+			"price_usd": "254.35",
+			"trading_volume": "111294049.4"
+		},
+		{
+			"date": "25/5/2019",
+			"price_usd": "257.33",
+			"trading_volume": "83665127.84"
+		},
+		{
+			"date": "26/5/2019",
+			"price_usd": "269.4",
+			"trading_volume": "115089467.8"
+		},
+		{
+			"date": "27/5/2019",
+			"price_usd": "279.59",
+			"trading_volume": "170250734.9"
+		},
+		{
+			"date": "28/5/2019",
+			"price_usd": "275.95",
+			"trading_volume": "110617403.7"
+		},
+		{
+			"date": "29/5/2019",
+			"price_usd": "274.04",
+			"trading_volume": "102868997.4"
+		},
+		{
+			"date": "30/5/2019",
+			"price_usd": "288.62",
+			"trading_volume": "289930479.4"
+		},
+		{
+			"date": "31/5/2019",
+			"price_usd": "268.72",
+			"trading_volume": "154783065.8"
+		},
+		{
+			"date": "1/6/2019",
+			"price_usd": "275.5",
+			"trading_volume": "121851235.8"
+		},
+		{
+			"date": "2/6/2019",
+			"price_usd": "273.2",
+			"trading_volume": "80960737.41"
+		},
+		{
+			"date": "3/6/2019",
+			"price_usd": "270",
+			"trading_volume": "103602836.7"
+		},
+		{
+			"date": "4/6/2019",
+			"price_usd": "251.67",
+			"trading_volume": "154709331.3"
+		},
+		{
+			"date": "5/6/2019",
+			"price_usd": "250.41",
+			"trading_volume": "81839286.62"
+		},
+		{
+			"date": "6/6/2019",
+			"price_usd": "250.66",
+			"trading_volume": "72417630"
+		},
+		{
+			"date": "7/6/2019",
+			"price_usd": "253.28",
+			"trading_volume": "87644279.25"
+		},
+		{
+			"date": "8/6/2019",
+			"price_usd": "250.53",
+			"trading_volume": "46293916.79"
+		},
+		{
+			"date": "9/6/2019",
+			"price_usd": "244.53",
+			"trading_volume": "74594101.42"
+		},
+		{
+			"date": "10/6/2019",
+			"price_usd": "247.45",
+			"trading_volume": "75090336.66"
+		},
+		{
+			"date": "11/6/2019",
+			"price_usd": "247.8",
+			"trading_volume": "57549753.74"
+		},
+		{
+			"date": "12/6/2019",
+			"price_usd": "261.87",
+			"trading_volume": "84660448.57"
+		},
+		{
+			"date": "13/6/2019",
+			"price_usd": "262.98",
+			"trading_volume": "75447391.04"
+		},
+		{
+			"date": "14/6/2019",
+			"price_usd": "264.26",
+			"trading_volume": "84045849.54"
+		},
+		{
+			"date": "15/6/2019",
+			"price_usd": "272.27",
+			"trading_volume": "76053046.55"
+		},
+		{
+			"date": "16/6/2019",
+			"price_usd": "277.06",
+			"trading_volume": "123848161.5"
+		},
+		{
+			"date": "17/6/2019",
+			"price_usd": "276",
+			"trading_volume": "91807270.71"
+		},
+		{
+			"date": "18/6/2019",
+			"price_usd": "273.58",
+			"trading_volume": "85335852.93"
+		},
+		{
+			"date": "19/6/2019",
+			"price_usd": "270",
+			"trading_volume": "55665919.15"
+		},
+		{
+			"date": "20/6/2019",
+			"price_usd": "273.63",
+			"trading_volume": "53998507.96"
+		},
+		{
+			"date": "21/6/2019",
+			"price_usd": "295.94",
+			"trading_volume": "148641528.5"
+		},
+		{
+			"date": "22/6/2019",
+			"price_usd": "314.39",
+			"trading_volume": "222036096.3"
+		},
+		{
+			"date": "23/6/2019",
+			"price_usd": "321.7",
+			"trading_volume": "131252843.5"
+		},
+		{
+			"date": "24/6/2019",
+			"price_usd": "314.41",
+			"trading_volume": "108439071.6"
+		},
+		{
+			"date": "25/6/2019",
+			"price_usd": "318.99",
+			"trading_volume": "108143161.2"
+		},
+		{
+			"date": "26/6/2019",
+			"price_usd": "366.8",
+			"trading_volume": "341534154.5"
+		},
+		{
+			"date": "27/6/2019",
+			"price_usd": "347",
+			"trading_volume": "315174509.7"
+		},
+		{
+			"date": "28/6/2019",
+			"price_usd": "313.58",
+			"trading_volume": "161838706.8"
+		},
+		{
+			"date": "29/6/2019",
+			"price_usd": "324.74",
+			"trading_volume": "130425514"
+		},
+		{
+			"date": "30/6/2019",
+			"price_usd": "323.5",
+			"trading_volume": "149527443.6"
+		},
+		{
+			"date": "1/7/2019",
+			"price_usd": "303.49",
+			"trading_volume": "142871936.8"
+		},
+		{
+			"date": "2/7/2019",
+			"price_usd": "297.57",
+			"trading_volume": "140020251.9"
+		},
+		{
+			"date": "3/7/2019",
+			"price_usd": "302.89",
+			"trading_volume": "109262202.2"
+		},
+		{
+			"date": "4/7/2019",
+			"price_usd": "302.74",
+			"trading_volume": "79507234.74"
+		},
+		{
+			"date": "5/7/2019",
+			"price_usd": "294.89",
+			"trading_volume": "75165110.7"
+		},
+		{
+			"date": "6/7/2019",
+			"price_usd": "296.71",
+			"trading_volume": "57137782.6"
+		},
+		{
+			"date": "7/7/2019",
+			"price_usd": "309.69",
+			"trading_volume": "73170809.76"
+		},
+		{
+			"date": "8/7/2019",
+			"price_usd": "313.74",
+			"trading_volume": "88890021.75"
+		},
+		{
+			"date": "9/7/2019",
+			"price_usd": "318.19",
+			"trading_volume": "96199378.54"
+		},
+		{
+			"date": "10/7/2019",
+			"price_usd": "314.18",
+			"trading_volume": "135779813.6"
+		},
+		{
+			"date": "11/7/2019",
+			"price_usd": "289.23",
+			"trading_volume": "136450969.6"
+		},
+		{
+			"date": "12/7/2019",
+			"price_usd": "278.99",
+			"trading_volume": "72743548.04"
+		},
+		{
+			"date": "13/7/2019",
+			"price_usd": "275.04",
+			"trading_volume": "55323572.09"
+		},
+		{
+			"date": "14/7/2019",
+			"price_usd": "269.74",
+			"trading_volume": "130785859"
+		},
+		{
+			"date": "15/7/2019",
+			"price_usd": "235.58",
+			"trading_volume": "159784811.6"
+		},
+		{
+			"date": "16/7/2019",
+			"price_usd": "234.5",
+			"trading_volume": "151473621.6"
+		},
+		{
+			"date": "17/7/2019",
+			"price_usd": "219.86",
+			"trading_volume": "143020072"
+		},
+		{
+			"date": "18/7/2019",
+			"price_usd": "229.65",
+			"trading_volume": "132637638.8"
+		},
+		{
+			"date": "19/7/2019",
+			"price_usd": "226.23",
+			"trading_volume": "81600507.57"
+		},
+		{
+			"date": "20/7/2019",
+			"price_usd": "235.09",
+			"trading_volume": "74182517.24"
+		},
+		{
+			"date": "21/7/2019",
+			"price_usd": "229.66",
+			"trading_volume": "60421739.05"
+		},
+		{
+			"date": "22/7/2019",
+			"price_usd": "228.34",
+			"trading_volume": "59602149.04"
+		},
+		{
+			"date": "23/7/2019",
+			"price_usd": "219.55",
+			"trading_volume": "67930201.67"
+		},
+		{
+			"date": "24/7/2019",
+			"price_usd": "218.28",
+			"trading_volume": "69281797.02"
+		},
+		{
+			"date": "25/7/2019",
+			"price_usd": "225.12",
+			"trading_volume": "62017449.36"
+		},
+		{
+			"date": "26/7/2019",
+			"price_usd": "220",
+			"trading_volume": "42839496.54"
+		},
+		{
+			"date": "27/7/2019",
+			"price_usd": "223.3",
+			"trading_volume": "63931823.16"
+		},
+		{
+			"date": "28/7/2019",
+			"price_usd": "213.52",
+			"trading_volume": "45414505.79"
+		},
+		{
+			"date": "29/7/2019",
+			"price_usd": "215.83",
+			"trading_volume": "47853275.13"
+		},
+		{
+			"date": "30/7/2019",
+			"price_usd": "214.36",
+			"trading_volume": "46627086.48"
+		},
+		{
+			"date": "31/7/2019",
+			"price_usd": "218.79",
+			"trading_volume": "44416634.9"
+		},
+		{
+			"date": "1/8/2019",
+			"price_usd": "219.39",
+			"trading_volume": "40054998.68"
+		},
+		{
+			"date": "2/8/2019",
+			"price_usd": "222.18",
+			"trading_volume": "45116694.86"
+		},
+		{
+			"date": "3/8/2019",
+			"price_usd": "224.51",
+			"trading_volume": "40285734.53"
+		},
+		{
+			"date": "4/8/2019",
+			"price_usd": "223.34",
+			"trading_volume": "29836777.69"
+		},
+		{
+			"date": "5/8/2019",
+			"price_usd": "236.25",
+			"trading_volume": "70962003.84"
+		},
+		{
+			"date": "6/8/2019",
+			"price_usd": "239.15",
+			"trading_volume": "78590684.02"
+		},
+		{
+			"date": "7/8/2019",
+			"price_usd": "231.25",
+			"trading_volume": "63135096.49"
+		},
+		{
+			"date": "8/8/2019",
+			"price_usd": "228.5",
+			"trading_volume": "52730777.07"
+		},
+		{
+			"date": "9/8/2019",
+			"price_usd": "221.79",
+			"trading_volume": "49415315.75"
+		},
+		{
+			"date": "10/8/2019",
+			"price_usd": "215",
+			"trading_volume": "52534644.57"
+		},
+		{
+			"date": "11/8/2019",
+			"price_usd": "216.94",
+			"trading_volume": "39875149.55"
+		},
+		{
+			"date": "12/8/2019",
+			"price_usd": "216.81",
+			"trading_volume": "26091487.96"
+		},
+		{
+			"date": "13/8/2019",
+			"price_usd": "214.3",
+			"trading_volume": "34861802.4"
+		},
+		{
+			"date": "14/8/2019",
+			"price_usd": "209.9",
+			"trading_volume": "63597043.19"
+		},
+		{
+			"date": "15/8/2019",
+			"price_usd": "189.95",
+			"trading_volume": "44183760.71"
+		},
+		{
+			"date": "16/8/2019",
+			"price_usd": "188.39",
+			"trading_volume": "51945182.47"
+		},
+		{
+			"date": "17/8/2019",
+			"price_usd": "187",
+			"trading_volume": "25599796.9"
+		},
+		{
+			"date": "18/8/2019",
+			"price_usd": "197.91",
+			"trading_volume": "33655229.09"
+		},
+		{
+			"date": "19/8/2019",
+			"price_usd": "203.59",
+			"trading_volume": "47675347.06"
+		},
+		{
+			"date": "20/8/2019",
+			"price_usd": "202.75",
+			"trading_volume": "37412398.98"
+		},
+		{
+			"date": "21/8/2019",
+			"price_usd": "197.2",
+			"trading_volume": "53434048.95"
+		},
+		{
+			"date": "22/8/2019",
+			"price_usd": "195.14",
+			"trading_volume": "46426395.05"
+		},
+		{
+			"date": "23/8/2019",
+			"price_usd": "196.19",
+			"trading_volume": "37022930.57"
+		},
+		{
+			"date": "24/8/2019",
+			"price_usd": "194.09",
+			"trading_volume": "31786227.86"
+		},
+		{
+			"date": "25/8/2019",
+			"price_usd": "192.4",
+			"trading_volume": "31935951.29"
+		},
+		{
+			"date": "26/8/2019",
+			"price_usd": "193.7",
+			"trading_volume": "48298621.32"
+		},
+		{
+			"date": "27/8/2019",
+			"price_usd": "189.49",
+			"trading_volume": "29513243.5"
+		},
+		{
+			"date": "28/8/2019",
+			"price_usd": "188.25",
+			"trading_volume": "59498959.97"
+		},
+		{
+			"date": "29/8/2019",
+			"price_usd": "173.5",
+			"trading_volume": "49838097.17"
+		},
+		{
+			"date": "30/8/2019",
+			"price_usd": "170.77",
+			"trading_volume": "40216956.6"
+		},
+		{
+			"date": "31/8/2019",
+			"price_usd": "174.98",
+			"trading_volume": "32983642.84"
+		},
+		{
+			"date": "1/9/2019",
+			"price_usd": "173.42",
+			"trading_volume": "32627380.93"
+		},
+		{
+			"date": "2/9/2019",
+			"price_usd": "181",
+			"trading_volume": "51446380.45"
+		},
+		{
+			"date": "3/9/2019",
+			"price_usd": "183",
+			"trading_volume": "58621819.36"
+		},
+		{
+			"date": "4/9/2019",
+			"price_usd": "180.14",
+			"trading_volume": "50629395.49"
+		},
+		{
+			"date": "5/9/2019",
+			"price_usd": "176.19",
+			"trading_volume": "40247496.56"
+		},
+		{
+			"date": "6/9/2019",
+			"price_usd": "177.87",
+			"trading_volume": "54567316.61"
+		},
+		{
+			"date": "7/9/2019",
+			"price_usd": "180.8",
+			"trading_volume": "44282963.31"
+		},
+		{
+			"date": "8/9/2019",
+			"price_usd": "184.18",
+			"trading_volume": "52424648.72"
+		},
+		{
+			"date": "9/9/2019",
+			"price_usd": "185.38",
+			"trading_volume": "49340881.23"
+		},
+		{
+			"date": "10/9/2019",
+			"price_usd": "184.36",
+			"trading_volume": "43067898.91"
+		},
+		{
+			"date": "11/9/2019",
+			"price_usd": "182.8",
+			"trading_volume": "49657474.98"
+		},
+		{
+			"date": "12/9/2019",
+			"price_usd": "182.38",
+			"trading_volume": "36419973.23"
+		},
+		{
+			"date": "13/9/2019",
+			"price_usd": "181.38",
+			"trading_volume": "47382425.19"
+		},
+		{
+			"date": "14/9/2019",
+			"price_usd": "188.79",
+			"trading_volume": "51424561.39"
+		},
+		{
+			"date": "15/9/2019",
+			"price_usd": "190.45",
+			"trading_volume": "54373471.39"
+		},
+		{
+			"date": "16/9/2019",
+			"price_usd": "199.44",
+			"trading_volume": "106449156"
+		},
+		{
+			"date": "17/9/2019",
+			"price_usd": "215.13",
+			"trading_volume": "145945114.9"
+		},
+		{
+			"date": "18/9/2019",
+			"price_usd": "217.27",
+			"trading_volume": "114703107.3"
+		},
+		{
+			"date": "19/9/2019",
+			"price_usd": "223.94",
+			"trading_volume": "179595728.8"
+		},
+		{
+			"date": "20/9/2019",
+			"price_usd": "221.54",
+			"trading_volume": "95069640.62"
+		},
+		{
+			"date": "21/9/2019",
+			"price_usd": "221.5",
+			"trading_volume": "90638548.24"
+		},
+		{
+			"date": "22/9/2019",
+			"price_usd": "215.61",
+			"trading_volume": "93662351.5"
+		},
+		{
+			"date": "23/9/2019",
+			"price_usd": "211.68",
+			"trading_volume": "80922890.46"
+		},
+		{
+			"date": "24/9/2019",
+			"price_usd": "202.98",
+			"trading_volume": "263412071.5"
+		},
+		{
+			"date": "25/9/2019",
+			"price_usd": "174.85",
+			"trading_volume": "147619414.1"
+		},
+		{
+			"date": "26/9/2019",
+			"price_usd": "171.01",
+			"trading_volume": "127948136.3"
+		},
+		{
+			"date": "27/9/2019",
+			"price_usd": "176.72",
+			"trading_volume": "106461443.9"
+		},
+		{
+			"date": "28/9/2019",
+			"price_usd": "175.49",
+			"trading_volume": "90120971.17"
+		},
+		{
+			"date": "29/9/2019",
+			"price_usd": "174.5",
+			"trading_volume": "69327213.65"
+		},
+		{
+			"date": "30/9/2019",
+			"price_usd": "181.24",
+			"trading_volume": "100443187.8"
+		},
+		{
+			"date": "1/10/2019",
+			"price_usd": "185.53",
+			"trading_volume": "109337395.1"
+		},
+		{
+			"date": "2/10/2019",
+			"price_usd": "181.29",
+			"trading_volume": "61530973.8"
+		},
+		{
+			"date": "3/10/2019",
+			"price_usd": "180.72",
+			"trading_volume": "62001237.48"
+		},
+		{
+			"date": "4/10/2019",
+			"price_usd": "178.98",
+			"trading_volume": "58470302.14"
+		},
+		{
+			"date": "5/10/2019",
+			"price_usd": "176.71",
+			"trading_volume": "48647162.44"
+		},
+		{
+			"date": "6/10/2019",
+			"price_usd": "177.04",
+			"trading_volume": "54241930.13"
+		},
+		{
+			"date": "7/10/2019",
+			"price_usd": "182.32",
+			"trading_volume": "87617964.57"
+		},
+		{
+			"date": "8/10/2019",
+			"price_usd": "184.87",
+			"trading_volume": "72432729.98"
+		},
+		{
+			"date": "9/10/2019",
+			"price_usd": "195.53",
+			"trading_volume": "105551736.5"
+		},
+		{
+			"date": "10/10/2019",
+			"price_usd": "194.2",
+			"trading_volume": "83367952.39"
+		},
+		{
+			"date": "11/10/2019",
+			"price_usd": "196.65",
+			"trading_volume": "115872479.8"
+		},
+		{
+			"date": "12/10/2019",
+			"price_usd": "184.64",
+			"trading_volume": "52895345.38"
+		},
+		{
+			"date": "13/10/2019",
+			"price_usd": "184.95",
+			"trading_volume": "45067340.42"
+		},
+		{
+			"date": "14/10/2019",
+			"price_usd": "187.54",
+			"trading_volume": "51494870.28"
+		},
+		{
+			"date": "15/10/2019",
+			"price_usd": "188.37",
+			"trading_volume": "73998014.45"
+		},
+		{
+			"date": "16/10/2019",
+			"price_usd": "181.44",
+			"trading_volume": "61180262.78"
+		},
+		{
+			"date": "17/10/2019",
+			"price_usd": "178.96",
+			"trading_volume": "52578052.94"
+		},
+		{
+			"date": "18/10/2019",
+			"price_usd": "177.44",
+			"trading_volume": "55285684.61"
+		},
+		{
+			"date": "19/10/2019",
+			"price_usd": "174.98",
+			"trading_volume": "51269466.04"
+		},
+		{
+			"date": "20/10/2019",
+			"price_usd": "176.88",
+			"trading_volume": "51654250.07"
+		},
+		{
+			"date": "21/10/2019",
+			"price_usd": "177.9",
+			"trading_volume": "47204344.24"
+		},
+		{
+			"date": "22/10/2019",
+			"price_usd": "175.04",
+			"trading_volume": "44176123.21"
+		},
+		{
+			"date": "23/10/2019",
+			"price_usd": "171.49",
+			"trading_volume": "121126428.2"
+		},
+		{
+			"date": "24/10/2019",
+			"price_usd": "163.72",
+			"trading_volume": "62419095.11"
+		},
+		{
+			"date": "25/10/2019",
+			"price_usd": "187.78",
+			"trading_volume": "157496890.7"
+		},
+		{
+			"date": "26/10/2019",
+			"price_usd": "197.74",
+			"trading_volume": "222906937.8"
+		},
+		{
+			"date": "27/10/2019",
+			"price_usd": "188.7",
+			"trading_volume": "132329593.4"
+		},
+		{
+			"date": "28/10/2019",
+			"price_usd": "189.48",
+			"trading_volume": "106933716.7"
+		},
+		{
+			"date": "29/10/2019",
+			"price_usd": "192.74",
+			"trading_volume": "99024969.84"
+		},
+		{
+			"date": "30/10/2019",
+			"price_usd": "191.71",
+			"trading_volume": "99508269.89"
+		},
+		{
+			"date": "31/10/2019",
+			"price_usd": "185.27",
+			"trading_volume": "74696032.73"
+		},
+		{
+			"date": "1/11/2019",
+			"price_usd": "184.5",
+			"trading_volume": "60092727.14"
+		},
+		{
+			"date": "2/11/2019",
+			"price_usd": "186",
+			"trading_volume": "32936676.71"
+		},
+		{
+			"date": "3/11/2019",
+			"price_usd": "184.7",
+			"trading_volume": "42260620.38"
+		},
+		{
+			"date": "4/11/2019",
+			"price_usd": "188.64",
+			"trading_volume": "59357371.31"
+		},
+		{
+			"date": "5/11/2019",
+			"price_usd": "192.51",
+			"trading_volume": "73036074.78"
+		},
+		{
+			"date": "6/11/2019",
+			"price_usd": "195.09",
+			"trading_volume": "65471595.21"
+		},
+		{
+			"date": "7/11/2019",
+			"price_usd": "192.27",
+			"trading_volume": "58150631.28"
+		},
+		{
+			"date": "8/11/2019",
+			"price_usd": "188.26",
+			"trading_volume": "67305417.41"
+		},
+		{
+			"date": "9/11/2019",
+			"price_usd": "185.79",
+			"trading_volume": "35441967.77"
+		},
+		{
+			"date": "10/11/2019",
+			"price_usd": "191.58",
+			"trading_volume": "51648623.29"
+		},
+		{
+			"date": "11/11/2019",
+			"price_usd": "190.19",
+			"trading_volume": "47746876.46"
+		},
+		{
+			"date": "12/11/2019",
+			"price_usd": "187.65",
+			"trading_volume": "47636043.35"
+		},
+		{
+			"date": "13/11/2019",
+			"price_usd": "189.66",
+			"trading_volume": "36936429.94"
+		},
+		{
+			"date": "14/11/2019",
+			"price_usd": "188.72",
+			"trading_volume": "45523714.1"
+		},
+		{
+			"date": "15/11/2019",
+			"price_usd": "186.7",
+			"trading_volume": "74217250.17"
+		},
+		{
+			"date": "16/11/2019",
+			"price_usd": "183.46",
+			"trading_volume": "31378510.02"
+		},
+		{
+			"date": "17/11/2019",
+			"price_usd": "186.09",
+			"trading_volume": "36509968.7"
+		},
+		{
+			"date": "18/11/2019",
+			"price_usd": "184.06",
+			"trading_volume": "52985734.28"
+		},
+		{
+			"date": "19/11/2019",
+			"price_usd": "178.52",
+			"trading_volume": "48414106.96"
+		},
+		{
+			"date": "20/11/2019",
+			"price_usd": "177.41",
+			"trading_volume": "38001672.19"
+		},
+		{
+			"date": "21/11/2019",
+			"price_usd": "175.85",
+			"trading_volume": "78641896.23"
+		},
+		{
+			"date": "22/11/2019",
+			"price_usd": "162.79",
+			"trading_volume": "147595324.6"
+		},
+		{
+			"date": "23/11/2019",
+			"price_usd": "154.33",
+			"trading_volume": "55595157.56"
+		},
+		{
+			"date": "24/11/2019",
+			"price_usd": "152.86",
+			"trading_volume": "51503705.18"
+		},
+		{
+			"date": "25/11/2019",
+			"price_usd": "151.5",
+			"trading_volume": "106186791.3"
+		},
+		{
+			"date": "26/11/2019",
+			"price_usd": "149.97",
+			"trading_volume": "51873405.04"
+		},
+		{
+			"date": "27/11/2019",
+			"price_usd": "155.54",
+			"trading_volume": "83505998.05"
+		},
+		{
+			"date": "28/11/2019",
+			"price_usd": "154.63",
+			"trading_volume": "48324220.62"
+		},
+		{
+			"date": "29/11/2019",
+			"price_usd": "157.6",
+			"trading_volume": "50649319.12"
+		},
+		{
+			"date": "30/11/2019",
+			"price_usd": "155.25",
+			"trading_volume": "34617912.18"
+		},
+		{
+			"date": "1/12/2019",
+			"price_usd": "152.49",
+			"trading_volume": "51148792.08"
+		},
+		{
+			"date": "2/12/2019",
+			"price_usd": "151.42",
+			"trading_volume": "34768563.47"
+		},
+		{
+			"date": "3/12/2019",
+			"price_usd": "149.93",
+			"trading_volume": "29061161.1"
+		},
+		{
+			"date": "4/12/2019",
+			"price_usd": "151.98",
+			"trading_volume": "63840615.24"
+		},
+		{
+			"date": "5/12/2019",
+			"price_usd": "149.02",
+			"trading_volume": "43777241.59"
+		},
+		{
+			"date": "6/12/2019",
+			"price_usd": "149.77",
+			"trading_volume": "32549526.4"
+		},
+		{
+			"date": "7/12/2019",
+			"price_usd": "149.49",
+			"trading_volume": "20799551.35"
+		},
+		{
+			"date": "8/12/2019",
+			"price_usd": "151.62",
+			"trading_volume": "30606289.29"
+		},
+		{
+			"date": "9/12/2019",
+			"price_usd": "151.19",
+			"trading_volume": "36345702.35"
+		},
+		{
+			"date": "10/12/2019",
+			"price_usd": "148.57",
+			"trading_volume": "29746845.43"
+		},
+		{
+			"date": "11/12/2019",
+			"price_usd": "146.34",
+			"trading_volume": "22772651.17"
+		},
+		{
+			"date": "12/12/2019",
+			"price_usd": "145.85",
+			"trading_volume": "37425277.04"
+		},
+		{
+			"date": "13/12/2019",
+			"price_usd": "146",
+			"trading_volume": "23203419.96"
+		},
+		{
+			"date": "14/12/2019",
+			"price_usd": "145.07",
+			"trading_volume": "18027581.36"
+		},
+		{
+			"date": "15/12/2019",
+			"price_usd": "144.12",
+			"trading_volume": "21495196.82"
+		},
+		{
+			"date": "16/12/2019",
+			"price_usd": "142.72",
+			"trading_volume": "63632055.58"
+		},
+		{
+			"date": "17/12/2019",
+			"price_usd": "132.98",
+			"trading_volume": "71709329.27"
+		},
+		{
+			"date": "18/12/2019",
+			"price_usd": "134.87",
+			"trading_volume": "110566290.6"
+		},
+		{
+			"date": "19/12/2019",
+			"price_usd": "134",
+			"trading_volume": "53766864.19"
+		},
+		{
+			"date": "20/12/2019",
+			"price_usd": "129.39",
+			"trading_volume": "27266605.48"
+		},
+		{
+			"date": "21/12/2019",
+			"price_usd": "128.4",
+			"trading_volume": "17199278.79"
+		},
+		{
+			"date": "22/12/2019",
+			"price_usd": "133.07",
+			"trading_volume": "32938501.02"
+		},
+		{
+			"date": "23/12/2019",
+			"price_usd": "135.1",
+			"trading_volume": "55501305.92"
+		},
+		{
+			"date": "24/12/2019",
+			"price_usd": "129.69",
+			"trading_volume": "25667665.14"
+		},
+		{
+			"date": "25/12/2019",
+			"price_usd": "127.84",
+			"trading_volume": "28144469.16"
+		},
+		{
+			"date": "26/12/2019",
+			"price_usd": "132.26",
+			"trading_volume": "34943780.91"
+		},
+		{
+			"date": "27/12/2019",
+			"price_usd": "127.1",
+			"trading_volume": "30020098.89"
+		},
+		{
+			"date": "28/12/2019",
+			"price_usd": "129.68",
+			"trading_volume": "25177121.15"
+		},
+		{
+			"date": "29/12/2019",
+			"price_usd": "138.07",
+			"trading_volume": "41893078.36"
+		},
+		{
+			"date": "30/12/2019",
+			"price_usd": "136.24",
+			"trading_volume": "42636559.38"
+		},
+		{
+			"date": "31/12/2019",
+			"price_usd": "133.68",
+			"trading_volume": "34678632.18"
+		},
+		{
+			"date": "1/1/2020",
+			"price_usd": "133.05",
+			"trading_volume": "18952318.53"
+		},
+		{
+			"date": "2/1/2020",
+			"price_usd": "130.78",
+			"trading_volume": "27486853.39"
+		},
+		{
+			"date": "3/1/2020",
+			"price_usd": "135.14",
+			"trading_volume": "54139288.22"
+		},
+		{
+			"date": "4/1/2020",
+			"price_usd": "135.85",
+			"trading_volume": "24641135.57"
+		},
+		{
+			"date": "5/1/2020",
+			"price_usd": "138.19",
+			"trading_volume": "34593687.6"
+		},
+		{
+			"date": "6/1/2020",
+			"price_usd": "144.41",
+			"trading_volume": "57400544.49"
+		},
+		{
+			"date": "7/1/2020",
+			"price_usd": "145.31",
+			"trading_volume": "63861666.4"
+		},
+		{
+			"date": "8/1/2020",
+			"price_usd": "147.77",
+			"trading_volume": "81184999.73"
+		},
+		{
+			"date": "9/1/2020",
+			"price_usd": "141.5",
+			"trading_volume": "50611452.58"
+		},
+		{
+			"date": "10/1/2020",
+			"price_usd": "145.17",
+			"trading_volume": "57377525.56"
+		},
+		{
+			"date": "11/1/2020",
+			"price_usd": "148.05",
+			"trading_volume": "53149360.56"
+		},
+		{
+			"date": "12/1/2020",
+			"price_usd": "146.6",
+			"trading_volume": "33112850.82"
+		},
+		{
+			"date": "13/1/2020",
+			"price_usd": "147",
+			"trading_volume": "29888095.37"
+		},
+		{
+			"date": "14/1/2020",
+			"price_usd": "171.7",
+			"trading_volume": "173492006.2"
+		},
+		{
+			"date": "15/1/2020",
+			"price_usd": "171.98",
+			"trading_volume": "119239937.9"
+		},
+		{
+			"date": "16/1/2020",
+			"price_usd": "167.4",
+			"trading_volume": "74038650.83"
+		},
+		{
+			"date": "17/1/2020",
+			"price_usd": "174.81",
+			"trading_volume": "129909265.3"
+		},
+		{
+			"date": "18/1/2020",
+			"price_usd": "179.5",
+			"trading_volume": "119388338.8"
+		},
+		{
+			"date": "19/1/2020",
+			"price_usd": "178.05",
+			"trading_volume": "105691368.8"
+		},
+		{
+			"date": "20/1/2020",
+			"price_usd": "169.33",
+			"trading_volume": "59292534.72"
+		},
+		{
+			"date": "21/1/2020",
+			"price_usd": "170.32",
+			"trading_volume": "51615232.57"
+		},
+		{
+			"date": "22/1/2020",
+			"price_usd": "171.47",
+			"trading_volume": "45903134.16"
+		},
+		{
+			"date": "23/1/2020",
+			"price_usd": "168.2",
+			"trading_volume": "60971659.77"
+		},
+		{
+			"date": "24/1/2020",
+			"price_usd": "164.45",
+			"trading_volume": "68980724.06"
+		},
+		{
+			"date": "25/1/2020",
+			"price_usd": "162.79",
+			"trading_volume": "35196608.31"
+		},
+		{
+			"date": "26/1/2020",
+			"price_usd": "168.08",
+			"trading_volume": "41239031.34"
+		},
+		{
+			"date": "27/1/2020",
+			"price_usd": "172.56",
+			"trading_volume": "61846624.61"
+		},
+		{
+			"date": "28/1/2020",
+			"price_usd": "176.2",
+			"trading_volume": "81649497.49"
+		},
+		{
+			"date": "29/1/2020",
+			"price_usd": "178.45",
+			"trading_volume": "55988230.27"
+		},
+		{
+			"date": "30/1/2020",
+			"price_usd": "187",
+			"trading_volume": "85164074.08"
+		},
+		{
+			"date": "31/1/2020",
+			"price_usd": "185.82",
+			"trading_volume": "69633052.28"
+		},
+		{
+			"date": "1/2/2020",
+			"price_usd": "184.28",
+			"trading_volume": "47263178.07"
+		},
+		{
+			"date": "2/2/2020",
+			"price_usd": "193.43",
+			"trading_volume": "104105613.6"
+		},
+		{
+			"date": "3/2/2020",
+			"price_usd": "195.19",
+			"trading_volume": "79336312.52"
+		},
+		{
+			"date": "4/2/2020",
+			"price_usd": "191.6",
+			"trading_volume": "68720832.62"
+		},
+		{
+			"date": "5/2/2020",
+			"price_usd": "207.61",
+			"trading_volume": "108659358.5"
+		},
+		{
+			"date": "6/2/2020",
+			"price_usd": "216.33",
+			"trading_volume": "127874220.8"
+		},
+		{
+			"date": "7/2/2020",
+			"price_usd": "225",
+			"trading_volume": "138524804.2"
+		},
+		{
+			"date": "8/2/2020",
+			"price_usd": "227.75",
+			"trading_volume": "122069507.7"
+		},
+		{
+			"date": "9/2/2020",
+			"price_usd": "230.65",
+			"trading_volume": "79674647"
+		},
+		{
+			"date": "10/2/2020",
+			"price_usd": "229.4",
+			"trading_volume": "113385289"
+		},
+		{
+			"date": "11/2/2020",
+			"price_usd": "239.15",
+			"trading_volume": "135863928.6"
+		},
+		{
+			"date": "12/2/2020",
+			"price_usd": "275.34",
+			"trading_volume": "266734296.6"
+		},
+		{
+			"date": "13/2/2020",
+			"price_usd": "277.69",
+			"trading_volume": "291533156.1"
+		},
+		{
+			"date": "14/2/2020",
+			"price_usd": "287.15",
+			"trading_volume": "201120424.6"
+		},
+		{
+			"date": "15/2/2020",
+			"price_usd": "288.41",
+			"trading_volume": "236287101.1"
+		},
+		{
+			"date": "16/2/2020",
+			"price_usd": "274",
+			"trading_volume": "286269166.3"
+		},
+		{
+			"date": "17/2/2020",
+			"price_usd": "268.77",
+			"trading_volume": "280371301.8"
+		},
+		{
+			"date": "18/2/2020",
+			"price_usd": "285.88",
+			"trading_volume": "304162263.3"
+		},
+		{
+			"date": "19/2/2020",
+			"price_usd": "285",
+			"trading_volume": "191887955.8"
+		},
+		{
+			"date": "20/2/2020",
+			"price_usd": "264.33",
+			"trading_volume": "249383114"
+		},
+		{
+			"date": "21/2/2020",
+			"price_usd": "268.24",
+			"trading_volume": "137848242.4"
+		},
+		{
+			"date": "22/2/2020",
+			"price_usd": "266.81",
+			"trading_volume": "81781388.32"
+		},
+		{
+			"date": "23/2/2020",
+			"price_usd": "275.68",
+			"trading_volume": "120024059"
+		},
+		{
+			"date": "24/2/2020",
+			"price_usd": "277.2",
+			"trading_volume": "185949182.7"
+		},
+		{
+			"date": "25/2/2020",
+			"price_usd": "266.22",
+			"trading_volume": "197442911.5"
+		},
+		{
+			"date": "26/2/2020",
+			"price_usd": "250.32",
+			"trading_volume": "324229460.6"
+		},
+		{
+			"date": "27/2/2020",
+			"price_usd": "238.3",
+			"trading_volume": "287322727.3"
+		},
+		{
+			"date": "28/2/2020",
+			"price_usd": "234.67",
+			"trading_volume": "236064804.3"
+		},
+		{
+			"date": "29/2/2020",
+			"price_usd": "233",
+			"trading_volume": "123635801"
+		},
+		{
+			"date": "1/3/2020",
+			"price_usd": "227.89",
+			"trading_volume": "157064953.8"
+		},
+		{
+			"date": "2/3/2020",
+			"price_usd": "234.4",
+			"trading_volume": "182948651.7"
+		},
+		{
+			"date": "3/3/2020",
+			"price_usd": "232.46",
+			"trading_volume": "168090325.5"
+		},
+		{
+			"date": "4/3/2020",
+			"price_usd": "228.85",
+			"trading_volume": "99650220.54"
+		},
+		{
+			"date": "5/3/2020",
+			"price_usd": "234.09",
+			"trading_volume": "138081898.3"
+		},
+		{
+			"date": "6/3/2020",
+			"price_usd": "245.16",
+			"trading_volume": "148563741.8"
+		},
+		{
+			"date": "7/3/2020",
+			"price_usd": "251.93",
+			"trading_volume": "154037325.6"
+		},
+		{
+			"date": "8/3/2020",
+			"price_usd": "237.23",
+			"trading_volume": "277970187.9"
+		},
+		{
+			"date": "9/3/2020",
+			"price_usd": "208.62",
+			"trading_volume": "332570408.5"
+		},
+		{
+			"date": "10/3/2020",
+			"price_usd": "206.2",
+			"trading_volume": "205536190.2"
+		},
+		{
+			"date": "11/3/2020",
+			"price_usd": "203.18",
+			"trading_volume": "208232375.2"
+		},
+		{
+			"date": "12/3/2020",
+			"price_usd": "195.55",
+			"trading_volume": "548668262.2"
+		},
+		{
+			"date": "13/3/2020",
+			"price_usd": "139.68",
+			"trading_volume": "560710331.8"
+		},
+		{
+			"date": "14/3/2020",
+			"price_usd": "134.68",
+			"trading_volume": "159192895.6"
+		},
+		{
+			"date": "15/3/2020",
+			"price_usd": "133.5",
+			"trading_volume": "163436235.3"
+		},
+		{
+			"date": "16/3/2020",
+			"price_usd": "124.33",
+			"trading_volume": "270353891.8"
+		},
+		{
+			"date": "17/3/2020",
+			"price_usd": "120.8",
+			"trading_volume": "150800664.1"
+		},
+		{
+			"date": "18/3/2020",
+			"price_usd": "118.5",
+			"trading_volume": "137550912.1"
+		},
+		{
+			"date": "19/3/2020",
+			"price_usd": "143.13",
+			"trading_volume": "231626928.2"
+		},
+		{
+			"date": "20/3/2020",
+			"price_usd": "152.55",
+			"trading_volume": "345856006.7"
+		},
+		{
+			"date": "21/3/2020",
+			"price_usd": "137.49",
+			"trading_volume": "162468451.8"
+		},
+		{
+			"date": "22/3/2020",
+			"price_usd": "137.13",
+			"trading_volume": "135927941.1"
+		},
+		{
+			"date": "23/3/2020",
+			"price_usd": "137.5",
+			"trading_volume": "184851609.1"
+		},
+		{
+			"date": "24/3/2020",
+			"price_usd": "143.36",
+			"trading_volume": "171156363.7"
+		},
+		{
+			"date": "25/3/2020",
+			"price_usd": "142.33",
+			"trading_volume": "141795323"
+		},
+		{
+			"date": "26/3/2020",
+			"price_usd": "139.74",
+			"trading_volume": "101918769.7"
+		},
+		{
+			"date": "27/3/2020",
+			"price_usd": "141.27",
+			"trading_volume": "96581886.88"
+		},
+		{
+			"date": "28/3/2020",
+			"price_usd": "132.97",
+			"trading_volume": "115166652"
+		},
+		{
+			"date": "29/3/2020",
+			"price_usd": "131.84",
+			"trading_volume": "69434202.21"
+		},
+		{
+			"date": "30/3/2020",
+			"price_usd": "135.42",
+			"trading_volume": "100271145.9"
+		},
+		{
+			"date": "31/3/2020",
+			"price_usd": "135",
+			"trading_volume": "72618183.48"
+		},
+		{
+			"date": "1/4/2020",
+			"price_usd": "136.99",
+			"trading_volume": "90063924.23"
+		},
+		{
+			"date": "2/4/2020",
+			"price_usd": "149.76",
+			"trading_volume": "159989506.6"
+		},
+		{
+			"date": "3/4/2020",
+			"price_usd": "146.72",
+			"trading_volume": "113731706.7"
+		},
+		{
+			"date": "4/4/2020",
+			"price_usd": "146.28",
+			"trading_volume": "81640622.83"
+		},
+		{
+			"date": "5/4/2020",
+			"price_usd": "145.58",
+			"trading_volume": "59383946.13"
+		},
+		{
+			"date": "6/4/2020",
+			"price_usd": "172",
+			"trading_volume": "257097597.8"
+		},
+		{
+			"date": "7/4/2020",
+			"price_usd": "176.22",
+			"trading_volume": "292710722.6"
+		},
+		{
+			"date": "8/4/2020",
+			"price_usd": "174.48",
+			"trading_volume": "173916484.8"
+		},
+		{
+			"date": "9/4/2020",
+			"price_usd": "173.38",
+			"trading_volume": "122531132"
+		},
+		{
+			"date": "10/4/2020",
+			"price_usd": "170.1",
+			"trading_volume": "209535613.3"
+		},
+		{
+			"date": "11/4/2020",
+			"price_usd": "161.37",
+			"trading_volume": "98275533.06"
+		},
+		{
+			"date": "12/4/2020",
+			"price_usd": "164.78",
+			"trading_volume": "129919934.4"
+		},
+		{
+			"date": "13/4/2020",
+			"price_usd": "158.97",
+			"trading_volume": "160423270.3"
+		},
+		{
+			"date": "14/4/2020",
+			"price_usd": "161.85",
+			"trading_volume": "110710086.1"
+		},
+		{
+			"date": "15/4/2020",
+			"price_usd": "161.29",
+			"trading_volume": "114640840.1"
+		},
+		{
+			"date": "16/4/2020",
+			"price_usd": "174.79",
+			"trading_volume": "273639160.1"
+		},
+		{
+			"date": "17/4/2020",
+			"price_usd": "174.96",
+			"trading_volume": "123553456.3"
+		},
+		{
+			"date": "18/4/2020",
+			"price_usd": "189.54",
+			"trading_volume": "203132212"
+		},
+		{
+			"date": "19/4/2020",
+			"price_usd": "188.35",
+			"trading_volume": "181415813.5"
+		},
+		{
+			"date": "20/4/2020",
+			"price_usd": "186.46",
+			"trading_volume": "273854539.8"
+		},
+		{
+			"date": "21/4/2020",
+			"price_usd": "174.7",
+			"trading_volume": "155292048.4"
+		},
+		{
+			"date": "22/4/2020",
+			"price_usd": "184",
+			"trading_volume": "176079076.9"
+		},
+		{
+			"date": "23/4/2020",
+			"price_usd": "193.63",
+			"trading_volume": "270862911.4"
+		},
+		{
+			"date": "24/4/2020",
+			"price_usd": "189.8",
+			"trading_volume": "146419748.1"
+		},
+		{
+			"date": "25/4/2020",
+			"price_usd": "198.36",
+			"trading_volume": "167703202.4"
+		},
+		{
+			"date": "26/4/2020",
+			"price_usd": "200",
+			"trading_volume": "148433709.8"
+		},
+		{
+			"date": "27/4/2020",
+			"price_usd": "199.05",
+			"trading_volume": "174775637.9"
+		},
+		{
+			"date": "28/4/2020",
+			"price_usd": "198.5",
+			"trading_volume": "124476041.9"
+		},
+		{
+			"date": "29/4/2020",
+			"price_usd": "218.77",
+			"trading_volume": "338324593.6"
+		},
+		{
+			"date": "30/4/2020",
+			"price_usd": "227.3",
+			"trading_volume": "374893029.8"
+		},
+		{
+			"date": "1/5/2020",
+			"price_usd": "217.14",
+			"trading_volume": "168339123.4"
+		},
+		{
+			"date": "2/5/2020",
+			"price_usd": "215.37",
+			"trading_volume": "94389501.52"
+		},
+		{
+			"date": "3/5/2020",
+			"price_usd": "219.3",
+			"trading_volume": "158874887.1"
+		},
+		{
+			"date": "4/5/2020",
+			"price_usd": "210.65",
+			"trading_volume": "225451167.7"
+		},
+		{
+			"date": "5/5/2020",
+			"price_usd": "211.68",
+			"trading_volume": "131906204.9"
+		},
+		{
+			"date": "6/5/2020",
+			"price_usd": "210.77",
+			"trading_volume": "178157452.6"
+		},
+		{
+			"date": "7/5/2020",
+			"price_usd": "215.1",
+			"trading_volume": "271197927.7"
+		},
+		{
+			"date": "8/5/2020",
+			"price_usd": "216.61",
+			"trading_volume": "194579529.4"
+		},
+		{
+			"date": "9/5/2020",
+			"price_usd": "214.6",
+			"trading_volume": "124626471.4"
+		},
+		{
+			"date": "10/5/2020",
+			"price_usd": "210.18",
+			"trading_volume": "278394290.8"
+		},
+		{
+			"date": "11/5/2020",
+			"price_usd": "193.5",
+			"trading_volume": "203391530.2"
+		},
+		{
+			"date": "12/5/2020",
+			"price_usd": "192.24",
+			"trading_volume": "126810812.2"
+		},
+		{
+			"date": "13/5/2020",
+			"price_usd": "201",
+			"trading_volume": "156637596.4"
+		},
+		{
+			"date": "14/5/2020",
+			"price_usd": "206.02",
+			"trading_volume": "224233786.1"
+		},
+		{
+			"date": "15/5/2020",
+			"price_usd": "204.08",
+			"trading_volume": "179634085.6"
+		},
+		{
+			"date": "16/5/2020",
+			"price_usd": "203.5",
+			"trading_volume": "134060788.5"
+		},
+		{
+			"date": "17/5/2020",
+			"price_usd": "209.85",
+			"trading_volume": "145341278.7"
+		},
+		{
+			"date": "18/5/2020",
+			"price_usd": "217.07",
+			"trading_volume": "226789027.2"
+		},
+		{
+			"date": "19/5/2020",
+			"price_usd": "215.95",
+			"trading_volume": "136846948.6"
+		},
+		{
+			"date": "20/5/2020",
+			"price_usd": "215.75",
+			"trading_volume": "143704806.2"
+		},
+		{
+			"date": "21/5/2020",
+			"price_usd": "211.64",
+			"trading_volume": "203445711"
+		},
+		{
+			"date": "22/5/2020",
+			"price_usd": "209.19",
+			"trading_volume": "159972608.5"
+		},
+		{
+			"date": "23/5/2020",
+			"price_usd": "211.2",
+			"trading_volume": "99461068.1"
+		},
+		{
+			"date": "24/5/2020",
+			"price_usd": "210.55",
+			"trading_volume": "138917619.2"
+		},
+		{
+			"date": "25/5/2020",
+			"price_usd": "205.67",
+			"trading_volume": "95411610.8"
+		},
+		{
+			"date": "26/5/2020",
+			"price_usd": "205",
+			"trading_volume": "96116808.86"
+		},
+		{
+			"date": "27/5/2020",
+			"price_usd": "208.44",
+			"trading_volume": "101445351"
+		},
+		{
+			"date": "28/5/2020",
+			"price_usd": "220.5",
+			"trading_volume": "136361627.3"
+		},
+		{
+			"date": "29/5/2020",
+			"price_usd": "224.79",
+			"trading_volume": "133220045.5"
+		},
+		{
+			"date": "30/5/2020",
+			"price_usd": "247",
+			"trading_volume": "238678839.8"
+		},
+		{
+			"date": "31/5/2020",
+			"price_usd": "245.39",
+			"trading_volume": "194867426.3"
+		},
+		{
+			"date": "1/6/2020",
+			"price_usd": "250.68",
+			"trading_volume": "198791911.8"
+		},
+		{
+			"date": "2/6/2020",
+			"price_usd": "253.8",
+			"trading_volume": "230680327.3"
+		},
+		{
+			"date": "3/6/2020",
+			"price_usd": "245",
+			"trading_volume": "120179301.2"
+		},
+		{
+			"date": "4/6/2020",
+			"price_usd": "246.6",
+			"trading_volume": "162460397.6"
+		},
+		{
+			"date": "5/6/2020",
+			"price_usd": "247.87",
+			"trading_volume": "122084004.5"
+		},
+		{
+			"date": "6/6/2020",
+			"price_usd": "244.7",
+			"trading_volume": "93979350.81"
+		},
+		{
+			"date": "7/6/2020",
+			"price_usd": "245.37",
+			"trading_volume": "137165732.6"
+		},
+		{
+			"date": "8/6/2020",
+			"price_usd": "247.7",
+			"trading_volume": "93355224.97"
+		},
+		{
+			"date": "9/6/2020",
+			"price_usd": "249.82",
+			"trading_volume": "102374504.6"
+		},
+		{
+			"date": "10/6/2020",
+			"price_usd": "250.28",
+			"trading_volume": "105797248.2"
+		},
+		{
+			"date": "11/6/2020",
+			"price_usd": "250.09",
+			"trading_volume": "195063781.3"
+		},
+		{
+			"date": "12/6/2020",
+			"price_usd": "239.38",
+			"trading_volume": "105069425.1"
+		},
+		{
+			"date": "13/6/2020",
+			"price_usd": "238.73",
+			"trading_volume": "60087772.65"
+		},
+		{
+			"date": "14/6/2020",
+			"price_usd": "238.59",
+			"trading_volume": "71575514.08"
+		},
+		{
+			"date": "15/6/2020",
+			"price_usd": "233.55",
+			"trading_volume": "197907504.8"
+		},
+		{
+			"date": "16/6/2020",
+			"price_usd": "236",
+			"trading_volume": "116456364.2"
+		},
+		{
+			"date": "17/6/2020",
+			"price_usd": "237.3",
+			"trading_volume": "111415059.1"
+		},
+		{
+			"date": "18/6/2020",
+			"price_usd": "234.65",
+			"trading_volume": "77542070.33"
+		},
+		{
+			"date": "19/6/2020",
+			"price_usd": "231.95",
+			"trading_volume": "91117706.16"
+		},
+		{
+			"date": "20/6/2020",
+			"price_usd": "230.85",
+			"trading_volume": "69343699.91"
+		},
+		{
+			"date": "21/6/2020",
+			"price_usd": "231.49",
+			"trading_volume": "58868166.51"
+		},
+		{
+			"date": "22/6/2020",
+			"price_usd": "246.89",
+			"trading_volume": "178707156.2"
+		},
+		{
+			"date": "23/6/2020",
+			"price_usd": "244.87",
+			"trading_volume": "107457002.5"
+		},
+		{
+			"date": "24/6/2020",
+			"price_usd": "249.24",
+			"trading_volume": "220763040.4"
+		},
+		{
+			"date": "25/6/2020",
+			"price_usd": "235.39",
+			"trading_volume": "142697463.4"
+		},
+		{
+			"date": "26/6/2020",
+			"price_usd": "233.61",
+			"trading_volume": "144805505.2"
+		},
+		{
+			"date": "27/6/2020",
+			"price_usd": "231.42",
+			"trading_volume": "145264632.3"
+		},
+		{
+			"date": "28/6/2020",
+			"price_usd": "227.96",
+			"trading_volume": "99423540.14"
+		},
+		{
+			"date": "29/6/2020",
+			"price_usd": "229.96",
+			"trading_volume": "134510531.2"
+		},
+		{
+			"date": "30/6/2020",
+			"price_usd": "228.7",
+			"trading_volume": "93802207.27"
+		},
+		{
+			"date": "1/7/2020",
+			"price_usd": "232.71",
+			"trading_volume": "118322932.9"
+		},
+		{
+			"date": "2/7/2020",
+			"price_usd": "232.01",
+			"trading_volume": "134976975.1"
+		},
+		{
+			"date": "3/7/2020",
+			"price_usd": "228.13",
+			"trading_volume": "71286978.5"
+		},
+		{
+			"date": "4/7/2020",
+			"price_usd": "230.71",
+			"trading_volume": "69899468.28"
+		},
+		{
+			"date": "5/7/2020",
+			"price_usd": "229.85",
+			"trading_volume": "80528660.62"
+		},
+		{
+			"date": "6/7/2020",
+			"price_usd": "242",
+			"trading_volume": "203334727.9"
+		},
+		{
+			"date": "7/7/2020",
+			"price_usd": "243.77",
+			"trading_volume": "143122828.4"
+		},
+		{
+			"date": "8/7/2020",
+			"price_usd": "248.88",
+			"trading_volume": "233460700.8"
+		},
+		{
+			"date": "9/7/2020",
+			"price_usd": "247.9",
+			"trading_volume": "157541370"
+		},
+		{
+			"date": "10/7/2020",
+			"price_usd": "242.16",
+			"trading_volume": "108806462.5"
+		},
+		{
+			"date": "11/7/2020",
+			"price_usd": "241.67",
+			"trading_volume": "70548557.68"
+		},
+		{
+			"date": "12/7/2020",
+			"price_usd": "244",
+			"trading_volume": "112487552.4"
+		},
+		{
+			"date": "13/7/2020",
+			"price_usd": "245.33",
+			"trading_volume": "146193291.9"
+		},
+		{
+			"date": "14/7/2020",
+			"price_usd": "242.09",
+			"trading_volume": "102105027.1"
+		},
+		{
+			"date": "15/7/2020",
+			"price_usd": "241.45",
+			"trading_volume": "88059682.48"
+		},
+		{
+			"date": "16/7/2020",
+			"price_usd": "239.39",
+			"trading_volume": "137208323.2"
+		},
+		{
+			"date": "17/7/2020",
+			"price_usd": "234.84",
+			"trading_volume": "75931058.42"
+		},
+		{
+			"date": "18/7/2020",
+			"price_usd": "236.8",
+			"trading_volume": "80046747.83"
+		},
+		{
+			"date": "19/7/2020",
+			"price_usd": "239.92",
+			"trading_volume": "82120072.99"
+		},
+		{
+			"date": "20/7/2020",
+			"price_usd": "239.72",
+			"trading_volume": "94314378.94"
+		},
+		{
+			"date": "21/7/2020",
+			"price_usd": "246.66",
+			"trading_volume": "154502240.9"
+		},
+		{
+			"date": "22/7/2020",
+			"price_usd": "269.61",
+			"trading_volume": "180692677.2"
+		},
+		{
+			"date": "23/7/2020",
+			"price_usd": "279.98",
+			"trading_volume": "287217202.7"
+		},
+		{
+			"date": "24/7/2020",
+			"price_usd": "287.34",
+			"trading_volume": "256347245.5"
+		},
+		{
+			"date": "25/7/2020",
+			"price_usd": "308.94",
+			"trading_volume": "308799629.4"
+		},
+		{
+			"date": "26/7/2020",
+			"price_usd": "318.75",
+			"trading_volume": "392346895.3"
+		},
+		{
+			"date": "27/7/2020",
+			"price_usd": "333.31",
+			"trading_volume": "527292799.3"
+		},
+		{
+			"date": "28/7/2020",
+			"price_usd": "326.8",
+			"trading_volume": "346187853.3"
+		},
+		{
+			"date": "29/7/2020",
+			"price_usd": "325",
+			"trading_volume": "254201662.1"
+		},
+		{
+			"date": "30/7/2020",
+			"price_usd": "342",
+			"trading_volume": "328286452.5"
+		},
+		{
+			"date": "31/7/2020",
+			"price_usd": "349.45",
+			"trading_volume": "323282981"
+		},
+		{
+			"date": "1/8/2020",
+			"price_usd": "392.67",
+			"trading_volume": "527543444.9"
+		},
+		{
+			"date": "2/8/2020",
+			"price_usd": "415.85",
+			"trading_volume": "878397036.3"
+		},
+		{
+			"date": "3/8/2020",
+			"price_usd": "398",
+			"trading_volume": "462170587.5"
+		},
+		{
+			"date": "4/8/2020",
+			"price_usd": "402.98",
+			"trading_volume": "461794422.2"
+		},
+		{
+			"date": "5/8/2020",
+			"price_usd": "407",
+			"trading_volume": "444335097.1"
+		},
+		{
+			"date": "6/8/2020",
+			"price_usd": "403.66",
+			"trading_volume": "325718417.7"
+		},
+		{
+			"date": "7/8/2020",
+			"price_usd": "398.26",
+			"trading_volume": "398625567.1"
+		},
+		{
+			"date": "8/8/2020",
+			"price_usd": "397.05",
+			"trading_volume": "240999198"
+		},
+		{
+			"date": "9/8/2020",
+			"price_usd": "400",
+			"trading_volume": "233057462.9"
+		},
+		{
+			"date": "10/8/2020",
+			"price_usd": "399.18",
+			"trading_volume": "326372434.9"
+		},
+		{
+			"date": "11/8/2020",
+			"price_usd": "398.21",
+			"trading_volume": "381981614.6"
+		},
+		{
+			"date": "12/8/2020",
+			"price_usd": "389.23",
+			"trading_volume": "285872467.6"
+		},
+		{
+			"date": "13/8/2020",
+			"price_usd": "431.49",
+			"trading_volume": "604810975.1"
+		},
+		{
+			"date": "14/8/2020",
+			"price_usd": "444.71",
+			"trading_volume": "477180580.1"
+		},
+		{
+			"date": "15/8/2020",
+			"price_usd": "442.94",
+			"trading_volume": "296652970.5"
+		},
+		{
+			"date": "16/8/2020",
+			"price_usd": "436.99",
+			"trading_volume": "305445885.8"
+		},
+		{
+			"date": "17/8/2020",
+			"price_usd": "446",
+			"trading_volume": "375038999.5"
+		},
+		{
+			"date": "18/8/2020",
+			"price_usd": "433.81",
+			"trading_volume": "316635287"
+		},
+		{
+			"date": "19/8/2020",
+			"price_usd": "426.75",
+			"trading_volume": "400208683.3"
+		},
+		{
+			"date": "20/8/2020",
+			"price_usd": "418.98",
+			"trading_volume": "273292342.2"
+		},
+		{
+			"date": "21/8/2020",
+			"price_usd": "418.68",
+			"trading_volume": "347455883.5"
+		},
+		{
+			"date": "22/8/2020",
+			"price_usd": "397.04",
+			"trading_volume": "250069873.4"
+		},
+		{
+			"date": "23/8/2020",
+			"price_usd": "396.95",
+			"trading_volume": "173799978"
+		},
+		{
+			"date": "24/8/2020",
+			"price_usd": "410.42",
+			"trading_volume": "287991794.2"
+		},
+		{
+			"date": "25/8/2020",
+			"price_usd": "409.06",
+			"trading_volume": "375681480.2"
+		},
+		{
+			"date": "26/8/2020",
+			"price_usd": "392.91",
+			"trading_volume": "284504413.1"
+		},
+		{
+			"date": "27/8/2020",
+			"price_usd": "397.1",
+			"trading_volume": "336647752.3"
+		},
+		{
+			"date": "28/8/2020",
+			"price_usd": "398",
+			"trading_volume": "286555002"
+		},
+		{
+			"date": "29/8/2020",
+			"price_usd": "405.69",
+			"trading_volume": "263787683"
+		},
+		{
+			"date": "30/8/2020",
+			"price_usd": "429.89",
+			"trading_volume": "370467271.1"
+		},
+		{
+			"date": "31/8/2020",
+			"price_usd": "439",
+			"trading_volume": "447866996.2"
+		},
+		{
+			"date": "1/9/2020",
+			"price_usd": "488.84",
+			"trading_volume": "813662129.7"
+		},
+		{
+			"date": "2/9/2020",
+			"price_usd": "481.39",
+			"trading_volume": "844475154.7"
+		},
+		{
+			"date": "3/9/2020",
+			"price_usd": "450.7",
+			"trading_volume": "995567239"
+		},
+		{
+			"date": "4/9/2020",
+			"price_usd": "400.21",
+			"trading_volume": "696658932.1"
+		},
+		{
+			"date": "5/9/2020",
+			"price_usd": "395",
+			"trading_volume": "967730464.9"
+		},
+		{
+			"date": "6/9/2020",
+			"price_usd": "360",
+			"trading_volume": "691925087.4"
+		},
+		{
+			"date": "7/9/2020",
+			"price_usd": "358.51",
+			"trading_volume": "596754172.7"
+		},
+		{
+			"date": "8/9/2020",
+			"price_usd": "356.58",
+			"trading_volume": "476444912.5"
+		},
+		{
+			"date": "9/9/2020",
+			"price_usd": "359",
+			"trading_volume": "304910633.8"
+		},
+		{
+			"date": "10/9/2020",
+			"price_usd": "377.25",
+			"trading_volume": "416598205.7"
+		},
+		{
+			"date": "11/9/2020",
+			"price_usd": "375.27",
+			"trading_volume": "308822715.1"
+		},
+		{
+			"date": "12/9/2020",
+			"price_usd": "388.57",
+			"trading_volume": "287133871.2"
+		},
+		{
+			"date": "13/9/2020",
+			"price_usd": "390.43",
+			"trading_volume": "367969518.5"
+		},
+		{
+			"date": "14/9/2020",
+			"price_usd": "384.64",
+			"trading_volume": "387238794.7"
+		},
+		{
+			"date": "15/9/2020",
+			"price_usd": "382.47",
+			"trading_volume": "328317009.6"
+		},
+		{
+			"date": "16/9/2020",
+			"price_usd": "373.45",
+			"trading_volume": "306622238.1"
+		},
+		{
+			"date": "17/9/2020",
+			"price_usd": "394.14",
+			"trading_volume": "479026710.9"
+		},
+		{
+			"date": "18/9/2020",
+			"price_usd": "392.58",
+			"trading_volume": "308748579.8"
+		},
+		{
+			"date": "19/9/2020",
+			"price_usd": "388.72",
+			"trading_volume": "218785730.1"
+		},
+		{
+			"date": "20/9/2020",
+			"price_usd": "385.45",
+			"trading_volume": "259700927.5"
+		},
+		{
+			"date": "21/9/2020",
+			"price_usd": "376.8",
+			"trading_volume": "452134893.6"
+		},
+		{
+			"date": "22/9/2020",
+			"price_usd": "346.91",
+			"trading_volume": "288166815.5"
+		},
+		{
+			"date": "23/9/2020",
+			"price_usd": "344.65",
+			"trading_volume": "313808761.1"
+		},
+		{
+			"date": "24/9/2020",
+			"price_usd": "353.1",
+			"trading_volume": "360708689.4"
+		},
+		{
+			"date": "25/9/2020",
+			"price_usd": "358",
+			"trading_volume": "298266918.8"
+		},
+		{
+			"date": "26/9/2020",
+			"price_usd": "356.4",
+			"trading_volume": "186812160.4"
+		},
+		{
+			"date": "27/9/2020",
+			"price_usd": "362.14",
+			"trading_volume": "202411362.7"
+		},
+		{
+			"date": "28/9/2020",
+			"price_usd": "368.2",
+			"trading_volume": "273063157.8"
+		},
+		{
+			"date": "29/9/2020",
+			"price_usd": "360.63",
+			"trading_volume": "208028826.5"
+		},
+		{
+			"date": "30/9/2020",
+			"price_usd": "361.5",
+			"trading_volume": "177784824.5"
+		},
+		{
+			"date": "1/10/2020",
+			"price_usd": "370.45",
+			"trading_volume": "271468849.8"
+		},
+		{
+			"date": "2/10/2020",
+			"price_usd": "354.55",
+			"trading_volume": "251829017.5"
+		},
+		{
+			"date": "3/10/2020",
+			"price_usd": "351",
+			"trading_volume": "105401893.4"
+		},
+		{
+			"date": "4/10/2020",
+			"price_usd": "354.45",
+			"trading_volume": "119961274.7"
+		},
+		{
+			"date": "5/10/2020",
+			"price_usd": "356.1",
+			"trading_volume": "132656713"
+		},
+		{
+			"date": "6/10/2020",
+			"price_usd": "355.1",
+			"trading_volume": "221765553.6"
+		},
+		{
+			"date": "7/10/2020",
+			"price_usd": "342.85",
+			"trading_volume": "183873686.4"
+		},
+		{
+			"date": "8/10/2020",
+			"price_usd": "353.32",
+			"trading_volume": "217322067"
+		},
+		{
+			"date": "9/10/2020",
+			"price_usd": "368.33",
+			"trading_volume": "232878561.9"
+		},
+		{
+			"date": "10/10/2020",
+			"price_usd": "378.4",
+			"trading_volume": "220607973"
+		},
+		{
+			"date": "11/10/2020",
+			"price_usd": "377.6",
+			"trading_volume": "139329772.5"
+		},
+		{
+			"date": "12/10/2020",
+			"price_usd": "394.8",
+			"trading_volume": "320587055.5"
+		},
+		{
+			"date": "13/10/2020",
+			"price_usd": "387.75",
+			"trading_volume": "246276552"
+		},
+		{
+			"date": "14/10/2020",
+			"price_usd": "387.41",
+			"trading_volume": "216288027"
+		},
+		{
+			"date": "15/10/2020",
+			"price_usd": "381.79",
+			"trading_volume": "238396852.8"
+		},
+		{
+			"date": "16/10/2020",
+			"price_usd": "379.83",
+			"trading_volume": "241127894.7"
+		},
+		{
+			"date": "17/10/2020",
+			"price_usd": "370.46",
+			"trading_volume": "104838880.5"
+		},
+		{
+			"date": "18/10/2020",
+			"price_usd": "378.64",
+			"trading_volume": "120818450.6"
+		},
+		{
+			"date": "19/10/2020",
+			"price_usd": "384.32",
+			"trading_volume": "218372640"
+		},
+		{
+			"date": "20/10/2020",
+			"price_usd": "380.73",
+			"trading_volume": "229928443.8"
+		},
+		{
+			"date": "21/10/2020",
+			"price_usd": "401.49",
+			"trading_volume": "472488832.7"
+		},
+		{
+			"date": "22/10/2020",
+			"price_usd": "420.73",
+			"trading_volume": "447211002.5"
+		},
+		{
+			"date": "23/10/2020",
+			"price_usd": "419.33",
+			"trading_volume": "299943190.9"
+		},
+		{
+			"date": "24/10/2020",
+			"price_usd": "416.66",
+			"trading_volume": "172799824.6"
+		},
+		{
+			"date": "25/10/2020",
+			"price_usd": "417.4",
+			"trading_volume": "170054743.3"
+		},
+		{
+			"date": "26/10/2020",
+			"price_usd": "411.11",
+			"trading_volume": "356208480.6"
+		},
+		{
+			"date": "27/10/2020",
+			"price_usd": "410.25",
+			"trading_volume": "302522886.8"
+		},
+		{
+			"date": "28/10/2020",
+			"price_usd": "409.2",
+			"trading_volume": "335751199.3"
+		},
+		{
+			"date": "29/10/2020",
+			"price_usd": "393.72",
+			"trading_volume": "222669504.9"
+		},
+		{
+			"date": "30/10/2020",
+			"price_usd": "391.97",
+			"trading_volume": "294342546"
+		},
+		{
+			"date": "31/10/2020",
+			"price_usd": "394.88",
+			"trading_volume": "181136851.5"
+		},
+		{
+			"date": "1/11/2020",
+			"price_usd": "398.29",
+			"trading_volume": "171238317.7"
+		},
+		{
+			"date": "2/11/2020",
+			"price_usd": "404.5",
+			"trading_volume": "304223545.9"
+		},
+		{
+			"date": "3/11/2020",
+			"price_usd": "390",
+			"trading_volume": "286291774"
+		},
+		{
+			"date": "4/11/2020",
+			"price_usd": "408.39",
+			"trading_volume": "454481208.4"
+		},
+		{
+			"date": "5/11/2020",
+			"price_usd": "420.4",
+			"trading_volume": "601591250.4"
+		},
+		{
+			"date": "6/11/2020",
+			"price_usd": "458.27",
+			"trading_volume": "736015135.6"
+		},
+		{
+			"date": "7/11/2020",
+			"price_usd": "468.28",
+			"trading_volume": "743871175.8"
+		},
+		{
+			"date": "8/11/2020",
+			"price_usd": "460.1",
+			"trading_volume": "375679148.2"
+		},
+		{
+			"date": "9/11/2020",
+			"price_usd": "459.1",
+			"trading_volume": "491928165"
+		},
+		{
+			"date": "10/11/2020",
+			"price_usd": "455",
+			"trading_volume": "388190148.2"
+		},
+		{
+			"date": "11/11/2020",
+			"price_usd": "476.25",
+			"trading_volume": "559228791.9"
+		},
+		{
+			"date": "12/11/2020",
+			"price_usd": "470",
+			"trading_volume": "455971309.2"
+		},
+		{
+			"date": "13/11/2020",
+			"price_usd": "478.01",
+			"trading_volume": "456232937.2"
+		},
+		{
+			"date": "14/11/2020",
+			"price_usd": "477.47",
+			"trading_volume": "340142257.2"
+		},
+		{
+			"date": "15/11/2020",
+			"price_usd": "462.89",
+			"trading_volume": "301406126.5"
+		},
+		{
+			"date": "16/11/2020",
+			"price_usd": "466",
+			"trading_volume": "370889706.7"
+		},
+		{
+			"date": "17/11/2020",
+			"price_usd": "484.88",
+			"trading_volume": "544239665.4"
+		},
+		{
+			"date": "18/11/2020",
+			"price_usd": "495.31",
+			"trading_volume": "706704397.4"
+		},
+		{
+			"date": "19/11/2020",
+			"price_usd": "480.75",
+			"trading_volume": "387199111.4"
+		},
+		{
+			"date": "20/11/2020",
+			"price_usd": "514.4",
+			"trading_volume": "756660192.9"
+		},
+		{
+			"date": "21/11/2020",
+			"price_usd": "553.32",
+			"trading_volume": "815402228.5"
+		},
+		{
+			"date": "22/11/2020",
+			"price_usd": "580.88",
+			"trading_volume": "1014064539"
+		},
+		{
+			"date": "23/11/2020",
+			"price_usd": "610.85",
+			"trading_volume": "1218150934"
+		},
+		{
+			"date": "24/11/2020",
+			"price_usd": "623",
+			"trading_volume": "976376501.3"
+		},
+		{
+			"date": "25/11/2020",
+			"price_usd": "606",
+			"trading_volume": "716972340.7"
+		},
+		{
+			"date": "26/11/2020",
+			"price_usd": "577.14",
+			"trading_volume": "1386030255"
+		},
+		{
+			"date": "27/11/2020",
+			"price_usd": "530.62",
+			"trading_volume": "558985308.9"
+		},
+		{
+			"date": "28/11/2020",
+			"price_usd": "547.94",
+			"trading_volume": "475169074.7"
+		},
+		{
+			"date": "29/11/2020",
+			"price_usd": "576.9",
+			"trading_volume": "471629262.2"
+		},
+		{
+			"date": "30/11/2020",
+			"price_usd": "616.85",
+			"trading_volume": "895373784.8"
+		},
+		{
+			"date": "1/12/2020",
+			"price_usd": "635.7",
+			"trading_volume": "1300668283"
+		},
+		{
+			"date": "2/12/2020",
+			"price_usd": "604.93",
+			"trading_volume": "632858653.2"
+		},
+		{
+			"date": "3/12/2020",
+			"price_usd": "623.44",
+			"trading_volume": "568024618.9"
+		},
+		{
+			"date": "4/12/2020",
+			"price_usd": "620",
+			"trading_volume": "624543865.9"
+		},
+		{
+			"date": "5/12/2020",
+			"price_usd": "597.11",
+			"trading_volume": "410382624.7"
+		},
+		{
+			"date": "6/12/2020",
+			"price_usd": "607.5",
+			"trading_volume": "359236400.3"
+		},
+		{
+			"date": "7/12/2020",
+			"price_usd": "603.15",
+			"trading_volume": "295598087"
+		},
+		{
+			"date": "8/12/2020",
+			"price_usd": "595",
+			"trading_volume": "461781203.2"
+		},
+		{
+			"date": "9/12/2020",
+			"price_usd": "578.08",
+			"trading_volume": "555142155.9"
+		},
+		{
+			"date": "10/12/2020",
+			"price_usd": "575.7",
+			"trading_volume": "341352126.3"
+		},
+		{
+			"date": "11/12/2020",
+			"price_usd": "560.8",
+			"trading_volume": "419607430.4"
+		},
+		{
+			"date": "12/12/2020",
+			"price_usd": "574",
+			"trading_volume": "320867352.5"
+		},
+		{
+			"date": "13/12/2020",
+			"price_usd": "595",
+			"trading_volume": "383072560.3"
+		},
+		{
+			"date": "14/12/2020",
+			"price_usd": "591.48",
+			"trading_volume": "288110224"
+		},
+		{
+			"date": "15/12/2020",
+			"price_usd": "597.2",
+			"trading_volume": "334543178.4"
+		},
+		{
+			"date": "16/12/2020",
+			"price_usd": "640",
+			"trading_volume": "725009244.4"
+		},
+		{
+			"date": "17/12/2020",
+			"price_usd": "676.25",
+			"trading_volume": "1307445033"
+		},
+		{
+			"date": "18/12/2020",
+			"price_usd": "664.61",
+			"trading_volume": "646217791.2"
+		},
+		{
+			"date": "19/12/2020",
+			"price_usd": "669.95",
+			"trading_volume": "564029933.3"
+		},
+		{
+			"date": "20/12/2020",
+			"price_usd": "661.39",
+			"trading_volume": "533109285.7"
+		},
+		{
+			"date": "21/12/2020",
+			"price_usd": "648",
+			"trading_volume": "524208673.9"
+		},
+		{
+			"date": "22/12/2020",
+			"price_usd": "637.73",
+			"trading_volume": "563872004.6"
+		},
+		{
+			"date": "23/12/2020",
+			"price_usd": "638.44",
+			"trading_volume": "733443630.4"
+		},
+		{
+			"date": "24/12/2020",
+			"price_usd": "615.02",
+			"trading_volume": "519843557"
+		},
+		{
+			"date": "25/12/2020",
+			"price_usd": "634.24",
+			"trading_volume": "494089140.9"
+		},
+		{
+			"date": "26/12/2020",
+			"price_usd": "652.91",
+			"trading_volume": "607664782"
+		},
+		{
+			"date": "27/12/2020",
+			"price_usd": "717.13",
+			"trading_volume": "1247547957"
+		},
+		{
+			"date": "28/12/2020",
+			"price_usd": "748.09",
+			"trading_volume": "1180438285"
+		},
+		{
+			"date": "29/12/2020",
+			"price_usd": "740.78",
+			"trading_volume": "794643540.5"
+		},
+		{
+			"date": "30/12/2020",
+			"price_usd": "758.74",
+			"trading_volume": "743546676.8"
+		},
+		{
+			"date": "31/12/2020",
+			"price_usd": "755.74",
+			"trading_volume": "638503822.4"
+		},
+		{
+			"date": "1/1/2021",
+			"price_usd": "749",
+			"trading_volume": "496072043.8"
+		},
+		{
+			"date": "2/1/2021",
+			"price_usd": "787.69",
+			"trading_volume": "1024472183"
+		},
+		{
+			"date": "3/1/2021",
+			"price_usd": "1011.07",
+			"trading_volume": "2522411860"
+		},
+		{
+			"date": "4/1/2021",
+			"price_usd": "1162.97",
+			"trading_volume": "4303634203"
+		},
+		{
+			"date": "5/1/2021",
+			"price_usd": "1134.6",
+			"trading_volume": "2857050280"
+		},
+		{
+			"date": "6/1/2021",
+			"price_usd": "1213",
+			"trading_volume": "2725262121"
+		},
+		{
+			"date": "7/1/2021",
+			"price_usd": "1289",
+			"trading_volume": "2406219891"
+		},
+		{
+			"date": "8/1/2021",
+			"price_usd": "1273.75",
+			"trading_volume": "2543427453"
+		},
+		{
+			"date": "9/1/2021",
+			"price_usd": "1304.37",
+			"trading_volume": "1780137376"
+		},
+		{
+			"date": "10/1/2021",
+			"price_usd": "1348.33",
+			"trading_volume": "2517791852"
+		},
+		{
+			"date": "11/1/2021",
+			"price_usd": "1260",
+			"trading_volume": "4290593990"
+		},
+		{
+			"date": "12/1/2021",
+			"price_usd": "1150.02",
+			"trading_volume": "2491067093"
+		},
+		{
+			"date": "13/1/2021",
+			"price_usd": "1137.65",
+			"trading_volume": "1664178969"
+		},
+		{
+			"date": "14/1/2021",
+			"price_usd": "1247.55",
+			"trading_volume": "1825860914"
+		},
+		{
+			"date": "15/1/2021",
+			"price_usd": "1256.98",
+			"trading_volume": "2302781119"
+		},
+		{
+			"date": "16/1/2021",
+			"price_usd": "1298",
+			"trading_volume": "1927453175"
+		},
+		{
+			"date": "17/1/2021",
+			"price_usd": "1269.02",
+			"trading_volume": "1606424364"
+		},
+		{
+			"date": "18/1/2021",
+			"price_usd": "1260.75",
+			"trading_volume": "1223628041"
+		},
+		{
+			"date": "19/1/2021",
+			"price_usd": "1438.3",
+			"trading_volume": "3120980924"
+		},
+		{
+			"date": "20/1/2021",
+			"price_usd": "1407.93",
+			"trading_volume": "2931656296"
+		},
+		{
+			"date": "21/1/2021",
+			"price_usd": "1390",
+			"trading_volume": "2787012515"
+		},
+		{
+			"date": "22/1/2021",
+			"price_usd": "1273.79",
+			"trading_volume": "2360267831"
+		},
+		{
+			"date": "23/1/2021",
+			"price_usd": "1272.44",
+			"trading_volume": "1250575692"
+		},
+		{
+			"date": "24/1/2021",
+			"price_usd": "1398.83",
+			"trading_volume": "1996765628"
+		},
+		{
+			"date": "25/1/2021",
+			"price_usd": "1475",
+			"trading_volume": "2644267237"
+		},
+		{
+			"date": "26/1/2021",
+			"price_usd": "1378.49",
+			"trading_volume": "2216751668"
+		},
+		{
+			"date": "27/1/2021",
+			"price_usd": "1373.9",
+			"trading_volume": "2554649901"
+		},
+		{
+			"date": "28/1/2021",
+			"price_usd": "1360",
+			"trading_volume": "1790490878"
+		},
+		{
+			"date": "29/1/2021",
+			"price_usd": "1436.9",
+			"trading_volume": "3077996801"
+		},
+		{
+			"date": "30/1/2021",
+			"price_usd": "1406",
+			"trading_volume": "1414231403"
+		},
+		{
+			"date": "31/1/2021",
+			"price_usd": "1380.74",
+			"trading_volume": "1276842260"
+		},
+		{
+			"date": "1/2/2021",
+			"price_usd": "1377.99",
+			"trading_volume": "1449463767"
+		},
+		{
+			"date": "2/2/2021",
+			"price_usd": "1547.9",
+			"trading_volume": "2821617332"
+		},
+		{
+			"date": "3/2/2021",
+			"price_usd": "1669.35",
+			"trading_volume": "2418887042"
+		},
+		{
+			"date": "4/2/2021",
+			"price_usd": "1695.2",
+			"trading_volume": "2693099602"
+		},
+		{
+			"date": "5/2/2021",
+			"price_usd": "1760.49",
+			"trading_volume": "2011685911"
+		},
+		{
+			"date": "6/2/2021",
+			"price_usd": "1743.67",
+			"trading_volume": "1940057858"
+		},
+		{
+			"date": "7/2/2021",
+			"price_usd": "1693",
+			"trading_volume": "2044371589"
+		},
+		{
+			"date": "8/2/2021",
+			"price_usd": "1775.57",
+			"trading_volume": "2255426926"
+		},
+		{
+			"date": "9/2/2021",
+			"price_usd": "1821.88",
+			"trading_volume": "2080818892"
+		},
+		{
+			"date": "10/2/2021",
+			"price_usd": "1837.86",
+			"trading_volume": "2149076144"
+		},
+		{
+			"date": "11/2/2021",
+			"price_usd": "1819",
+			"trading_volume": "1301681872"
+		},
+		{
+			"date": "12/2/2021",
+			"price_usd": "1864.88",
+			"trading_volume": "1635426868"
+		},
+		{
+			"date": "13/2/2021",
+			"price_usd": "1871.72",
+			"trading_volume": "1395594093"
+		},
+		{
+			"date": "14/2/2021",
+			"price_usd": "1850",
+			"trading_volume": "1230043295"
+		},
+		{
+			"date": "15/2/2021",
+			"price_usd": "1835.72",
+			"trading_volume": "1860338372"
+		},
+		{
+			"date": "16/2/2021",
+			"price_usd": "1827.28",
+			"trading_volume": "1455884892"
+		},
+		{
+			"date": "17/2/2021",
+			"price_usd": "1855",
+			"trading_volume": "1437546813"
+		},
+		{
+			"date": "18/2/2021",
+			"price_usd": "1950.5",
+			"trading_volume": "1787383532"
+		},
+		{
+			"date": "19/2/2021",
+			"price_usd": "1972.82",
+			"trading_volume": "1533991632"
+		},
+		{
+			"date": "20/2/2021",
+			"price_usd": "2042.34",
+			"trading_volume": "2493836246"
+		},
+		{
+			"date": "21/2/2021",
+			"price_usd": "1976.31",
+			"trading_volume": "1467970937"
+		},
+		{
+			"date": "22/2/2021",
+			"price_usd": "1936.29",
+			"trading_volume": "3200483177"
+		},
+		{
+			"date": "23/2/2021",
+			"price_usd": "1782.39",
+			"trading_volume": "3931407908"
+		},
+		{
+			"date": "24/2/2021",
+			"price_usd": "1712.7",
+			"trading_volume": "2261264845"
+		},
+		{
+			"date": "25/2/2021",
+			"price_usd": "1671.59",
+			"trading_volume": "1650582277"
+		},
+		{
+			"date": "26/2/2021",
+			"price_usd": "1562.25",
+			"trading_volume": "2004016547"
+		},
+		{
+			"date": "27/2/2021",
+			"price_usd": "1529",
+			"trading_volume": "1375946816"
+		},
+		{
+			"date": "28/2/2021",
+			"price_usd": "1468.75",
+			"trading_volume": "1929140047"
+		},
+		{
+			"date": "1/3/2021",
+			"price_usd": "1572",
+			"trading_volume": "1642627276"
+		},
+		{
+			"date": "2/3/2021",
+			"price_usd": "1602.9",
+			"trading_volume": "1627312283"
+		},
+		{
+			"date": "3/3/2021",
+			"price_usd": "1656.94",
+			"trading_volume": "1676300215"
+		},
+		{
+			"date": "4/3/2021",
+			"price_usd": "1624.87",
+			"trading_volume": "1476463518"
+		},
+		{
+			"date": "5/3/2021",
+			"price_usd": "1548.96",
+			"trading_volume": "1355798089"
+		},
+		{
+			"date": "6/3/2021",
+			"price_usd": "1671.58",
+			"trading_volume": "1611851702"
+		},
+		{
+			"date": "7/3/2021",
+			"price_usd": "1734.16",
+			"trading_volume": "1414988218"
+		},
+		{
+			"date": "8/3/2021",
+			"price_usd": "1843.59",
+			"trading_volume": "1995142129"
+		},
+		{
+			"date": "9/3/2021",
+			"price_usd": "1870.77",
+			"trading_volume": "1570286249"
+		},
+		{
+			"date": "10/3/2021",
+			"price_usd": "1877.69",
+			"trading_volume": "1706230875"
+		},
+		{
+			"date": "11/3/2021",
+			"price_usd": "1846.7",
+			"trading_volume": "1627027458"
+		},
+		{
+			"date": "12/3/2021",
+			"price_usd": "1841.88",
+			"trading_volume": "1542873062"
+		},
+		{
+			"date": "13/3/2021",
+			"price_usd": "1944.3",
+			"trading_volume": "1718553132"
+		},
+		{
+			"date": "14/3/2021",
+			"price_usd": "1933.1",
+			"trading_volume": "1200354206"
+		},
+		{
+			"date": "15/3/2021",
+			"price_usd": "1891.76",
+			"trading_volume": "1842608873"
+		},
+		{
+			"date": "16/3/2021",
+			"price_usd": "1819.5",
+			"trading_volume": "1360127230"
+		},
+		{
+			"date": "17/3/2021",
+			"price_usd": "1838.88",
+			"trading_volume": "1177718487"
+		},
+		{
+			"date": "18/3/2021",
+			"price_usd": "1850",
+			"trading_volume": "1092346827"
+		},
+		{
+			"date": "19/3/2021",
+			"price_usd": "1840.61",
+			"trading_volume": "901801564.2"
+		},
+		{
+			"date": "20/3/2021",
+			"price_usd": "1868.83",
+			"trading_volume": "828404987.7"
+		},
+		{
+			"date": "21/3/2021",
+			"price_usd": "1817.16",
+			"trading_volume": "830951276.5"
+		},
+		{
+			"date": "22/3/2021",
+			"price_usd": "1807.51",
+			"trading_volume": "1019780399"
+		},
+		{
+			"date": "23/3/2021",
+			"price_usd": "1721.17",
+			"trading_volume": "975522491.1"
+		},
+		{
+			"date": "24/3/2021",
+			"price_usd": "1740.86",
+			"trading_volume": "1251031751"
+		},
+		{
+			"date": "25/3/2021",
+			"price_usd": "1622",
+			"trading_volume": "1115502880"
+		},
+		{
+			"date": "26/3/2021",
+			"price_usd": "1699.93",
+			"trading_volume": "844707873.9"
+		},
+		{
+			"date": "27/3/2021",
+			"price_usd": "1732.67",
+			"trading_volume": "753555521.6"
+		},
+		{
+			"date": "28/3/2021",
+			"price_usd": "1725.66",
+			"trading_volume": "592836644.6"
+		},
+		{
+			"date": "29/3/2021",
+			"price_usd": "1841",
+			"trading_volume": "1148231089"
+		},
+		{
+			"date": "30/3/2021",
+			"price_usd": "1859.13",
+			"trading_volume": "1039262033"
+		},
+		{
+			"date": "31/3/2021",
+			"price_usd": "1947.29",
+			"trading_volume": "1387448330"
+		},
+		{
+			"date": "1/4/2021",
+			"price_usd": "1984.77",
+			"trading_volume": "1438751531"
+		},
+		{
+			"date": "2/4/2021",
+			"price_usd": "2146",
+			"trading_volume": "1719752063"
+		},
+		{
+			"date": "3/4/2021",
+			"price_usd": "2138.12",
+			"trading_volume": "1601516391"
+		},
+		{
+			"date": "4/4/2021",
+			"price_usd": "2091.83",
+			"trading_volume": "1050448906"
+		},
+		{
+			"date": "5/4/2021",
+			"price_usd": "2130.64",
+			"trading_volume": "1419084946"
+		},
+		{
+			"date": "6/4/2021",
+			"price_usd": "2151",
+			"trading_volume": "1420490813"
+		},
+		{
+			"date": "7/4/2021",
+			"price_usd": "2129.01",
+			"trading_volume": "1798606574"
+		},
+		{
+			"date": "8/4/2021",
+			"price_usd": "2084.61",
+			"trading_volume": "1015796231"
+		},
+		{
+			"date": "9/4/2021",
+			"price_usd": "2100",
+			"trading_volume": "885134116"
+		},
+		{
+			"date": "10/4/2021",
+			"price_usd": "2200",
+			"trading_volume": "1405364882"
+		},
+		{
+			"date": "11/4/2021",
+			"price_usd": "2165.02",
+			"trading_volume": "839653140.9"
+		},
+		{
+			"date": "12/4/2021",
+			"price_usd": "2203.46",
+			"trading_volume": "1244982957"
+		},
+		{
+			"date": "13/4/2021",
+			"price_usd": "2318",
+			"trading_volume": "1745821661"
+		},
+		{
+			"date": "14/4/2021",
+			"price_usd": "2447.29",
+			"trading_volume": "2294753431"
+		},
+		{
+			"date": "15/4/2021",
+			"price_usd": "2543.47",
+			"trading_volume": "1680063464"
+		},
+		{
+			"date": "16/4/2021",
+			"price_usd": "2548.29",
+			"trading_volume": "2418566593"
+		},
+		{
+			"date": "17/4/2021",
+			"price_usd": "2495",
+			"trading_volume": "1504895145"
+		},
+		{
+			"date": "18/4/2021",
+			"price_usd": "2340",
+			"trading_volume": "3190809323"
+		},
+		{
+			"date": "19/4/2021",
+			"price_usd": "2300",
+			"trading_volume": "1800575928"
+		},
+		{
+			"date": "20/4/2021",
+			"price_usd": "2346.62",
+			"trading_volume": "2181209665"
+		},
+		{
+			"date": "21/4/2021",
+			"price_usd": "2469.54",
+			"trading_volume": "2771995884"
+		},
+		{
+			"date": "22/4/2021",
+			"price_usd": "2644.47",
+			"trading_volume": "5508778906"
+		},
+		{
+			"date": "23/4/2021",
+			"price_usd": "2442.89",
+			"trading_volume": "5719925452"
+		},
+		{
+			"date": "24/4/2021",
+			"price_usd": "2368.74",
+			"trading_volume": "2246912953"
+		},
+		{
+			"date": "25/4/2021",
+			"price_usd": "2356.64",
+			"trading_volume": "1948978895"
+		},
+		{
+			"date": "26/4/2021",
+			"price_usd": "2542.8",
+			"trading_volume": "2652330345"
+		},
+		{
+			"date": "27/4/2021",
+			"price_usd": "2680",
+			"trading_volume": "1995139024"
+		},
+		{
+			"date": "28/4/2021",
+			"price_usd": "2760",
+			"trading_volume": "2673547154"
+		},
+		{
+			"date": "29/4/2021",
+			"price_usd": "2798",
+			"trading_volume": "2366133509"
+		},
+		{
+			"date": "30/4/2021",
+			"price_usd": "2798.3",
+			"trading_volume": "1917297701"
+		},
+		{
+			"date": "1/5/2021",
+			"price_usd": "2954.28",
+			"trading_volume": "1979833188"
+		},
+		{
+			"date": "2/5/2021",
+			"price_usd": "2985",
+			"trading_volume": "1672310882"
+		},
+		{
+			"date": "3/5/2021",
+			"price_usd": "3454",
+			"trading_volume": "4243786480"
+		},
+		{
+			"date": "4/5/2021",
+			"price_usd": "3527",
+			"trading_volume": "6103102521"
+		},
+		{
+			"date": "5/5/2021",
+			"price_usd": "3549.34",
+			"trading_volume": "3955994777"
+		},
+		{
+			"date": "6/5/2021",
+			"price_usd": "3605.4",
+			"trading_volume": "3213427395"
+		},
+		{
+			"date": "7/5/2021",
+			"price_usd": "3587",
+			"trading_volume": "2641740668"
+		},
+		{
+			"date": "8/5/2021",
+			"price_usd": "3958.33",
+			"trading_volume": "4170897764"
+		},
+		{
+			"date": "9/5/2021",
+			"price_usd": "3983.65",
+			"trading_volume": "3885039043"
+		},
+		{
+			"date": "10/5/2021",
+			"price_usd": "4208",
+			"trading_volume": "6079977785"
+		},
+		{
+			"date": "11/5/2021",
+			"price_usd": "4180.22",
+			"trading_volume": "4350260232"
+		},
+		{
+			"date": "12/5/2021",
+			"price_usd": "4372.72",
+			"trading_volume": "6673102684"
+		},
+		{
+			"date": "13/5/2021",
+			"price_usd": "4034.77",
+			"trading_volume": "7846531159"
+		},
+		{
+			"date": "14/5/2021",
+			"price_usd": "4173.28",
+			"trading_volume": "4569415542"
+		},
+		{
+			"date": "15/5/2021",
+			"price_usd": "4134.05",
+			"trading_volume": "4030586493"
+		},
+		{
+			"date": "16/5/2021",
+			"price_usd": "3879",
+			"trading_volume": "4788918304"
+		},
+		{
+			"date": "17/5/2021",
+			"price_usd": "3587.06",
+			"trading_volume": "6401071581"
+		},
+		{
+			"date": "18/5/2021",
+			"price_usd": "3565.71",
+			"trading_volume": "4392873872"
+		},
+		{
+			"date": "19/5/2021",
+			"price_usd": "3441.73",
+			"trading_volume": "11641524167"
+		},
+		{
+			"date": "20/5/2021",
+			"price_usd": "2990.05",
+			"trading_volume": "7750201899"
+		},
+		{
+			"date": "21/5/2021",
+			"price_usd": "2938.54",
+			"trading_volume": "6898701129"
+		},
+		{
+			"date": "22/5/2021",
+			"price_usd": "2485",
+			"trading_volume": "3934313840"
+		},
+		{
+			"date": "23/5/2021",
+			"price_usd": "2381.57",
+			"trading_volume": "5907260140"
+		},
+		{
+			"date": "24/5/2021",
+			"price_usd": "2675",
+			"trading_volume": "5180244967"
+		},
+		{
+			"date": "25/5/2021",
+			"price_usd": "2750",
+			"trading_volume": "5442737549"
+		},
+		{
+			"date": "26/5/2021",
+			"price_usd": "2910",
+			"trading_volume": "4416389129"
+		},
+		{
+			"date": "27/5/2021",
+			"price_usd": "2889.74",
+			"trading_volume": "3033719144"
+		},
+		{
+			"date": "28/5/2021",
+			"price_usd": "2762.45",
+			"trading_volume": "3934662309"
+		},
+		{
+			"date": "29/5/2021",
+			"price_usd": "2574.27",
+			"trading_volume": "3288804155"
+		},
+		{
+			"date": "30/5/2021",
+			"price_usd": "2476.42",
+			"trading_volume": "2726606139"
+		},
+		{
+			"date": "31/5/2021",
+			"price_usd": "2720",
+			"trading_volume": "3277131772"
+		},
+		{
+			"date": "1/6/2021",
+			"price_usd": "2740",
+			"trading_volume": "3081355011"
+		},
+		{
+			"date": "2/6/2021",
+			"price_usd": "2802.99",
+			"trading_volume": "2616566302"
+		},
+		{
+			"date": "3/6/2021",
+			"price_usd": "2891.95",
+			"trading_volume": "2874856613"
+		},
+		{
+			"date": "4/6/2021",
+			"price_usd": "2860",
+			"trading_volume": "3175186750"
+		},
+		{
+			"date": "5/6/2021",
+			"price_usd": "2816.87",
+			"trading_volume": "2575726370"
+		},
+		{
+			"date": "6/6/2021",
+			"price_usd": "2745",
+			"trading_volume": "1814112038"
+		},
+		{
+			"date": "7/6/2021",
+			"price_usd": "2847.55",
+			"trading_volume": "3149245177"
+		},
+		{
+			"date": "8/6/2021",
+			"price_usd": "2620.99",
+			"trading_volume": "4201646663"
+		},
+		{
+			"date": "9/6/2021",
+			"price_usd": "2626.63",
+			"trading_volume": "3223323188"
+		},
+		{
+			"date": "10/6/2021",
+			"price_usd": "2624.46",
+			"trading_volume": "1874571746"
+		},
+		{
+			"date": "11/6/2021",
+			"price_usd": "2497.99",
+			"trading_volume": "1424975262"
+		},
+		{
+			"date": "12/6/2021",
+			"price_usd": "2454.53",
+			"trading_volume": "1807036944"
+		},
+		{
+			"date": "13/6/2021",
+			"price_usd": "2548.41",
+			"trading_volume": "1724097564"
+		},
+		{
+			"date": "14/6/2021",
+			"price_usd": "2609.17",
+			"trading_volume": "1730260219"
+		},
+		{
+			"date": "15/6/2021",
+			"price_usd": "2640",
+			"trading_volume": "1548303436"
+		},
+		{
+			"date": "16/6/2021",
+			"price_usd": "2556.19",
+			"trading_volume": "1533734359"
+		},
+		{
+			"date": "17/6/2021",
+			"price_usd": "2460.5",
+			"trading_volume": "1338389545"
+		},
+		{
+			"date": "18/6/2021",
+			"price_usd": "2378",
+			"trading_volume": "1758827533"
+		},
+		{
+			"date": "19/6/2021",
+			"price_usd": "2278.82",
+			"trading_volume": "1104923869"
+		},
+		{
+			"date": "20/6/2021",
+			"price_usd": "2280.01",
+			"trading_volume": "1599009751"
+		},
+		{
+			"date": "21/6/2021",
+			"price_usd": "2260.16",
+			"trading_volume": "3252129522"
+		},
+		{
+			"date": "22/6/2021",
+			"price_usd": "1998",
+			"trading_volume": "3158928001"
+		},
+		{
+			"date": "23/6/2021",
+			"price_usd": "2045",
+			"trading_volume": "1817518229"
+		},
+		{
+			"date": "24/6/2021",
+			"price_usd": "2036.61",
+			"trading_volume": "1377799766"
+		},
+		{
+			"date": "25/6/2021",
+			"price_usd": "2019.99",
+			"trading_volume": "1612556879"
+		},
+		{
+			"date": "26/6/2021",
+			"price_usd": "1852.8",
+			"trading_volume": "1478550577"
+		},
+		{
+			"date": "27/6/2021",
+			"price_usd": "1984.5",
+			"trading_volume": "1299521992"
+		},
+		{
+			"date": "28/6/2021",
+			"price_usd": "2145",
+			"trading_volume": "2138998048"
+		},
+		{
+			"date": "29/6/2021",
+			"price_usd": "2245",
+			"trading_volume": "1804733070"
+		},
+		{
+			"date": "30/6/2021",
+			"price_usd": "2287.78",
+			"trading_volume": "1973676681"
+		},
+		{
+			"date": "1/7/2021",
+			"price_usd": "2275.93",
+			"trading_volume": "1688043308"
+		},
+		{
+			"date": "2/7/2021",
+			"price_usd": "2160",
+			"trading_volume": "1397269246"
+		},
+		{
+			"date": "3/7/2021",
+			"price_usd": "2240",
+			"trading_volume": "1248888441"
+		},
+		{
+			"date": "4/7/2021",
+			"price_usd": "2389.93",
+			"trading_volume": "1365904900"
+		},
+		{
+			"date": "5/7/2021",
+			"price_usd": "2324.64",
+			"trading_volume": "1753862827"
+		},
+		{
+			"date": "6/7/2021",
+			"price_usd": "2350",
+			"trading_volume": "1803108194"
+		},
+		{
+			"date": "7/7/2021",
+			"price_usd": "2409",
+			"trading_volume": "1570553095"
+		},
+		{
+			"date": "8/7/2021",
+			"price_usd": "2325.6",
+			"trading_volume": "1926184139"
+		},
+		{
+			"date": "9/7/2021",
+			"price_usd": "2189.4",
+			"trading_volume": "1568646237"
+		},
+		{
+			"date": "10/7/2021",
+			"price_usd": "2194.82",
+			"trading_volume": "1058023795"
+		},
+		{
+			"date": "11/7/2021",
+			"price_usd": "2174",
+			"trading_volume": "727911535.3"
+		},
+		{
+			"date": "12/7/2021",
+			"price_usd": "2167.83",
+			"trading_volume": "1126108847"
+		},
+		{
+			"date": "13/7/2021",
+			"price_usd": "2047.35",
+			"trading_volume": "1287490852"
+		},
+		{
+			"date": "14/7/2021",
+			"price_usd": "2019.18",
+			"trading_volume": "1342931974"
+		},
+		{
+			"date": "15/7/2021",
+			"price_usd": "2042.88",
+			"trading_volume": "1251834410"
+		},
+		{
+			"date": "16/7/2021",
+			"price_usd": "1965",
+			"trading_volume": "1097832472"
+		},
+		{
+			"date": "17/7/2021",
+			"price_usd": "1919.19",
+			"trading_volume": "810628641.3"
+		},
+		{
+			"date": "18/7/2021",
+			"price_usd": "1993.79",
+			"trading_volume": "1038104998"
+		},
+		{
+			"date": "19/7/2021",
+			"price_usd": "1919",
+			"trading_volume": "1011627399"
+		},
+		{
+			"date": "20/7/2021",
+			"price_usd": "1841.34",
+			"trading_volume": "1386498470"
+		},
+		{
+			"date": "21/7/2021",
+			"price_usd": "2035.23",
+			"trading_volume": "2138345814"
+		},
+		{
+			"date": "22/7/2021",
+			"price_usd": "2046",
+			"trading_volume": "1536669129"
+		},
+		{
+			"date": "23/7/2021",
+			"price_usd": "2130.9",
+			"trading_volume": "1455496732"
+		},
+		{
+			"date": "24/7/2021",
+			"price_usd": "2199.5",
+			"trading_volume": "1360667032"
+		},
+		{
+			"date": "25/7/2021",
+			"price_usd": "2197.41",
+			"trading_volume": "1154562328"
+		},
+		{
+			"date": "26/7/2021",
+			"price_usd": "2433.65",
+			"trading_volume": "3222622416"
+		},
+		{
+			"date": "27/7/2021",
+			"price_usd": "2319.26",
+			"trading_volume": "2025582065"
+		},
+		{
+			"date": "28/7/2021",
+			"price_usd": "2345",
+			"trading_volume": "1649860557"
+		},
+		{
+			"date": "29/7/2021",
+			"price_usd": "2400",
+			"trading_volume": "1157988359"
+		},
+		{
+			"date": "30/7/2021",
+			"price_usd": "2471.7",
+			"trading_volume": "1824191452"
+		},
+		{
+			"date": "31/7/2021",
+			"price_usd": "2553.86",
+			"trading_volume": "1253810139"
+		},
+		{
+			"date": "1/8/2021",
+			"price_usd": "2697.61",
+			"trading_volume": "2217485597"
+		},
+		{
+			"date": "2/8/2021",
+			"price_usd": "2666",
+			"trading_volume": "1887684672"
+		},
+		{
+			"date": "3/8/2021",
+			"price_usd": "2632.44",
+			"trading_volume": "1986976146"
+		},
+		{
+			"date": "4/8/2021",
+			"price_usd": "2772.71",
+			"trading_volume": "2498364634"
+		},
+		{
+			"date": "5/8/2021",
+			"price_usd": "2843.98",
+			"trading_volume": "3553456267"
+		},
+		{
+			"date": "6/8/2021",
+			"price_usd": "2946.75",
+			"trading_volume": "2334160884"
+		},
+		{
+			"date": "7/8/2021",
+			"price_usd": "3171",
+			"trading_volume": "3673732670"
+		},
+		{
+			"date": "8/8/2021",
+			"price_usd": "3189.99",
+			"trading_volume": "2979960615"
+		},
+		{
+			"date": "9/8/2021",
+			"price_usd": "3186",
+			"trading_volume": "3453771928"
+		},
+		{
+			"date": "10/8/2021",
+			"price_usd": "3233",
+			"trading_volume": "2763516347"
+		},
+		{
+			"date": "11/8/2021",
+			"price_usd": "3274",
+			"trading_volume": "2351996142"
+		},
+		{
+			"date": "12/8/2021",
+			"price_usd": "3239",
+			"trading_volume": "2283938415"
+		},
+		{
+			"date": "13/8/2021",
+			"price_usd": "3327.83",
+			"trading_volume": "1867199039"
+		},
+		{
+			"date": "14/8/2021",
+			"price_usd": "3330.98",
+			"trading_volume": "1587713826"
+		},
+		{
+			"date": "15/8/2021",
+			"price_usd": "3320",
+			"trading_volume": "1813755248"
+		},
+		{
+			"date": "16/8/2021",
+			"price_usd": "3335",
+			"trading_volume": "2062860388"
+		},
+		{
+			"date": "17/8/2021",
+			"price_usd": "3290",
+			"trading_volume": "2535149205"
+		},
+		{
+			"date": "18/8/2021",
+			"price_usd": "3125.81",
+			"trading_volume": "1902429363"
+		},
+		{
+			"date": "19/8/2021",
+			"price_usd": "3188",
+			"trading_volume": "1931520694"
+		},
+		{
+			"date": "20/8/2021",
+			"price_usd": "3300",
+			"trading_volume": "1809283029"
+		},
+		{
+			"date": "21/8/2021",
+			"price_usd": "3309.16",
+			"trading_volume": "1375973641"
+		},
+		{
+			"date": "22/8/2021",
+			"price_usd": "3272",
+			"trading_volume": "1304347039"
+		},
+		{
+			"date": "23/8/2021",
+			"price_usd": "3377.89",
+			"trading_volume": "2000534992"
+		},
+		{
+			"date": "24/8/2021",
+			"price_usd": "3357.85",
+			"trading_volume": "1758604482"
+		},
+		{
+			"date": "25/8/2021",
+			"price_usd": "3248",
+			"trading_volume": "1534476278"
+		},
+		{
+			"date": "26/8/2021",
+			"price_usd": "3250",
+			"trading_volume": "1382397989"
+		},
+		{
+			"date": "27/8/2021",
+			"price_usd": "3280",
+			"trading_volume": "1434311977"
+		},
+		{
+			"date": "28/8/2021",
+			"price_usd": "3287",
+			"trading_volume": "850631439.1"
+		},
+		{
+			"date": "29/8/2021",
+			"price_usd": "3285",
+			"trading_volume": "1078681951"
+		},
+		{
+			"date": "30/8/2021",
+			"price_usd": "3347.95",
+			"trading_volume": "2027490192"
+		},
+		{
+			"date": "31/8/2021",
+			"price_usd": "3476",
+			"trading_volume": "2895209450"
+		},
+		{
+			"date": "1/9/2021",
+			"price_usd": "3842",
+			"trading_volume": "3038498668"
+		},
+		{
+			"date": "2/9/2021",
+			"price_usd": "3836.8",
+			"trading_volume": "1981758437"
+		},
+		{
+			"date": "3/9/2021",
+			"price_usd": "4027.88",
+			"trading_volume": "2557662974"
+		},
+		{
+			"date": "4/9/2021",
+			"price_usd": "3970",
+			"trading_volume": "1422981232"
+		},
+		{
+			"date": "5/9/2021",
+			"price_usd": "3980",
+			"trading_volume": "1432553302"
+		},
+		{
+			"date": "6/9/2021",
+			"price_usd": "3970",
+			"trading_volume": "1562560096"
+		},
+		{
+			"date": "7/9/2021",
+			"price_usd": "3947.15",
+			"trading_volume": "4298119218"
+		},
+		{
+			"date": "8/9/2021",
+			"price_usd": "3560",
+			"trading_volume": "2665272034"
+		},
+		{
+			"date": "9/9/2021",
+			"price_usd": "3567.06",
+			"trading_volume": "2194182935"
+		},
+		{
+			"date": "10/9/2021",
+			"price_usd": "3514.11",
+			"trading_volume": "2107283581"
+		},
+		{
+			"date": "11/9/2021",
+			"price_usd": "3348.37",
+			"trading_volume": "1355587141"
+		},
+		{
+			"date": "12/9/2021",
+			"price_usd": "3474.16",
+			"trading_volume": "1379322045"
+		},
+		{
+			"date": "13/9/2021",
+			"price_usd": "3430.3",
+			"trading_volume": "2103663103"
+		},
+		{
+			"date": "14/9/2021",
+			"price_usd": "3437.05",
+			"trading_volume": "1249733657"
+		},
+		{
+			"date": "15/9/2021",
+			"price_usd": "3616.16",
+			"trading_volume": "1486156274"
+		},
+		{
+			"date": "16/9/2021",
+			"price_usd": "3676.28",
+			"trading_volume": "1680487713"
+		},
+		{
+			"date": "17/9/2021",
+			"price_usd": "3594.17",
+			"trading_volume": "1383268102"
+		},
+		{
+			"date": "18/9/2021",
+			"price_usd": "3541.96",
+			"trading_volume": "1090387917"
+		},
+		{
+			"date": "19/9/2021",
+			"price_usd": "3456.53",
+			"trading_volume": "1052980780"
+		},
+		{
+			"date": "20/9/2021",
+			"price_usd": "3347.82",
+			"trading_volume": "2834781759"
+		},
+		{
+			"date": "21/9/2021",
+			"price_usd": "3105.83",
+			"trading_volume": "2827179157"
+		},
+		{
+			"date": "22/9/2021",
+			"price_usd": "3088.88",
+			"trading_volume": "1993084669"
+		},
+		{
+			"date": "23/9/2021",
+			"price_usd": "3174.5",
+			"trading_volume": "1428616218"
+		},
+		{
+			"date": "24/9/2021",
+			"price_usd": "3158.52",
+			"trading_volume": "2715718192"
+		},
+		{
+			"date": "25/9/2021",
+			"price_usd": "2967.52",
+			"trading_volume": "1428143403"
+		},
+		{
+			"date": "26/9/2021",
+			"price_usd": "3115.51",
+			"trading_volume": "2062409599"
+		},
+		{
+			"date": "27/9/2021",
+			"price_usd": "3164.94",
+			"trading_volume": "1564096695"
+		},
+		{
+			"date": "28/9/2021",
+			"price_usd": "2970.82",
+			"trading_volume": "1477983246"
+		},
+		{
+			"date": "29/9/2021",
+			"price_usd": "2950",
+			"trading_volume": "1180681056"
+		},
+		{
+			"date": "30/9/2021",
+			"price_usd": "3048.42",
+			"trading_volume": "1514341937"
+		},
+		{
+			"date": "1/10/2021",
+			"price_usd": "3330",
+			"trading_volume": "2063112281"
+		},
+		{
+			"date": "2/10/2021",
+			"price_usd": "3469",
+			"trading_volume": "1417055616"
+		},
+		{
+			"date": "3/10/2021",
+			"price_usd": "3488",
+			"trading_volume": "1231536168"
+		},
+		{
+			"date": "4/10/2021",
+			"price_usd": "3437.19",
+			"trading_volume": "1631562262"
+		},
+		{
+			"date": "5/10/2021",
+			"price_usd": "3545",
+			"trading_volume": "1355905890"
+		},
+		{
+			"date": "6/10/2021",
+			"price_usd": "3632.11",
+			"trading_volume": "2172519697"
+		},
+		{
+			"date": "7/10/2021",
+			"price_usd": "3653.98",
+			"trading_volume": "1736906584"
+		},
+		{
+			"date": "8/10/2021",
+			"price_usd": "3695",
+			"trading_volume": "1455713871"
+		},
+		{
+			"date": "9/10/2021",
+			"price_usd": "3635",
+			"trading_volume": "1299757023"
+		},
+		{
+			"date": "10/10/2021",
+			"price_usd": "3604",
+			"trading_volume": "2049128230"
+		},
+		{
+			"date": "11/10/2021",
+			"price_usd": "3623.8",
+			"trading_volume": "1743391084"
+		},
+		{
+			"date": "12/10/2021",
+			"price_usd": "3547.11",
+			"trading_volume": "1425455761"
+		},
+		{
+			"date": "13/10/2021",
+			"price_usd": "3613",
+			"trading_volume": "1376610270"
+		},
+		{
+			"date": "14/10/2021",
+			"price_usd": "3824",
+			"trading_volume": "1792792933"
+		},
+		{
+			"date": "15/10/2021",
+			"price_usd": "3907.77",
+			"trading_volume": "1924965954"
+		},
+		{
+			"date": "16/10/2021",
+			"price_usd": "3971",
+			"trading_volume": "1452752901"
+		},
+		{
+			"date": "17/10/2021",
+			"price_usd": "3919.19",
+			"trading_volume": "1406207659"
+		},
+		{
+			"date": "18/10/2021",
+			"price_usd": "3893.14",
+			"trading_volume": "1520728621"
+		},
+		{
+			"date": "19/10/2021",
+			"price_usd": "3886.89",
+			"trading_volume": "1300066270"
+		},
+		{
+			"date": "20/10/2021",
+			"price_usd": "4169",
+			"trading_volume": "2149449047"
+		},
+		{
+			"date": "21/10/2021",
+			"price_usd": "4375",
+			"trading_volume": "3335123441"
+		},
+		{
+			"date": "22/10/2021",
+			"price_usd": "4167.41",
+			"trading_volume": "1872218698"
+		},
+		{
+			"date": "23/10/2021",
+			"price_usd": "4172",
+			"trading_volume": "1323345506"
+		},
+		{
+			"date": "24/10/2021",
+			"price_usd": "4186.57",
+			"trading_volume": "1421627004"
+		},
+		{
+			"date": "25/10/2021",
+			"price_usd": "4236",
+			"trading_volume": "1445430079"
+		},
+		{
+			"date": "26/10/2021",
+			"price_usd": "4297",
+			"trading_volume": "1739912498"
+		},
+		{
+			"date": "27/10/2021",
+			"price_usd": "4307",
+			"trading_volume": "2874313313"
+		},
+		{
+			"date": "28/10/2021",
+			"price_usd": "4295",
+			"trading_volume": "2587268364"
+		},
+		{
+			"date": "29/10/2021",
+			"price_usd": "4460.47",
+			"trading_volume": "2440933126"
+		},
+		{
+			"date": "30/10/2021",
+			"price_usd": "4434.06",
+			"trading_volume": "1469664812"
+		},
+		{
+			"date": "31/10/2021",
+			"price_usd": "4399.14",
+			"trading_volume": "1764886608"
+		},
+		{
+			"date": "1/11/2021",
+			"price_usd": "4386.58",
+			"trading_volume": "1794319887"
+		},
+		{
+			"date": "2/11/2021",
+			"price_usd": "4599.6",
+			"trading_volume": "2083371520"
+		},
+		{
+			"date": "3/11/2021",
+			"price_usd": "4665.87",
+			"trading_volume": "2051737308"
+		},
+		{
+			"date": "4/11/2021",
+			"price_usd": "4606.65",
+			"trading_volume": "1663942874"
+		},
+		{
+			"date": "5/11/2021",
+			"price_usd": "4570.05",
+			"trading_volume": "1375503505"
+		},
+		{
+			"date": "6/11/2021",
+			"price_usd": "4530",
+			"trading_volume": "1429791261"
+		},
+		{
+			"date": "7/11/2021",
+			"price_usd": "4637.98",
+			"trading_volume": "1115635571"
+		},
+		{
+			"date": "8/11/2021",
+			"price_usd": "4822.97",
+			"trading_volume": "1850800840"
+		},
+		{
+			"date": "9/11/2021",
+			"price_usd": "4838.28",
+			"trading_volume": "1489567266"
+		},
+		{
+			"date": "10/11/2021",
+			"price_usd": "4868",
+			"trading_volume": "2600175501"
+		},
+		{
+			"date": "11/11/2021",
+			"price_usd": "4779",
+			"trading_volume": "1425610199"
+		},
+		{
+			"date": "12/11/2021",
+			"price_usd": "4809.71",
+			"trading_volume": "2146130117"
+		},
+		{
+			"date": "13/11/2021",
+			"price_usd": "4707.6",
+			"trading_volume": "1026142452"
+		},
+		{
+			"date": "14/11/2021",
+			"price_usd": "4696.05",
+			"trading_volume": "1126786539"
+		},
+		{
+			"date": "15/11/2021",
+			"price_usd": "4772.01",
+			"trading_volume": "1752738876"
+		},
+		{
+			"date": "16/11/2021",
+			"price_usd": "4563.77",
+			"trading_volume": "3163788841"
+		},
+		{
+			"date": "17/11/2021",
+			"price_usd": "4299.91",
+			"trading_volume": "1980248928"
+		},
+		{
+			"date": "18/11/2021",
+			"price_usd": "4344.81",
+			"trading_volume": "2387588165"
+		},
+		{
+			"date": "19/11/2021",
+			"price_usd": "4308.97",
+			"trading_volume": "1740904041"
+		},
+		{
+			"date": "20/11/2021",
+			"price_usd": "4435.88",
+			"trading_volume": "1577172914"
+		},
+		{
+			"date": "21/11/2021",
+			"price_usd": "4451",
+			"trading_volume": "1479842946"
+		},
+		{
+			"date": "22/11/2021",
+			"price_usd": "4320",
+			"trading_volume": "2167112892"
+		},
+		{
+			"date": "23/11/2021",
+			"price_usd": "4385.59",
+			"trading_volume": "2125825553"
+		},
+		{
+			"date": "24/11/2021",
+			"price_usd": "4373.94",
+			"trading_volume": "1913428105"
+		},
+		{
+			"date": "25/11/2021",
+			"price_usd": "4550",
+			"trading_volume": "1962939107"
+		},
+		{
+			"date": "26/11/2021",
+			"price_usd": "4551",
+			"trading_volume": "2994490664"
+		},
+		{
+			"date": "27/11/2021",
+			"price_usd": "4183.66",
+			"trading_volume": "1133169071"
+		},
+		{
+			"date": "28/11/2021",
+			"price_usd": "4298.51",
+			"trading_volume": "1421536000"
+		},
+		{
+			"date": "29/11/2021",
+			"price_usd": "4458.92",
+			"trading_volume": "1772611136"
+		},
+		{
+			"date": "30/11/2021",
+			"price_usd": "4753",
+			"trading_volume": "3391424543"
+		},
+		{
+			"date": "1/12/2021",
+			"price_usd": "4778.75",
+			"trading_volume": "2382156067"
+		},
+		{
+			"date": "2/12/2021",
+			"price_usd": "4634.83",
+			"trading_volume": "2047468327"
+		},
+		{
+			"date": "3/12/2021",
+			"price_usd": "4654.88",
+			"trading_volume": "2972156868"
+		},
+		{
+			"date": "4/12/2021",
+			"price_usd": "4238.59",
+			"trading_volume": "4370074805"
+		},
+		{
+			"date": "5/12/2021",
+			"price_usd": "4248.19",
+			"trading_volume": "2224220852"
+		},
+		{
+			"date": "6/12/2021",
+			"price_usd": "4376.15",
+			"trading_volume": "2991267299"
+		},
+		{
+			"date": "7/12/2021",
+			"price_usd": "4425",
+			"trading_volume": "1830621575"
+		},
+		{
+			"date": "8/12/2021",
+			"price_usd": "4450.49",
+			"trading_volume": "1868281438"
+		},
+		{
+			"date": "9/12/2021",
+			"price_usd": "4488",
+			"trading_volume": "1970732613"
+		},
+		{
+			"date": "10/12/2021",
+			"price_usd": "4231.08",
+			"trading_volume": "2287155262"
+		},
+		{
+			"date": "11/12/2021",
+			"price_usd": "4097.08",
+			"trading_volume": "1711893272"
+		},
+		{
+			"date": "12/12/2021",
+			"price_usd": "4173.63",
+			"trading_volume": "1061361793"
+		},
+		{
+			"date": "13/12/2021",
+			"price_usd": "4142.75",
+			"trading_volume": "2068534030"
+		},
+		{
+			"date": "14/12/2021",
+			"price_usd": "3882.74",
+			"trading_volume": "1499985095"
+		},
+		{
+			"date": "15/12/2021",
+			"price_usd": "4092.22",
+			"trading_volume": "2102151850"
+		},
+		{
+			"date": "16/12/2021",
+			"price_usd": "4113.43",
+			"trading_volume": "1489983162"
+		},
+		{
+			"date": "17/12/2021",
+			"price_usd": "3994.1",
+			"trading_volume": "1789265513"
+		},
+		{
+			"date": "18/12/2021",
+			"price_usd": "3996.93",
+			"trading_volume": "1326617546"
+		},
+		{
+			"date": "19/12/2021",
+			"price_usd": "4032.43",
+			"trading_volume": "1208752534"
+		},
+		{
+			"date": "20/12/2021",
+			"price_usd": "3983.37",
+			"trading_volume": "1416566981"
+		},
+		{
+			"date": "21/12/2021",
+			"price_usd": "4063",
+			"trading_volume": "1364232642"
+		},
+		{
+			"date": "22/12/2021",
+			"price_usd": "4074.87",
+			"trading_volume": "1215914917"
+		},
+		{
+			"date": "23/12/2021",
+			"price_usd": "4150",
+			"trading_volume": "1525274497"
+		},
+		{
+			"date": "24/12/2021",
+			"price_usd": "4134.84",
+			"trading_volume": "943327277.4"
+		},
+		{
+			"date": "25/12/2021",
+			"price_usd": "4137.91",
+			"trading_volume": "846912042.1"
+		},
+		{
+			"date": "26/12/2021",
+			"price_usd": "4105",
+			"trading_volume": "767315615.3"
+		},
+		{
+			"date": "27/12/2021",
+			"price_usd": "4127.46",
+			"trading_volume": "905588409.9"
+		},
+		{
+			"date": "28/12/2021",
+			"price_usd": "4037.23",
+			"trading_volume": "1393962042"
+		},
+		{
+			"date": "29/12/2021",
+			"price_usd": "3827.78",
+			"trading_volume": "1136202240"
+		},
+		{
+			"date": "30/12/2021",
+			"price_usd": "3769.1",
+			"trading_volume": "921537785.4"
+		},
+		{
+			"date": "31/12/2021",
+			"price_usd": "3815",
+			"trading_volume": "1001765030"
+		},
+		{
+			"date": "1/1/2022",
+			"price_usd": "3776.45",
+			"trading_volume": "574718328.5"
+		},
+		{
+			"date": "2/1/2022",
+			"price_usd": "3857.44",
+			"trading_volume": "585374957.7"
+		},
+		{
+			"date": "3/1/2022",
+			"price_usd": "3853.09",
+			"trading_volume": "892944105.6"
+		},
+		{
+			"date": "4/1/2022",
+			"price_usd": "3900.73",
+			"trading_volume": "1098182608"
+		},
+		{
+			"date": "5/1/2022",
+			"price_usd": "3848",
+			"trading_volume": "1464819255"
+		},
+		{
+			"date": "6/1/2022",
+			"price_usd": "3550.43",
+			"trading_volume": "1698727637"
+		},
+		{
+			"date": "7/1/2022",
+			"price_usd": "3416.76",
+			"trading_volume": "2149562773"
+		},
+		{
+			"date": "8/1/2022",
+			"price_usd": "3250",
+			"trading_volume": "1252795163"
+		},
+		{
+			"date": "9/1/2022",
+			"price_usd": "3211.72",
+			"trading_volume": "864505480.9"
+		},
+		{
+			"date": "10/1/2022",
+			"price_usd": "3185",
+			"trading_volume": "1616550523"
+		},
+		{
+			"date": "11/1/2022",
+			"price_usd": "3263.54",
+			"trading_volume": "1145852584"
+		},
+		{
+			"date": "12/1/2022",
+			"price_usd": "3411.43",
+			"trading_volume": "1226038697"
+		},
+		{
+			"date": "13/1/2022",
+			"price_usd": "3410",
+			"trading_volume": "1116293608"
+		},
+		{
+			"date": "14/1/2022",
+			"price_usd": "3342.79",
+			"trading_volume": "931347172.8"
+		},
+		{
+			"date": "15/1/2022",
+			"price_usd": "3371.64",
+			"trading_volume": "675484534.7"
+		},
+		{
+			"date": "16/1/2022",
+			"price_usd": "3393.6",
+			"trading_volume": "701885138.8"
+		},
+		{
+			"date": "17/1/2022",
+			"price_usd": "3357.57",
+			"trading_volume": "922568646.9"
+		},
+		{
+			"date": "18/1/2022",
+			"price_usd": "3243.87",
+			"trading_volume": "943140782.4"
+		},
+		{
+			"date": "19/1/2022",
+			"price_usd": "3174.87",
+			"trading_volume": "1035249881"
+		},
+		{
+			"date": "20/1/2022",
+			"price_usd": "3273.37",
+			"trading_volume": "1124982398"
+		},
+		{
+			"date": "21/1/2022",
+			"price_usd": "3034.12",
+			"trading_volume": "2828122723"
+		},
+		{
+			"date": "22/1/2022",
+			"price_usd": "2626",
+			"trading_volume": "2652383042"
+		},
+		{
+			"date": "23/1/2022",
+			"price_usd": "2556.78",
+			"trading_volume": "1431696376"
+		},
+		{
+			"date": "24/1/2022",
+			"price_usd": "2539.75",
+			"trading_volume": "2592832133"
+		},
+		{
+			"date": "25/1/2022",
+			"price_usd": "2506.55",
+			"trading_volume": "1237051148"
+		},
+		{
+			"date": "26/1/2022",
+			"price_usd": "2722",
+			"trading_volume": "2058599145"
+		},
+		{
+			"date": "27/1/2022",
+			"price_usd": "2521",
+			"trading_volume": "1448742950"
+		},
+		{
+			"date": "28/1/2022",
+			"price_usd": "2558.98",
+			"trading_volume": "1183543182"
+		},
+		{
+			"date": "29/1/2022",
+			"price_usd": "2636.66",
+			"trading_volume": "966725225.8"
+		},
+		{
+			"date": "30/1/2022",
+			"price_usd": "2640",
+			"trading_volume": "755039834.6"
+		},
+		{
+			"date": "31/1/2022",
+			"price_usd": "2706.77",
+			"trading_volume": "1154488528"
+		},
+		{
+			"date": "1/2/2022",
+			"price_usd": "2813",
+			"trading_volume": "1075341491"
+		},
+		{
+			"date": "2/2/2022",
+			"price_usd": "2810.88",
+			"trading_volume": "1215958780"
+		},
+		{
+			"date": "3/2/2022",
+			"price_usd": "2726.64",
+			"trading_volume": "1068724166"
+		},
+		{
+			"date": "4/2/2022",
+			"price_usd": "2995",
+			"trading_volume": "1889746044"
+		},
+		{
+			"date": "5/2/2022",
+			"price_usd": "3060.47",
+			"trading_volume": "1073972573"
+		},
+		{
+			"date": "6/2/2022",
+			"price_usd": "3074.56",
+			"trading_volume": "749957615"
+		},
+		{
+			"date": "7/2/2022",
+			"price_usd": "3186",
+			"trading_volume": "1410603198"
+		},
+		{
+			"date": "8/2/2022",
+			"price_usd": "3232.87",
+			"trading_volume": "1602652877"
+		},
+		{
+			"date": "9/2/2022",
+			"price_usd": "3269.7",
+			"trading_volume": "1171445664"
+		},
+		{
+			"date": "10/2/2022",
+			"price_usd": "3283.66",
+			"trading_volume": "1839815886"
+		},
+		{
+			"date": "11/2/2022",
+			"price_usd": "3138.62",
+			"trading_volume": "1404238409"
+		},
+		{
+			"date": "12/2/2022",
+			"price_usd": "2985.98",
+			"trading_volume": "981432045.7"
+		},
+		{
+			"date": "13/2/2022",
+			"price_usd": "2954.4",
+			"trading_volume": "705260941.5"
+		},
+		{
+			"date": "14/2/2022",
+			"price_usd": "2964.97",
+			"trading_volume": "1107566193"
+		},
+		{
+			"date": "15/2/2022",
+			"price_usd": "3196.19",
+			"trading_volume": "1381094746"
+		},
+		{
+			"date": "16/2/2022",
+			"price_usd": "3186.77",
+			"trading_volume": "999219896.2"
+		},
+		{
+			"date": "17/2/2022",
+			"price_usd": "3160",
+			"trading_volume": "1467352493"
+		},
+		{
+			"date": "18/2/2022",
+			"price_usd": "2943.97",
+			"trading_volume": "1428246803"
+		},
+		{
+			"date": "19/2/2022",
+			"price_usd": "2830.96",
+			"trading_volume": "812399991.6"
+		},
+		{
+			"date": "20/2/2022",
+			"price_usd": "2764.64",
+			"trading_volume": "1023095362"
+		},
+		{
+			"date": "21/2/2022",
+			"price_usd": "2759.51",
+			"trading_volume": "2030019705"
+		},
+		{
+			"date": "22/2/2022",
+			"price_usd": "2665.74",
+			"trading_volume": "1787436158"
+		},
+		{
+			"date": "23/2/2022",
+			"price_usd": "2753.55",
+			"trading_volume": "1347740672"
+		},
+		{
+			"date": "24/2/2022",
+			"price_usd": "2740",
+			"trading_volume": "3417715584"
+		},
+		{
+			"date": "25/2/2022",
+			"price_usd": "2834.97",
+			"trading_volume": "1818778015"
+		},
+		{
+			"date": "26/2/2022",
+			"price_usd": "2878",
+			"trading_volume": "1169315478"
+		},
+		{
+			"date": "27/2/2022",
+			"price_usd": "2836.33",
+			"trading_volume": "1757950721"
+		},
+		{
+			"date": "28/2/2022",
+			"price_usd": "2951.6",
+			"trading_volume": "2004492153"
+		},
+		{
+			"date": "1/3/2022",
+			"price_usd": "3037.94",
+			"trading_volume": "1983738648"
+		},
+		{
+			"date": "2/3/2022",
+			"price_usd": "3043.91",
+			"trading_volume": "1828572588"
+		},
+		{
+			"date": "3/3/2022",
+			"price_usd": "2970.97",
+			"trading_volume": "1282099960"
+		},
+		{
+			"date": "4/3/2022",
+			"price_usd": "2836.17",
+			"trading_volume": "1499282207"
+		},
+		{
+			"date": "5/3/2022",
+			"price_usd": "2685.12",
+			"trading_volume": "709708518.9"
+		},
+		{
+			"date": "6/3/2022",
+			"price_usd": "2676.29",
+			"trading_volume": "881200532.3"
+		},
+		{
+			"date": "7/3/2022",
+			"price_usd": "2649",
+			"trading_volume": "1574512872"
+		},
+		{
+			"date": "8/3/2022",
+			"price_usd": "2624",
+			"trading_volume": "1436450139"
+		},
+		{
+			"date": "9/3/2022",
+			"price_usd": "2775.85",
+			"trading_volume": "1524779168"
+		},
+		{
+			"date": "10/3/2022",
+			"price_usd": "2733.25",
+			"trading_volume": "1460402987"
+		},
+		{
+			"date": "11/3/2022",
+			"price_usd": "2676.78",
+			"trading_volume": "1281060914"
+		},
+		{
+			"date": "12/3/2022",
+			"price_usd": "2616.79",
+			"trading_volume": "567134036.9"
+		},
+		{
+			"date": "13/3/2022",
+			"price_usd": "2603.32",
+			"trading_volume": "811775081.6"
+		},
+		{
+			"date": "14/3/2022",
+			"price_usd": "2609.6",
+			"trading_volume": "991479973.1"
+		},
+		{
+			"date": "15/3/2022",
+			"price_usd": "2669",
+			"trading_volume": "1189436495"
+		},
+		{
+			"date": "16/3/2022",
+			"price_usd": "2788",
+			"trading_volume": "1792497068"
+		},
+		{
+			"date": "17/3/2022",
+			"price_usd": "2836",
+			"trading_volume": "1058301299"
+		},
+		{
+			"date": "18/3/2022",
+			"price_usd": "2984",
+			"trading_volume": "1590887966"
+		},
+		{
+			"date": "19/3/2022",
+			"price_usd": "2987.7",
+			"trading_volume": "961244629.5"
+		},
+		{
+			"date": "20/3/2022",
+			"price_usd": "2964.17",
+			"trading_volume": "1089196046"
+		},
+		{
+			"date": "21/3/2022",
+			"price_usd": "2960.57",
+			"trading_volume": "1305282354"
+		},
+		{
+			"date": "22/3/2022",
+			"price_usd": "3052.85",
+			"trading_volume": "1692559175"
+		},
+		{
+			"date": "23/3/2022",
+			"price_usd": "3045.2",
+			"trading_volume": "1350911495"
+		},
+		{
+			"date": "24/3/2022",
+			"price_usd": "3129.11",
+			"trading_volume": "1768485489"
+		},
+		{
+			"date": "25/3/2022",
+			"price_usd": "3193.28",
+			"trading_volume": "1532535178"
+		},
+		{
+			"date": "26/3/2022",
+			"price_usd": "3153.2",
+			"trading_volume": "646551585.7"
+		},
+		{
+			"date": "27/3/2022",
+			"price_usd": "3299.37",
+			"trading_volume": "1072163952"
+		},
+		{
+			"date": "28/3/2022",
+			"price_usd": "3431.15",
+			"trading_volume": "1766636914"
+		},
+		{
+			"date": "29/3/2022",
+			"price_usd": "3481.87",
+			"trading_volume": "1590016971"
+		},
+		{
+			"date": "30/3/2022",
+			"price_usd": "3446.9",
+			"trading_volume": "1206555999"
+		},
+		{
+			"date": "31/3/2022",
+			"price_usd": "3444.83",
+			"trading_volume": "1526047564"
+		},
+		{
+			"date": "1/4/2022",
+			"price_usd": "3481.29",
+			"trading_volume": "1780259683"
+		},
+		{
+			"date": "2/4/2022",
+			"price_usd": "3532.2",
+			"trading_volume": "1740311568"
+		},
+		{
+			"date": "3/4/2022",
+			"price_usd": "3580.34",
+			"trading_volume": "1334671717"
+		},
+		{
+			"date": "4/4/2022",
+			"price_usd": "3547",
+			"trading_volume": "1564866360"
+		},
+		{
+			"date": "5/4/2022",
+			"price_usd": "3555",
+			"trading_volume": "1383264216"
+		},
+		{
+			"date": "6/4/2022",
+			"price_usd": "3407.5",
+			"trading_volume": "2411228210"
+		},
+		{
+			"date": "7/4/2022",
+			"price_usd": "3268.98",
+			"trading_volume": "1470465125"
+		},
+		{
+			"date": "8/4/2022",
+			"price_usd": "3314.02",
+			"trading_volume": "1634901496"
+		},
+		{
+			"date": "9/4/2022",
+			"price_usd": "3268.4",
+			"trading_volume": "683630508.2"
+		},
+		{
+			"date": "10/4/2022",
+			"price_usd": "3307.22",
+			"trading_volume": "756032282.6"
+		},
+		{
+			"date": "11/4/2022",
+			"price_usd": "3213.63",
+			"trading_volume": "2127486126"
+		},
+		{
+			"date": "12/4/2022",
+			"price_usd": "3085",
+			"trading_volume": "1750871210"
+		},
+		{
+			"date": "13/4/2022",
+			"price_usd": "3128.97",
+			"trading_volume": "1285303925"
+		},
+		{
+			"date": "14/4/2022",
+			"price_usd": "3145",
+			"trading_volume": "1249759777"
+		},
+		{
+			"date": "15/4/2022",
+			"price_usd": "3060.92",
+			"trading_volume": "755644733.7"
+		},
+		{
+			"date": "16/4/2022",
+			"price_usd": "3086.1",
+			"trading_volume": "536234354.3"
+		},
+		{
+			"date": "17/4/2022",
+			"price_usd": "3083",
+			"trading_volume": "742151590.6"
+		},
+		{
+			"date": "18/4/2022",
+			"price_usd": "3069.6",
+			"trading_volume": "1508168473"
+		},
+		{
+			"date": "19/4/2022",
+			"price_usd": "3131",
+			"trading_volume": "1106468538"
+		},
+		{
+			"date": "20/4/2022",
+			"price_usd": "3166.5",
+			"trading_volume": "1285353922"
+		},
+		{
+			"date": "21/4/2022",
+			"price_usd": "3180",
+			"trading_volume": "1736496193"
+		},
+		{
+			"date": "22/4/2022",
+			"price_usd": "3034.32",
+			"trading_volume": "1350044345"
+		},
+		{
+			"date": "23/4/2022",
+			"price_usd": "2978.03",
+			"trading_volume": "554261385.9"
+		},
+		{
+			"date": "24/4/2022",
+			"price_usd": "2967.06",
+			"trading_volume": "643702920.9"
+		},
+		{
+			"date": "25/4/2022",
+			"price_usd": "3025.65",
+			"trading_volume": "1789151246"
+		},
+		{
+			"date": "26/4/2022",
+			"price_usd": "3039.54",
+			"trading_volume": "1544470478"
+		},
+		{
+			"date": "27/4/2022",
+			"price_usd": "2919.87",
+			"trading_volume": "1401317316"
+		},
+		{
+			"date": "28/4/2022",
+			"price_usd": "2980",
+			"trading_volume": "1567476628"
+		},
+		{
+			"date": "29/4/2022",
+			"price_usd": "2946.46",
+			"trading_volume": "1503869186"
+		},
+		{
+			"date": "30/4/2022",
+			"price_usd": "2841.63",
+			"trading_volume": "1028113962"
+		},
+		{
+			"date": "1/5/2022",
+			"price_usd": "2849.9",
+			"trading_volume": "1230927404"
+		},
+		{
+			"date": "2/5/2022",
+			"price_usd": "2894.22",
+			"trading_volume": "1476062750"
+		},
+		{
+			"date": "3/5/2022",
+			"price_usd": "2861.47",
+			"trading_volume": "1046307601"
+		},
+		{
+			"date": "4/5/2022",
+			"price_usd": "2965.85",
+			"trading_volume": "1572901182"
+		},
+		{
+			"date": "5/5/2022",
+			"price_usd": "2954.65",
+			"trading_volume": "2055752498"
+		},
+		{
+			"date": "6/5/2022",
+			"price_usd": "2758.18",
+			"trading_volume": "1918267933"
+		},
+		{
+			"date": "7/5/2022",
+			"price_usd": "2704.36",
+			"trading_volume": "987464053.4"
+		},
+		{
+			"date": "8/5/2022",
+			"price_usd": "2642",
+			"trading_volume": "1930282595"
+		},
+		{
+			"date": "9/5/2022",
+			"price_usd": "2530.78",
+			"trading_volume": "3725676633"
+		},
+		{
+			"date": "10/5/2022",
+			"price_usd": "2457.34",
+			"trading_volume": "3650912006"
+		},
+		{
+			"date": "11/5/2022",
+			"price_usd": "2451.37",
+			"trading_volume": "4605757120"
+		},
+		{
+			"date": "12/5/2022",
+			"price_usd": "2195",
+			"trading_volume": "4485518776"
+		},
+		{
+			"date": "13/5/2022",
+			"price_usd": "2147.54",
+			"trading_volume": "2355144482"
+		},
+		{
+			"date": "14/5/2022",
+			"price_usd": "2070.06",
+			"trading_volume": "1136170836"
+		},
+		{
+			"date": "15/5/2022",
+			"price_usd": "2167",
+			"trading_volume": "1067795596"
+		},
+		{
+			"date": "16/5/2022",
+			"price_usd": "2145.29",
+			"trading_volume": "1672324752"
+		},
+		{
+			"date": "17/5/2022",
+			"price_usd": "2122.42",
+			"trading_volume": "1175068276"
+		},
+		{
+			"date": "18/5/2022",
+			"price_usd": "2110.72",
+			"trading_volume": "1262292139"
+		},
+		{
+			"date": "19/5/2022",
+			"price_usd": "2040.39",
+			"trading_volume": "1461787984"
+		},
+		{
+			"date": "20/5/2022",
+			"price_usd": "2064",
+			"trading_volume": "1151839845"
+		},
+		{
+			"date": "21/5/2022",
+			"price_usd": "1990.86",
+			"trading_volume": "470714672.6"
+		},
+		{
+			"date": "22/5/2022",
+			"price_usd": "2056.41",
+			"trading_volume": "715445185.6"
+		},
+		{
+			"date": "23/5/2022",
+			"price_usd": "2088.5",
+			"trading_volume": "1296599784"
+		},
+		{
+			"date": "24/5/2022",
+			"price_usd": "1993.83",
+			"trading_volume": "1047864200"
+		},
+		{
+			"date": "25/5/2022",
+			"price_usd": "2022.34",
+			"trading_volume": "1034922798"
+		},
+		{
+			"date": "26/5/2022",
+			"price_usd": "1966.01",
+			"trading_volume": "2157585474"
+		},
+		{
+			"date": "27/5/2022",
+			"price_usd": "1822.26",
+			"trading_volume": "2284866824"
+		},
+		{
+			"date": "28/5/2022",
+			"price_usd": "1808.98",
+			"trading_volume": "988074924.6"
+		},
+		{
+			"date": "29/5/2022",
+			"price_usd": "1827.4",
+			"trading_volume": "776046677.1"
+		},
+		{
+			"date": "30/5/2022",
+			"price_usd": "2013",
+			"trading_volume": "1557925971"
+		},
+		{
+			"date": "31/5/2022",
+			"price_usd": "2016.45",
+			"trading_volume": "1477853074"
+		},
+		{
+			"date": "1/6/2022",
+			"price_usd": "1972.58",
+			"trading_volume": "1954005475"
+		},
+		{
+			"date": "2/6/2022",
+			"price_usd": "1853.05",
+			"trading_volume": "1434781730"
+		},
+		{
+			"date": "3/6/2022",
+			"price_usd": "1843.91",
+			"trading_volume": "1319239612"
+		},
+		{
+			"date": "4/6/2022",
+			"price_usd": "1816",
+			"trading_volume": "689062743"
+		},
+		{
+			"date": "5/6/2022",
+			"price_usd": "1830.17",
+			"trading_volume": "670583717"
+		},
+		{
+			"date": "6/6/2022",
+			"price_usd": "1920",
+			"trading_volume": "1509754496"
+		},
+		{
+			"date": "7/6/2022",
+			"price_usd": "1874.98",
+			"trading_volume": "2491786695"
+		},
+		{
+			"date": "8/6/2022",
+			"price_usd": "1838.77",
+			"trading_volume": "1696874614"
+		},
+		{
+			"date": "9/6/2022",
+			"price_usd": "1833",
+			"trading_volume": "963245550.8"
+		},
+		{
+			"date": "10/6/2022",
+			"price_usd": "1804.32",
+			"trading_volume": "1648304410"
+		},
+		{
+			"date": "11/6/2022",
+			"price_usd": "1682.21",
+			"trading_volume": "1914818054"
+		},
+		{
+			"date": "12/6/2022",
+			"price_usd": "1547",
+			"trading_volume": "2311178755"
+		},
+		{
+			"date": "13/6/2022",
+			"price_usd": "1455",
+			"trading_volume": "4611744121"
+		},
+		{
+			"date": "14/6/2022",
+			"price_usd": "1268.45",
+			"trading_volume": "3217818700"
+		},
+		{
+			"date": "15/6/2022",
+			"price_usd": "1250",
+			"trading_volume": "3493040697"
+		},
+		{
+			"date": "16/6/2022",
+			"price_usd": "1257.85",
+			"trading_volume": "1649596820"
+		},
+		{
+			"date": "17/6/2022",
+			"price_usd": "1118",
+			"trading_volume": "1329091115"
+		},
+		{
+			"date": "18/6/2022",
+			"price_usd": "1097.58",
+			"trading_volume": "2263399397"
+		},
+		{
+			"date": "19/6/2022",
+			"price_usd": "1158.62",
+			"trading_volume": "2092850318"
+		},
+		{
+			"date": "20/6/2022",
+			"price_usd": "1170",
+			"trading_volume": "1910020863"
+		},
+		{
+			"date": "21/6/2022",
+			"price_usd": "1194",
+			"trading_volume": "1500605190"
+		},
+		{
+			"date": "22/6/2022",
+			"price_usd": "1127.33",
+			"trading_volume": "1420433702"
+		},
+		{
+			"date": "23/6/2022",
+			"price_usd": "1155",
+			"trading_volume": "1415452039"
+		},
+		{
+			"date": "24/6/2022",
+			"price_usd": "1245.43",
+			"trading_volume": "1589113478"
+		},
+		{
+			"date": "25/6/2022",
+			"price_usd": "1256.77",
+			"trading_volume": "1048516642"
+		},
+		{
+			"date": "26/6/2022",
+			"price_usd": "1280",
+			"trading_volume": "1094067725"
+		},
+		{
+			"date": "27/6/2022",
+			"price_usd": "1238.93",
+			"trading_volume": "1047407118"
+		},
+		{
+			"date": "28/6/2022",
+			"price_usd": "1237.99",
+			"trading_volume": "1314982778"
+		},
+		{
+			"date": "29/6/2022",
+			"price_usd": "1156.8",
+			"trading_volume": "1449586743"
+		},
+		{
+			"date": "30/6/2022",
+			"price_usd": "1106.62",
+			"trading_volume": "1481000139"
+		},
+		{
+			"date": "1/7/2022",
+			"price_usd": "1117",
+			"trading_volume": "1669000121"
+		},
+		{
+			"date": "2/7/2022",
+			"price_usd": "1078.88",
+			"trading_volume": "752813687"
+		},
+		{
+			"date": "3/7/2022",
+			"price_usd": "1088.34",
+			"trading_volume": "686056543.2"
+		},
+		{
+			"date": "4/7/2022",
+			"price_usd": "1160.9",
+			"trading_volume": "1266934953"
+		},
+		{
+			"date": "5/7/2022",
+			"price_usd": "1174.9",
+			"trading_volume": "1578654374"
+		},
+		{
+			"date": "6/7/2022",
+			"price_usd": "1205",
+			"trading_volume": "1388074910"
+		},
+		{
+			"date": "7/7/2022",
+			"price_usd": "1254.29",
+			"trading_volume": "1208160386"
+		},
+		{
+			"date": "8/7/2022",
+			"price_usd": "1276.46",
+			"trading_volume": "1466331924"
+		},
+		{
+			"date": "9/7/2022",
+			"price_usd": "1235.4",
+			"trading_volume": "702039918.5"
+		},
+		{
+			"date": "10/7/2022",
+			"price_usd": "1219.95",
+			"trading_volume": "1200593502"
+		},
+		{
+			"date": "11/7/2022",
+			"price_usd": "1171.29",
+			"trading_volume": "1370709631"
+		},
+		{
+			"date": "12/7/2022",
+			"price_usd": "1098.26",
+			"trading_volume": "1347752238"
+		},
+		{
+			"date": "13/7/2022",
+			"price_usd": "1119.18",
+			"trading_volume": "2158672348"
+		},
+		{
+			"date": "14/7/2022",
+			"price_usd": "1214.65",
+			"trading_volume": "1816929083"
+		},
+		{
+			"date": "15/7/2022",
+			"price_usd": "1287.82",
+			"trading_volume": "1794058729"
+		},
+		{
+			"date": "16/7/2022",
+			"price_usd": "1422.91",
+			"trading_volume": "1936527899"
+		},
+		{
+			"date": "17/7/2022",
+			"price_usd": "1387",
+			"trading_volume": "1687064378"
+		},
+		{
+			"date": "18/7/2022",
+			"price_usd": "1597.47",
+			"trading_volume": "2980357375"
+		},
+		{
+			"date": "19/7/2022",
+			"price_usd": "1631",
+			"trading_volume": "168384748.4"
+                }
+	]
+}
