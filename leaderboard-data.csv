@@ -1,26 +1,26 @@
 Rank,Name,Price,Change,Circulating Supply,Max Supply, Market Cap
-1,"Bitcoin <span class="lb-sym">BTC</span>","$22,760.30",<a style='color: red'><i class='fa fa-caret-down'></i>-0.52%</a> &nbsp;,19.1M,21.0M,434.8B
-2,"Ethereum <span class="lb-sym">ETH</span>","$1,602.50",<a style='color: green'><i class='fa fa-caret-up'></i>1.74%,121.7M,N/A,195.0B
-3,"Tether <span class="lb-sym">USDT</span>",$1.000586820,<a style='color: gray'>= 0%</a> &nbsp;,65.8B,N/A,65.9B
-4,"USD Coin <span class="lb-sym">USDC</span>",$1.000926080,<a style='color: green'><i class='fa fa-caret-up'></i>0.03%</a> &nbsp;,55.1B,55.1B,55.1B
-5,"Binance Coin <span class="lb-sym">BNB</span>",$263.32,<a style='color: red'><i class='fa fa-caret-down'></i>-1.39%</a> &nbsp;,163.3M,163.3M,43.0B
-6,"Binance USD <span class="lb-sym">BUSD</span>",$1.000922240,<a style='color: green'><i class='fa fa-caret-up'></i>0.05%</a> &nbsp;,17.9B,17.9B,17.9B
-7,"XRP <span class="lb-sym">XRP</span>",$0.36,<a style='color: green'><i class='fa fa-caret-up'></i>4.61%</a> &nbsp;,48.3B,100.0B,17.5B
-8,"Cardano <span class="lb-sym">ADA</span>",$0.52,<a style='color: green'><i class='fa fa-caret-up'></i>0.36%</a> &nbsp;,33.8B,45.0B,17.5B
-9,"Solana <span class="lb-sym">SOL</span>",$41.00,<a style='color: red'><i class='fa fa-caret-down'></i>-1.95%</a> &nbsp;,345.8M,508.2M,14.2B
-10,"Dogecoin <span class="lb-sym">DOGE</span>",$0.068679986,<a style='color: red'><i class='fa fa-caret-down'></i>-0.75%</a> &nbsp;,132.7B,N/A,9.1B
-11,"Polkadot <span class="lb-sym">DOT</span>",$7.48,<a style='color: green'><i class='fa fa-caret-up'></i>0.47%</a> &nbsp;,1.1B,1.2B,8.5B
-12,"Polygon <span class="lb-sym">MATIC</span>",$0.87,<a style='color: red'><i class='fa fa-caret-down'></i>-0.15%</a> &nbsp;,8.0B,N/A,7.0B
-13,"Dai <span class="lb-sym">DAI</span>",$1.000678920,<a style='color: red'><i class='fa fa-caret-down'></i>-0.03%</a> &nbsp;,6.9B,6.9B,6.9B
-14,"Avalanche <span class="lb-sym">AVAX</span>",$24.06,<a style='color: red'><i class='fa fa-caret-down'></i>-1.23%</a> &nbsp;,283.9M,408.0M,6.8B
-15,"Liquid Staked Ether <span class="lb-sym">STETH</span>","$1,571.65",<a style='color: green'><i class='fa fa-caret-up'></i>1.7%</a> &nbsp;,4.3M,4.3M,6.7B
-16,"Shiba Inu <span class="lb-sym">SHIB</span>",$0.00001179740,<a style='color: red'><i class='fa fa-caret-down'></i>-1.56%</a> &nbsp;,558107.0B,999991.0B,6.6B
-17,"TRON <span class="lb-sym">TRX</span>",$0.067244401,<a style='color: green'><i class='fa fa-caret-up'></i>0.21%</a> &nbsp;,92.4B,101.9B,6.2B
-18,"HEX <span class="lb-sym">HEX</span>",$0.042154627,<a style='color: red'><i class='fa fa-caret-down'></i>-0.18%</a> &nbsp;,136.6B,642.5B,5.8B
-19,"Wrapped Bitcoin <span class="lb-sym">WBTC</span>","$22,760.80",<a style='color: red'><i class='fa fa-caret-down'></i>-0.25%</a> &nbsp;,236.9K,236.9K,5.4B
-20,"UNUS SED LEO <span class="lb-sym">LEO</span>",$5.22,<a style='color: red'><i class='fa fa-caret-down'></i>0.06%</a> &nbsp;,934.8M,985.2M,4.9B
-21,"FTX Token <span class="lb-sym">FTXTOKEN</span>",$29.12,<a style='color: red'><i class='fa fa-caret-down'></i>-1.06%</a> &nbsp;,161.6M,330.9M,4.7B
-22,"Litecoin <span class="lb-sym">LTC</span>",$58.10,<a style='color: green'><i class='fa fa-caret-up'></i>1.86%</a> &nbsp;,70.8M,84.0M,4.1B
-23,"OKEx Utility Token <span class="lb-sym">OKB</span>",$15.36,<a style='color: red'><i class='fa fa-caret-down'></i>-1.12%</a> &nbsp;,256.4M,300.0M,3.9B
-24,"Ethereum Classic <span class="lb-sym">ETC</span>",$26.20,<a style='color: red'><i class='fa fa-caret-down'></i>-5.69%</a> &nbsp;,136.0M,210.7M,3.6B
-25,"ChainLink <span class="lb-sym">LINK</span>",$7.05,<a style='color: green'><i class='fa fa-caret-up'></i>1.18%</a> &nbsp;,468.6M,1.0B,3.3B
+1,Bitcoin <span class='lb-sym'>BTC</span>,$22,760.30,<a style='color: red'><i class='fa fa-caret-down'></i>-0.52%</a> &nbsp;,19.1M,21.0M,434.8B
+2,Ethereum <span class='lb-sym'>ETH</span>,$1,602.50,<a style='color: green'><i class='fa fa-caret-up'></i>1.74%,121.7M,N/A,195.0B
+3,Tether <span class='lb-sym'>USDT</span>,$1.000586820,<a style='color: gray'>= 0%</a> &nbsp;,65.8B,N/A,65.9B
+4,USD Coin <span class='lb-sym'>USDC</span>,$1.000926080,<a style='color: green'><i class='fa fa-caret-up'></i>0.03%</a> &nbsp;,55.1B,55.1B,55.1B
+5,Binance Coin <span class='lb-sym'>BNB</span>,$263.32,<a style='color: red'><i class='fa fa-caret-down'></i>-1.39%</a> &nbsp;,163.3M,163.3M,43.0B
+6,Binance USD <span class='lb-sym'>BUSD</span>,$1.000922240,<a style='color: green'><i class='fa fa-caret-up'></i>0.05%</a> &nbsp;,17.9B,17.9B,17.9B
+7,XRP <span class='lb-sym'>XRP</span>,$0.36,<a style='color: green'><i class='fa fa-caret-up'></i>4.61%</a> &nbsp;,48.3B,100.0B,17.5B
+8,Cardano <span class='lb-sym'>ADA</span>,$0.52,<a style='color: green'><i class='fa fa-caret-up'></i>0.36%</a> &nbsp;,33.8B,45.0B,17.5B
+9,Solana <span class='lb-sym'>SOL</span>,$41.00,<a style='color: red'><i class='fa fa-caret-down'></i>-1.95%</a> &nbsp;,345.8M,508.2M,14.2B
+10,Dogecoin <span class='lb-sym'>DOGE</span>,$0.068679986,<a style='color: red'><i class='fa fa-caret-down'></i>-0.75%</a> &nbsp;,132.7B,N/A,9.1B
+11,Polkadot <span class='lb-sym'>DOT</span>,$7.48,<a style='color: green'><i class='fa fa-caret-up'></i>0.47%</a> &nbsp;,1.1B,1.2B,8.5B
+12,Polygon <span class='lb-sym'>MATIC</span>,$0.87,<a style='color: red'><i class='fa fa-caret-down'></i>-0.15%</a> &nbsp;,8.0B,N/A,7.0B
+13,Dai <span class='lb-sym'>DAI</span>,$1.000678920,<a style='color: red'><i class='fa fa-caret-down'></i>-0.03%</a> &nbsp;,6.9B,6.9B,6.9B
+14,Avalanche <span class='lb-sym'>AVAX</span>,$24.06,<a style='color: red'><i class='fa fa-caret-down'></i>-1.23%</a> &nbsp;,283.9M,408.0M,6.8B
+15,Liquid Staked Ether <span class='lb-sym'>STETH</span>,$1,571.65,<a style='color: green'><i class='fa fa-caret-up'></i>1.7%</a> &nbsp;,4.3M,4.3M,6.7B
+16,Shiba Inu <span class='lb-sym'>SHIB</span>,$0.00001179740,<a style='color: red'><i class='fa fa-caret-down'></i>-1.56%</a> &nbsp;,558107.0B,999991.0B,6.6B
+17,TRON <span class='lb-sym'>TRX</span>,$0.067244401,<a style='color: green'><i class='fa fa-caret-up'></i>0.21%</a> &nbsp;,92.4B,101.9B,6.2B
+18,HEX <span class='lb-sym'>HEX</span>,$0.042154627,<a style='color: red'><i class='fa fa-caret-down'></i>-0.18%</a> &nbsp;,136.6B,642.5B,5.8B
+19,Wrapped Bitcoin <span class='lb-sym'>WBTC</span>,$22,760.80,<a style='color: red'><i class='fa fa-caret-down'></i>-0.25%</a> &nbsp;,236.9K,236.9K,5.4B
+20,UNUS SED LEO <span class='lb-sym'>LEO</span>,$5.22,<a style='color: red'><i class='fa fa-caret-down'></i>0.06%</a> &nbsp;,934.8M,985.2M,4.9B
+21,FTX Token <span class='lb-sym'>FTXTOKEN</span>,$29.12,<a style='color: red'><i class='fa fa-caret-down'></i>-1.06%</a> &nbsp;,161.6M,330.9M,4.7B
+22,Litecoin <span class='lb-sym'>LTC</span>,$58.10,<a style='color: green'><i class='fa fa-caret-up'></i>1.86%</a> &nbsp;,70.8M,84.0M,4.1B
+23,OKEx Utility Token <span class='lb-sym'>OKB</span>,$15.36,<a style='color: red'><i class='fa fa-caret-down'></i>-1.12%</a> &nbsp;,256.4M,300.0M,3.9B
+24,Ethereum Classic <span class='lb-sym'>ETC</span>,$26.20,<a style='color: red'><i class='fa fa-caret-down'></i>-5.69%</a> &nbsp;,136.0M,210.7M,3.6B
+25,ChainLink <span class='lb-sym'>LINK</span>,$7.05,<a style='color: green'><i class='fa fa-caret-up'></i>1.18%</a> &nbsp;,468.6M,1.0B,3.3B
