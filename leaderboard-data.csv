@@ -1,4 +1,4 @@
-rank,name,price,change,circulating_supply,max_supply,market_cap
+Rank,Name,Price,Change,Circulating Suply,Max Supply, Market Cap
 1,"Bitcoin <span class=""lb-sym"">BTC</span>","$22,760.30",<a style='color: red'><i class='fa fa-caret-down'></i>-0.52%</a> &nbsp;,19.1M,21.0M,434.8B
 2,"Ethereum  <span class=""lb-sym"">ETH</span>","$1,602.50",<a style='color: green'><i class='fa fa-caret-up'></i>1.74%,121.7M,N/A,195.0B
 3,"Tether  <span class=""lb-sym"">USDT</span>",$1.000586820,<a style='color: gray'>= 0%</a> &nbsp;,65.8B,N/A,65.9B
